@@ -7,3 +7,5 @@ To install run:
 <pre>pip install git+https://github.com/zewemli/seamr.git</pre>
 
 SEAMR requires python 3.6.
+
+More documentation coming soon...
