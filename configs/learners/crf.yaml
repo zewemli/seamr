@@ -1,0 +1,10 @@
+classifier:
+    seamr.learn.seq.CRFClassifier:
+        key: "crf"
+        seqlen: 30
+        seqstep: 10
+        crf_params:
+            c1: 1.0
+            c2: 0.001
+            max_iterations: 100
+            'feature.possible_transitions': true

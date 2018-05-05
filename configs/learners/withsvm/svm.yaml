@@ -1,0 +1,8 @@
+classifier:
+    seamr.learn.keyed.Classifier:
+        key: "svm"
+        model:
+            seamr.learn.svm.SVMSubset:
+                n_samples: 10000
+                svmOptions:
+                    probability: true

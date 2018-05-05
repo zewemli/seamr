@@ -1,0 +1,11 @@
+classifier:
+    seamr.learn.smartdt.SmartDT:
+        key: 'dt-svm'
+        sample_rate: 1
+        parallelize: -1
+        dt:
+            sklearn.tree.DecisionTreeClassifier:
+                min_samples_leaf: 100
+        leaf:
+            sklearn.svm.SVC:
+                probability: true

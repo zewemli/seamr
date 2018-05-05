@@ -1,0 +1,11 @@
+classifier:
+    seamr.learn.smartdt.SmartDT:
+        key: 'dt-nb'
+        sample_rate: 1
+        parallelize: -1
+        dt:
+            sklearn.tree.DecisionTreeClassifier:
+                min_samples_leaf: 200
+        leaf:
+            sklearn.naive_bayes.GaussianNB:
+                priors: null

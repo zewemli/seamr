@@ -1,0 +1,6 @@
+features:
+    seamr.features.ace.ACEFeatures:
+        feats:
+            seamr.features.casas.CASASOneHotFeatures:
+                qlen: 30
+                sensors: null

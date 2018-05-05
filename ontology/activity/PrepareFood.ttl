@@ -1,0 +1,11 @@
+@base <http://serc.wsu.edu/owl/activity/PrepareFood.ttl> .
+@prefix activity: <http://serc.wsu.edu/owl/activity.owl#> .
+@prefix cose: <http://serc.wsu.edu/owl/cose.owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<#start>
+    a cose:ActivityComponent ;
+    activity:occursIn cose:Kitchen ;
+    activity:involvesObject cose:FoodIngredientOnly, cose:RawFood, cose:FoodVessel ;
+    activity:involvesObject cose:Sink, cose:MeasuringDevice, cose:KitchenApplience, cose:CounterTop .

@@ -1,0 +1,4 @@
+features:
+    seamr.features.casas.CASASMiFeatures:
+        qlen: 30
+        sensors: null

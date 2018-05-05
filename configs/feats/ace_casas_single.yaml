@@ -1,0 +1,9 @@
+features:
+    seamr.features.ace.ACEFeatures:
+        feats:
+            seamr.features.casas.CASASFeatures:
+                qlen: 30
+                sensors: null
+        groupby:
+            seamr.features.semantic.SingleEnvFeatures:
+                withTimes: false

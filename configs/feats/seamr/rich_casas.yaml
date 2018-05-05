@@ -1,0 +1,6 @@
+features:
+    seamr.features.rich.RichFeatures:
+        feats:
+            seamr.features.casas.CASASFeatures:
+                qlen: 30
+                sensors: null

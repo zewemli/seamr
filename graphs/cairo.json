@@ -1,0 +1,2982 @@
+{
+    "edges": [
+        [
+            "InteriorDoor-1",
+            "OfficeChair-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Desk-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "DogBed-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "DoubleBed-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Nightstand-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Nightstand-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "SingleBed-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Nightstand-3"
+        ],
+        [
+            "InteriorDoor-1",
+            "Bathtub-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m007"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m006"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m005"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m004"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m003"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m002"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m001"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_t001"
+        ],
+        [
+            "InteriorDoor-1",
+            "cairo_m009"
+        ],
+        [
+            "OfficeChair-1",
+            "Desk-1"
+        ],
+        [
+            "OfficeChair-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "OfficeChair-1",
+            "DogBed-1"
+        ],
+        [
+            "OfficeChair-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "OfficeChair-1",
+            "Nightstand-2"
+        ],
+        [
+            "OfficeChair-1",
+            "Nightstand-3"
+        ],
+        [
+            "OfficeChair-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "OfficeChair-1",
+            "Stairs-3"
+        ],
+        [
+            "OfficeChair-1",
+            "cairo_m006"
+        ],
+        [
+            "OfficeChair-1",
+            "cairo_m004"
+        ],
+        [
+            "OfficeChair-1",
+            "cairo_m001"
+        ],
+        [
+            "OfficeChair-1",
+            "cairo_t002"
+        ],
+        [
+            "Stairs-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Stairs-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Stairs-1",
+            "DogBed-1"
+        ],
+        [
+            "Stairs-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "Stairs-1",
+            "Sofa-1"
+        ],
+        [
+            "Stairs-1",
+            "Television-1"
+        ],
+        [
+            "Stairs-1",
+            "ArmChair-1"
+        ],
+        [
+            "Stairs-1",
+            "cairo_m023"
+        ],
+        [
+            "Stairs-1",
+            "cairo_t005"
+        ],
+        [
+            "Stairs-1",
+            "cairo_m013"
+        ],
+        [
+            "Stairs-1",
+            "cairo_m014"
+        ],
+        [
+            "Stairs-1",
+            "cairo_m016"
+        ],
+        [
+            "Stairs-1",
+            "cairo_m017"
+        ],
+        [
+            "Stairs-1",
+            "cairo_m018"
+        ],
+        [
+            "Desk-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Desk-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Desk-1",
+            "DogBed-1"
+        ],
+        [
+            "Desk-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "Desk-1",
+            "Nightstand-2"
+        ],
+        [
+            "Desk-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Desk-1",
+            "Stairs-2"
+        ],
+        [
+            "Desk-1",
+            "cairo_m006"
+        ],
+        [
+            "Desk-1",
+            "cairo_m001"
+        ],
+        [
+            "Desk-1",
+            "cairo_m025"
+        ],
+        [
+            "Desk-1",
+            "cairo_t002"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-1",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-1",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Oven-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Television-1"
+        ],
+        [
+            "KitchenChair-1",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Stairs-3"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m024"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m021"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m020"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m023"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m008"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_t004"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_t005"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m011"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m016"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m018"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m019"
+        ],
+        [
+            "KitchenChair-1",
+            "cairo_m022"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-2",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-2",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-2",
+            "PetFoodBowl-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Oven-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Television-1"
+        ],
+        [
+            "KitchenChair-2",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Stairs-3"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m024"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m021"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m020"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m023"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m008"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_t004"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_t005"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m011"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m018"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m019"
+        ],
+        [
+            "KitchenChair-2",
+            "cairo_m022"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-3",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-3",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-3",
+            "PetFoodBowl-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Oven-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Television-1"
+        ],
+        [
+            "KitchenChair-3",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-3",
+            "ExteriorDoor-1"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Stairs-2"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m024"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m021"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m020"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m023"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m008"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_t004"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_t005"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m011"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m013"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m014"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m015"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m016"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m017"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m018"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m019"
+        ],
+        [
+            "KitchenChair-3",
+            "cairo_m022"
+        ],
+        [
+            "KitchenChair-4",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-4",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-4",
+            "PetFoodBowl-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Oven-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Television-1"
+        ],
+        [
+            "KitchenChair-4",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-4",
+            "ExteriorDoor-1"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Stairs-3"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m024"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m021"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m020"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m023"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m008"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_t004"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_t005"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m013"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m014"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m016"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m017"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m018"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m019"
+        ],
+        [
+            "KitchenChair-4",
+            "cairo_m022"
+        ],
+        [
+            "Table-1",
+            "DogBed-1"
+        ],
+        [
+            "Table-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "Table-1",
+            "Freezer-1"
+        ],
+        [
+            "Table-1",
+            "Oven-1"
+        ],
+        [
+            "Table-1",
+            "Television-1"
+        ],
+        [
+            "Table-1",
+            "ArmChair-1"
+        ],
+        [
+            "Table-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Table-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Table-1",
+            "Stairs-3"
+        ],
+        [
+            "Table-1",
+            "cairo_m024"
+        ],
+        [
+            "Table-1",
+            "cairo_m021"
+        ],
+        [
+            "Table-1",
+            "cairo_m020"
+        ],
+        [
+            "Table-1",
+            "cairo_m023"
+        ],
+        [
+            "Table-1",
+            "cairo_m008"
+        ],
+        [
+            "Table-1",
+            "cairo_t004"
+        ],
+        [
+            "Table-1",
+            "cairo_t005"
+        ],
+        [
+            "Table-1",
+            "cairo_m011"
+        ],
+        [
+            "Table-1",
+            "cairo_m016"
+        ],
+        [
+            "Table-1",
+            "cairo_m018"
+        ],
+        [
+            "Table-1",
+            "cairo_m019"
+        ],
+        [
+            "Table-1",
+            "cairo_m022"
+        ],
+        [
+            "ClothesDryer-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "ClothesDryer-1",
+            "DogBed-1"
+        ],
+        [
+            "ClothesDryer-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "ClothesDryer-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "ClothesDryer-1",
+            "cairo_m027"
+        ],
+        [
+            "ClothesDryer-1",
+            "cairo_m026"
+        ],
+        [
+            "ClothesDryer-1",
+            "cairo_m014"
+        ],
+        [
+            "ClothesWasher-1",
+            "DogBed-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "ClothesWasher-1",
+            "cairo_m027"
+        ],
+        [
+            "ClothesWasher-1",
+            "cairo_m026"
+        ],
+        [
+            "DogBed-1",
+            "PetFoodBowl-1"
+        ],
+        [
+            "DogBed-1",
+            "Freezer-1"
+        ],
+        [
+            "DogBed-1",
+            "Oven-1"
+        ],
+        [
+            "DogBed-1",
+            "DoubleBed-1"
+        ],
+        [
+            "DogBed-1",
+            "Nightstand-1"
+        ],
+        [
+            "DogBed-1",
+            "Nightstand-2"
+        ],
+        [
+            "DogBed-1",
+            "SingleBed-1"
+        ],
+        [
+            "DogBed-1",
+            "Nightstand-3"
+        ],
+        [
+            "DogBed-1",
+            "Toilet-1"
+        ],
+        [
+            "DogBed-1",
+            "Bathtub-1"
+        ],
+        [
+            "DogBed-1",
+            "BathroomSink-1"
+        ],
+        [
+            "DogBed-1",
+            "Sofa-1"
+        ],
+        [
+            "DogBed-1",
+            "Television-1"
+        ],
+        [
+            "DogBed-1",
+            "ArmChair-1"
+        ],
+        [
+            "DogBed-1",
+            "BathroomSink-2"
+        ],
+        [
+            "DogBed-1",
+            "Toilet-2"
+        ],
+        [
+            "DogBed-1",
+            "Bathtub-2"
+        ],
+        [
+            "DogBed-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "DogBed-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "DogBed-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "DogBed-1",
+            "KitchenSink-1"
+        ],
+        [
+            "DogBed-1",
+            "Stairs-2"
+        ],
+        [
+            "DogBed-1",
+            "Stairs-3"
+        ],
+        [
+            "DogBed-1",
+            "Stairs-4"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m007"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m006"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m005"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m004"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m003"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m002"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m001"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m025"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m024"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m027"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m026"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m021"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m020"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m023"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m008"
+        ],
+        [
+            "DogBed-1",
+            "cairo_t001"
+        ],
+        [
+            "DogBed-1",
+            "cairo_t002"
+        ],
+        [
+            "DogBed-1",
+            "cairo_t003"
+        ],
+        [
+            "DogBed-1",
+            "cairo_t004"
+        ],
+        [
+            "DogBed-1",
+            "cairo_t005"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m010"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m011"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m012"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m013"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m014"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m015"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m016"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m017"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m018"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m019"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m022"
+        ],
+        [
+            "DogBed-1",
+            "cairo_m009"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Freezer-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Oven-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "DoubleBed-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Nightstand-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Nightstand-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "SingleBed-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Nightstand-3"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Toilet-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Bathtub-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "BathroomSink-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Sofa-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Television-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "ArmChair-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "BathroomSink-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Toilet-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Bathtub-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "KitchenSink-1"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Stairs-2"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Stairs-3"
+        ],
+        [
+            "PetFoodBowl-1",
+            "Stairs-4"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m007"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m006"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m005"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m004"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m003"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m002"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m001"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m025"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m024"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m027"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m026"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m021"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m020"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m023"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m008"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_t001"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_t002"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_t003"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_t004"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_t005"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m010"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m011"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m012"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m013"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m014"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m015"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m016"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m017"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m018"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m019"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m022"
+        ],
+        [
+            "PetFoodBowl-1",
+            "cairo_m009"
+        ],
+        [
+            "Freezer-1",
+            "Oven-1"
+        ],
+        [
+            "Freezer-1",
+            "Television-1"
+        ],
+        [
+            "Freezer-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m024"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m021"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m020"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m023"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m008"
+        ],
+        [
+            "Freezer-1",
+            "cairo_t004"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m013"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m016"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m019"
+        ],
+        [
+            "Freezer-1",
+            "cairo_m022"
+        ],
+        [
+            "Oven-1",
+            "Sofa-1"
+        ],
+        [
+            "Oven-1",
+            "ArmChair-1"
+        ],
+        [
+            "Oven-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Oven-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Oven-1",
+            "cairo_m024"
+        ],
+        [
+            "Oven-1",
+            "cairo_m021"
+        ],
+        [
+            "Oven-1",
+            "cairo_m020"
+        ],
+        [
+            "Oven-1",
+            "cairo_m008"
+        ],
+        [
+            "Oven-1",
+            "cairo_t004"
+        ],
+        [
+            "Oven-1",
+            "cairo_m013"
+        ],
+        [
+            "Oven-1",
+            "cairo_m019"
+        ],
+        [
+            "Oven-1",
+            "cairo_m022"
+        ],
+        [
+            "DoubleBed-1",
+            "Nightstand-1"
+        ],
+        [
+            "DoubleBed-1",
+            "Nightstand-2"
+        ],
+        [
+            "DoubleBed-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "DoubleBed-1",
+            "cairo_m007"
+        ],
+        [
+            "DoubleBed-1",
+            "cairo_m006"
+        ],
+        [
+            "DoubleBed-1",
+            "cairo_m005"
+        ],
+        [
+            "DoubleBed-1",
+            "cairo_m003"
+        ],
+        [
+            "DoubleBed-1",
+            "cairo_t001"
+        ],
+        [
+            "DoubleBed-1",
+            "cairo_m009"
+        ],
+        [
+            "Nightstand-1",
+            "Nightstand-2"
+        ],
+        [
+            "Nightstand-1",
+            "Stairs-4"
+        ],
+        [
+            "Nightstand-1",
+            "cairo_m007"
+        ],
+        [
+            "Nightstand-1",
+            "cairo_m006"
+        ],
+        [
+            "Nightstand-1",
+            "cairo_m005"
+        ],
+        [
+            "Nightstand-1",
+            "cairo_t001"
+        ],
+        [
+            "Nightstand-1",
+            "cairo_m009"
+        ],
+        [
+            "Nightstand-2",
+            "Bathtub-1"
+        ],
+        [
+            "Nightstand-2",
+            "InteriorDoor-2"
+        ],
+        [
+            "Nightstand-2",
+            "cairo_m007"
+        ],
+        [
+            "Nightstand-2",
+            "cairo_m006"
+        ],
+        [
+            "Nightstand-2",
+            "cairo_m005"
+        ],
+        [
+            "Nightstand-2",
+            "cairo_m003"
+        ],
+        [
+            "Nightstand-2",
+            "cairo_t001"
+        ],
+        [
+            "Nightstand-2",
+            "cairo_m009"
+        ],
+        [
+            "SingleBed-1",
+            "Nightstand-3"
+        ],
+        [
+            "SingleBed-1",
+            "cairo_m004"
+        ],
+        [
+            "Nightstand-3",
+            "cairo_m004"
+        ],
+        [
+            "Toilet-1",
+            "Bathtub-1"
+        ],
+        [
+            "Toilet-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Toilet-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Toilet-1",
+            "cairo_m007"
+        ],
+        [
+            "Bathtub-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Bathtub-1",
+            "cairo_m007"
+        ],
+        [
+            "BathroomSink-1",
+            "BathroomSink-2"
+        ],
+        [
+            "Sofa-1",
+            "Television-1"
+        ],
+        [
+            "Sofa-1",
+            "ArmChair-1"
+        ],
+        [
+            "Sofa-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Sofa-1",
+            "Stairs-3"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m020"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m023"
+        ],
+        [
+            "Sofa-1",
+            "cairo_t005"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m011"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m013"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m014"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m015"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m016"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m017"
+        ],
+        [
+            "Sofa-1",
+            "cairo_m018"
+        ],
+        [
+            "Television-1",
+            "ArmChair-1"
+        ],
+        [
+            "Television-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Television-1",
+            "Stairs-3"
+        ],
+        [
+            "Television-1",
+            "cairo_m024"
+        ],
+        [
+            "Television-1",
+            "cairo_m020"
+        ],
+        [
+            "Television-1",
+            "cairo_m023"
+        ],
+        [
+            "Television-1",
+            "cairo_t005"
+        ],
+        [
+            "Television-1",
+            "cairo_m011"
+        ],
+        [
+            "Television-1",
+            "cairo_m012"
+        ],
+        [
+            "Television-1",
+            "cairo_m013"
+        ],
+        [
+            "Television-1",
+            "cairo_m014"
+        ],
+        [
+            "Television-1",
+            "cairo_m015"
+        ],
+        [
+            "Television-1",
+            "cairo_m016"
+        ],
+        [
+            "Television-1",
+            "cairo_m017"
+        ],
+        [
+            "Television-1",
+            "cairo_m018"
+        ],
+        [
+            "ArmChair-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "ArmChair-1",
+            "Stairs-3"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m024"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m021"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m020"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m023"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_t005"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m011"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m013"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m014"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m015"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m016"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m017"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m018"
+        ],
+        [
+            "ArmChair-1",
+            "cairo_m022"
+        ],
+        [
+            "BathroomSink-2",
+            "Toilet-2"
+        ],
+        [
+            "BathroomSink-2",
+            "Bathtub-2"
+        ],
+        [
+            "BathroomSink-2",
+            "InteriorDoor-2"
+        ],
+        [
+            "BathroomSink-2",
+            "cairo_m003"
+        ],
+        [
+            "Toilet-2",
+            "Bathtub-2"
+        ],
+        [
+            "Toilet-2",
+            "InteriorDoor-2"
+        ],
+        [
+            "Toilet-2",
+            "Stairs-4"
+        ],
+        [
+            "Toilet-2",
+            "cairo_m003"
+        ],
+        [
+            "Bathtub-2",
+            "cairo_m002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m021"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m023"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_t004"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_t005"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m011"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m013"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m014"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m015"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m016"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m017"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m018"
+        ],
+        [
+            "ExteriorDoor-1",
+            "cairo_m022"
+        ],
+        [
+            "ExteriorDoor-2",
+            "cairo_m025"
+        ],
+        [
+            "ExteriorDoor-2",
+            "cairo_m027"
+        ],
+        [
+            "ExteriorDoor-2",
+            "cairo_m026"
+        ],
+        [
+            "InteriorDoor-2",
+            "cairo_m007"
+        ],
+        [
+            "InteriorDoor-2",
+            "cairo_m006"
+        ],
+        [
+            "InteriorDoor-2",
+            "cairo_m003"
+        ],
+        [
+            "InteriorDoor-2",
+            "cairo_m001"
+        ],
+        [
+            "InteriorDoor-2",
+            "cairo_t001"
+        ],
+        [
+            "InteriorDoor-2",
+            "cairo_t002"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m024"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m021"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m020"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m008"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_t004"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m013"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m016"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m019"
+        ],
+        [
+            "KitchenSink-1",
+            "cairo_m022"
+        ],
+        [
+            "Stairs-2",
+            "cairo_m025"
+        ],
+        [
+            "Stairs-2",
+            "cairo_t002"
+        ],
+        [
+            "Stairs-2",
+            "cairo_t005"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m024"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m023"
+        ],
+        [
+            "Stairs-3",
+            "cairo_t005"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m011"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m013"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m016"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m017"
+        ],
+        [
+            "Stairs-3",
+            "cairo_m018"
+        ],
+        [
+            "Stairs-4",
+            "cairo_m006"
+        ],
+        [
+            "Stairs-4",
+            "cairo_m003"
+        ],
+        [
+            "Stairs-4",
+            "cairo_m002"
+        ],
+        [
+            "Stairs-4",
+            "cairo_m020"
+        ],
+        [
+            "Stairs-4",
+            "cairo_m010"
+        ],
+        [
+            "Stairs-4",
+            "cairo_m009"
+        ],
+        [
+            "cairo_m007",
+            "cairo_m006"
+        ],
+        [
+            "cairo_m007",
+            "cairo_m005"
+        ],
+        [
+            "cairo_m007",
+            "cairo_m002"
+        ],
+        [
+            "cairo_m007",
+            "cairo_t001"
+        ],
+        [
+            "cairo_m007",
+            "cairo_m009"
+        ],
+        [
+            "cairo_m006",
+            "cairo_m005"
+        ],
+        [
+            "cairo_m006",
+            "cairo_m003"
+        ],
+        [
+            "cairo_m006",
+            "cairo_t001"
+        ],
+        [
+            "cairo_m006",
+            "cairo_m010"
+        ],
+        [
+            "cairo_m006",
+            "cairo_m009"
+        ],
+        [
+            "cairo_m005",
+            "cairo_t001"
+        ],
+        [
+            "cairo_m005",
+            "cairo_m010"
+        ],
+        [
+            "cairo_m005",
+            "cairo_m009"
+        ],
+        [
+            "cairo_m003",
+            "cairo_m002"
+        ],
+        [
+            "cairo_m003",
+            "cairo_m001"
+        ],
+        [
+            "cairo_m003",
+            "cairo_m010"
+        ],
+        [
+            "cairo_m003",
+            "cairo_m009"
+        ],
+        [
+            "cairo_m002",
+            "cairo_t001"
+        ],
+        [
+            "cairo_m002",
+            "cairo_t002"
+        ],
+        [
+            "cairo_m002",
+            "cairo_m010"
+        ],
+        [
+            "cairo_m001",
+            "cairo_t001"
+        ],
+        [
+            "cairo_m001",
+            "cairo_t002"
+        ],
+        [
+            "cairo_m025",
+            "cairo_m027"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m021"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m020"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m023"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m008"
+        ],
+        [
+            "cairo_m024",
+            "cairo_t004"
+        ],
+        [
+            "cairo_m024",
+            "cairo_t005"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m011"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m016"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m019"
+        ],
+        [
+            "cairo_m024",
+            "cairo_m022"
+        ],
+        [
+            "cairo_m027",
+            "cairo_m026"
+        ],
+        [
+            "cairo_m021",
+            "cairo_m020"
+        ],
+        [
+            "cairo_m021",
+            "cairo_m008"
+        ],
+        [
+            "cairo_m021",
+            "cairo_t004"
+        ],
+        [
+            "cairo_m021",
+            "cairo_m013"
+        ],
+        [
+            "cairo_m021",
+            "cairo_m019"
+        ],
+        [
+            "cairo_m021",
+            "cairo_m022"
+        ],
+        [
+            "cairo_m020",
+            "cairo_m023"
+        ],
+        [
+            "cairo_m020",
+            "cairo_m008"
+        ],
+        [
+            "cairo_m020",
+            "cairo_t004"
+        ],
+        [
+            "cairo_m020",
+            "cairo_t005"
+        ],
+        [
+            "cairo_m020",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m020",
+            "cairo_m019"
+        ],
+        [
+            "cairo_m020",
+            "cairo_m022"
+        ],
+        [
+            "cairo_m023",
+            "cairo_t005"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m011"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m013"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m014"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m015"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m016"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m017"
+        ],
+        [
+            "cairo_m023",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m008",
+            "cairo_t004"
+        ],
+        [
+            "cairo_m008",
+            "cairo_m019"
+        ],
+        [
+            "cairo_m008",
+            "cairo_m022"
+        ],
+        [
+            "cairo_t001",
+            "cairo_m009"
+        ],
+        [
+            "cairo_t003",
+            "cairo_m013"
+        ],
+        [
+            "cairo_t004",
+            "cairo_m013"
+        ],
+        [
+            "cairo_t004",
+            "cairo_m016"
+        ],
+        [
+            "cairo_t004",
+            "cairo_m019"
+        ],
+        [
+            "cairo_t004",
+            "cairo_m022"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m011"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m013"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m014"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m015"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m016"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m017"
+        ],
+        [
+            "cairo_t005",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m013"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m014"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m015"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m016"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m017"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m011",
+            "cairo_m022"
+        ],
+        [
+            "cairo_m013",
+            "cairo_m014"
+        ],
+        [
+            "cairo_m013",
+            "cairo_m015"
+        ],
+        [
+            "cairo_m013",
+            "cairo_m016"
+        ],
+        [
+            "cairo_m013",
+            "cairo_m017"
+        ],
+        [
+            "cairo_m013",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m014",
+            "cairo_m015"
+        ],
+        [
+            "cairo_m014",
+            "cairo_m016"
+        ],
+        [
+            "cairo_m014",
+            "cairo_m017"
+        ],
+        [
+            "cairo_m014",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m014",
+            "cairo_m022"
+        ],
+        [
+            "cairo_m015",
+            "cairo_m016"
+        ],
+        [
+            "cairo_m015",
+            "cairo_m017"
+        ],
+        [
+            "cairo_m015",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m016",
+            "cairo_m017"
+        ],
+        [
+            "cairo_m016",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m017",
+            "cairo_m018"
+        ],
+        [
+            "cairo_m019",
+            "cairo_m022"
+        ]
+    ],
+    "nodes": [
+        {
+            "bottom": 247.65277145080472,
+            "id": "InteriorDoor-1",
+            "left": 798.1912217597674,
+            "ref": "cose:InteriorDoor",
+            "right": 862.8683842420578,
+            "sensor": "",
+            "top": 212.95625207100102,
+            "x": 830.5298030009126,
+            "y": 230.30451176090287
+        },
+        {
+            "bottom": 444.3454873812916,
+            "id": "OfficeChair-1",
+            "left": 632.6716131569531,
+            "ref": "cose:OfficeChair",
+            "right": 651.382756889024,
+            "sensor": "",
+            "top": 388.84925605356693,
+            "x": 642.0271850229884,
+            "y": 416.59737171742927
+        },
+        {
+            "bottom": 609.3993255154187,
+            "id": "Stairs-1",
+            "left": 473.0521244584722,
+            "ref": "cose:Stairs",
+            "right": 548.7776532560583,
+            "sensor": "",
+            "top": 560.2511435986121,
+            "x": 510.9148962046667,
+            "y": 584.8252345570154
+        },
+        {
+            "bottom": 490.3659036981908,
+            "id": "Desk-1",
+            "left": 582.2776494006446,
+            "ref": "cose:Desk",
+            "right": 673.7953652191463,
+            "sensor": "",
+            "top": 355.7156123076411,
+            "x": 630.2688686276817,
+            "y": 434.2007830154609
+        },
+        {
+            "bottom": 279.61944735148575,
+            "id": "KitchenChair-1",
+            "left": 74.91400702297688,
+            "ref": "cose:KitchenChair",
+            "right": 104.37686296622383,
+            "sensor": "",
+            "top": 246.08734756574688,
+            "x": 89.64542391532811,
+            "y": 256.5806487386204
+        },
+        {
+            "bottom": 279.61944735148575,
+            "id": "KitchenChair-2",
+            "left": 129.00768072903156,
+            "ref": "cose:KitchenChair",
+            "right": 158.4705366722785,
+            "sensor": "",
+            "top": 246.08734756574688,
+            "x": 143.73909762138283,
+            "y": 256.5806487386204
+        },
+        {
+            "bottom": 371.64771407976093,
+            "id": "KitchenChair-3",
+            "left": 74.91400770028008,
+            "ref": "cose:KitchenChair",
+            "right": 104.37686364352703,
+            "sensor": "",
+            "top": 338.11561429402207,
+            "x": 89.6454467511758,
+            "y": 361.1544129068874
+        },
+        {
+            "bottom": 371.64771407976093,
+            "id": "KitchenChair-4",
+            "left": 129.00767377694024,
+            "ref": "cose:KitchenChair",
+            "right": 158.4705297201872,
+            "sensor": "",
+            "top": 338.11561429402207,
+            "x": 143.73911282783592,
+            "y": 361.1544129068874
+        },
+        {
+            "bottom": 351.62446597218513,
+            "id": "Table-1",
+            "left": 49.30441665944517,
+            "ref": "cose:Table",
+            "right": 194.36456330660866,
+            "sensor": "",
+            "top": 261.9723687469959,
+            "x": 121.83448998302694,
+            "y": 306.7984105196783
+        },
+        {
+            "bottom": 604.0001748842336,
+            "id": "ClothesDryer-1",
+            "left": 650.8540614324423,
+            "ref": "cose:ClothesDryer",
+            "right": 707.0028324697587,
+            "sensor": "",
+            "top": 552.2976495030988,
+            "x": 690.4134387564012,
+            "y": 578.148911411653
+        },
+        {
+            "bottom": 659.165377152713,
+            "id": "ClothesWasher-1",
+            "left": 650.8520061553912,
+            "ref": "cose:ClothesWasher",
+            "right": 706.9109216777097,
+            "sensor": "",
+            "top": 607.5455919092336,
+            "x": 685.6767697653007,
+            "y": 633.3563526893073
+        },
+        {
+            "bottom": null,
+            "id": "DogBed-1",
+            "left": null,
+            "ref": "cose:DogBed",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": null,
+            "id": "PetFoodBowl-1",
+            "left": null,
+            "ref": "cose:PetFoodBowl",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": 437.5864264791557,
+            "id": "Freezer-1",
+            "left": 472.4355554799931,
+            "ref": "cose:Freezer",
+            "right": 541.8695955026529,
+            "sensor": "",
+            "top": 372.9232207361196,
+            "x": 485.1785354616001,
+            "y": 406.03580310479924
+        },
+        {
+            "bottom": 295.2174045443535,
+            "id": "Oven-1",
+            "left": 471.41120917095395,
+            "ref": "cose:Oven",
+            "right": 541.8694625593538,
+            "sensor": "",
+            "top": 231.25391978025436,
+            "x": 492.05060083389407,
+            "y": 263.2356475222241
+        },
+        {
+            "bottom": 175.8324802517891,
+            "id": "DoubleBed-1",
+            "left": 947.5505263209343,
+            "ref": "cose:DoubleBed",
+            "right": 1090.7881800025332,
+            "sensor": "",
+            "top": 55.94176601286108,
+            "x": 1060.2686206319295,
+            "y": 95.29467475758406
+        },
+        {
+            "bottom": 219.60673141479492,
+            "id": "Nightstand-1",
+            "left": 1038.4162619113922,
+            "ref": "cose:Nightstand",
+            "right": 1089.3069097995758,
+            "sensor": "",
+            "top": 181.57322692871094,
+            "x": 1067.966984629631,
+            "y": 200.83877897262573
+        },
+        {
+            "bottom": 63.503252029418945,
+            "id": "Nightstand-2",
+            "left": 1038.4162619113922,
+            "ref": "cose:Nightstand",
+            "right": 1089.3069097995758,
+            "sensor": "",
+            "top": 25.46974754333496,
+            "x": 1067.966984629631,
+            "y": 44.735299587249756
+        },
+        {
+            "bottom": 511.0156886181643,
+            "id": "SingleBed-1",
+            "left": 1007.1786449067899,
+            "ref": "cose:SingleBed",
+            "right": 1094.1835927093287,
+            "sensor": "",
+            "top": 363.60274319522324,
+            "x": 1056.4722662358542,
+            "y": 474.401887721145
+        },
+        {
+            "bottom": 509.52788758277893,
+            "id": "Nightstand-3",
+            "left": 961.9580116271973,
+            "ref": "cose:Nightstand",
+            "right": 999.9915161132812,
+            "sensor": "",
+            "top": 458.63723969459534,
+            "x": 980.7259640693665,
+            "y": 488.18796241283417
+        },
+        {
+            "bottom": 122.53971731173664,
+            "id": "Toilet-1",
+            "left": 653.8390901342136,
+            "ref": "cose:Toilet",
+            "right": 694.7920976281166,
+            "sensor": "",
+            "top": 62.98754433745489,
+            "x": 674.3157593837752,
+            "y": 101.33295888780233
+        },
+        {
+            "bottom": 122.77335580138532,
+            "id": "Bathtub-1",
+            "left": 572.6485099256495,
+            "ref": "cose:Bathtub",
+            "right": 632.9371579297747,
+            "sensor": "",
+            "top": -3.8292095114027234,
+            "x": 600.933090379991,
+            "y": 78.69806918070795
+        },
+        {
+            "bottom": 124.96341431204648,
+            "id": "BathroomSink-1",
+            "left": 714.2487305933583,
+            "ref": "cose:BathroomSink",
+            "right": 743.8375634779128,
+            "sensor": "",
+            "top": 92.28629564453256,
+            "x": 728.9618145792667,
+            "y": 114.98984570850716
+        },
+        {
+            "bottom": 538.7192308263599,
+            "id": "Sofa-1",
+            "left": 234.4881124049425,
+            "ref": "cose:Sofa",
+            "right": 398.99552462240234,
+            "sensor": "",
+            "top": 470.3608865087511,
+            "x": 316.8592839336164,
+            "y": 506.52217443342425
+        },
+        {
+            "bottom": 733.2686172252977,
+            "id": "Television-1",
+            "left": 12.765767084947754,
+            "ref": "cose:Television",
+            "right": 90.27357104658239,
+            "sensor": "",
+            "top": 655.7608132636631,
+            "x": 51.51966906576507,
+            "y": 694.5147152444804
+        },
+        {
+            "bottom": 587.8328673404629,
+            "id": "ArmChair-1",
+            "left": 14.058661243821291,
+            "ref": "cose:ArmChair",
+            "right": 117.72624859675204,
+            "sensor": "",
+            "top": 484.0518261251821,
+            "x": 66.73205791155075,
+            "y": 536.8647114838556
+        },
+        {
+            "bottom": 174.31444422625555,
+            "id": "BathroomSink-2",
+            "left": 715.61269266794,
+            "ref": "cose:BathroomSink",
+            "right": 744.2997319691668,
+            "sensor": "",
+            "top": 142.63324236461813,
+            "x": 730.0350659651781,
+            "y": 152.30284155494533
+        },
+        {
+            "bottom": 203.1490329768967,
+            "id": "Toilet-2",
+            "left": 656.7013515532017,
+            "ref": "cose:Toilet",
+            "right": 697.7289295299233,
+            "sensor": "",
+            "top": 143.488422684739,
+            "x": 677.2149747375921,
+            "y": 164.73379605569343
+        },
+        {
+            "bottom": 234.77980481928535,
+            "id": "Bathtub-2",
+            "left": 577.2518495395489,
+            "ref": "cose:Bathtub",
+            "right": 625.8842125433712,
+            "sensor": "",
+            "top": 132.65474284932134,
+            "x": 600.0678527110289,
+            "y": 199.22609098765938
+        },
+        {
+            "bottom": 742.7999012688244,
+            "id": "ExteriorDoor-1",
+            "left": 385.0250991440066,
+            "ref": "cose:ExteriorDoor",
+            "right": 457.12300367727016,
+            "sensor": "",
+            "top": 718.594797348228,
+            "x": 401.1292164138309,
+            "y": 726.3664033248936
+        },
+        {
+            "bottom": 672.6622649881384,
+            "id": "ExteriorDoor-2",
+            "left": 863.5383152799907,
+            "ref": "cose:ExteriorDoor",
+            "right": 899.2390058851083,
+            "sensor": "",
+            "top": 614.0917551139104,
+            "x": 872.2304001742923,
+            "y": 659.358163028694
+        },
+        {
+            "bottom": 341.4526427730607,
+            "id": "InteriorDoor-2",
+            "left": 739.4002030588044,
+            "ref": "cose:InteriorDoor",
+            "right": 803.045240760559,
+            "sensor": "",
+            "top": 311.46149338781834,
+            "x": 771.2227219096817,
+            "y": 326.4570680804395
+        },
+        {
+            "bottom": 370.573772902203,
+            "id": "KitchenSink-1",
+            "left": 491.6709587152757,
+            "ref": "cose:KitchenSink",
+            "right": 535.712127509963,
+            "sensor": "",
+            "top": 297.61157244120886,
+            "x": 517.935950324124,
+            "y": 326.0540387774026
+        },
+        {
+            "bottom": 933.6748992222361,
+            "id": "Stairs-2",
+            "left": 576.8436893998784,
+            "ref": "cose:Stairs",
+            "right": 652.5692181974646,
+            "sensor": "",
+            "top": 884.5267119548475,
+            "x": 614.706461146073,
+            "y": 909.100805588542
+        },
+        {
+            "bottom": 523.6561004177624,
+            "id": "Stairs-3",
+            "left": 473.80514569870655,
+            "ref": "cose:Stairs",
+            "right": 549.5306744962927,
+            "sensor": "",
+            "top": 474.5079185009559,
+            "x": 511.6679174449011,
+            "y": 499.08200945935914
+        },
+        {
+            "bottom": 302.56717217145484,
+            "id": "Stairs-4",
+            "left": 610.5738529740971,
+            "ref": "cose:Stairs",
+            "right": 686.2993817716833,
+            "sensor": "",
+            "top": 253.41898490406635,
+            "x": 648.4366247202918,
+            "y": 277.99307853776065
+        },
+        {
+            "bottom": 58.56901168823242,
+            "id": "cairo_m007",
+            "left": 842.3700561523438,
+            "ref": "cose:MotionDetector",
+            "right": 879.3402709960938,
+            "sensor": "cairo:m007",
+            "top": 44.54875564575195,
+            "x": 860.8551635742188,
+            "y": 51.55888366699219
+        },
+        {
+            "bottom": 239.6553192138672,
+            "id": "cairo_m006",
+            "left": 852.8683471679688,
+            "ref": "cose:MotionDetector",
+            "right": 889.8385620117188,
+            "sensor": "cairo:m006",
+            "top": 225.63507080078125,
+            "x": 871.3534545898438,
+            "y": 232.64519500732422
+        },
+        {
+            "bottom": 167.323486328125,
+            "id": "cairo_m005",
+            "left": 1053.2879638671875,
+            "ref": "cose:MotionDetector",
+            "right": 1090.258056640625,
+            "sensor": "cairo:m005",
+            "top": 153.30322265625,
+            "x": 1071.7730102539062,
+            "y": 160.3133544921875
+        },
+        {
+            "bottom": 497.3375549316406,
+            "id": "cairo_m004",
+            "left": 952.3246459960938,
+            "ref": "cose:MotionDetector",
+            "right": 989.2948608398438,
+            "sensor": "cairo:m004",
+            "top": 483.31732177734375,
+            "x": 970.8097534179688,
+            "y": 490.3274383544922
+        },
+        {
+            "bottom": 301.43878173828125,
+            "id": "cairo_m003",
+            "left": 734.5756225585938,
+            "ref": "cose:MotionDetector",
+            "right": 771.5458374023438,
+            "sensor": "cairo:m003",
+            "top": 287.41851806640625,
+            "x": 753.0607299804688,
+            "y": 294.42864990234375
+        },
+        {
+            "bottom": 301.43878173828125,
+            "id": "cairo_m002",
+            "left": 831.7716064453125,
+            "ref": "cose:MotionDetector",
+            "right": 868.7417602539062,
+            "sensor": "cairo:m002",
+            "top": 287.41851806640625,
+            "x": 850.2566833496094,
+            "y": 294.42864990234375
+        },
+        {
+            "bottom": 491.3099060058594,
+            "id": "cairo_m001",
+            "left": 652.4488525390625,
+            "ref": "cose:MotionDetector",
+            "right": 689.4190673828125,
+            "sensor": "cairo:m001",
+            "top": 477.2896728515625,
+            "x": 670.9339599609375,
+            "y": 484.29978942871094
+        },
+        {
+            "bottom": 1014.208984375,
+            "id": "cairo_m025",
+            "left": 735.3291015625,
+            "ref": "cose:MotionDetector",
+            "right": 772.29931640625,
+            "sensor": "cairo:m025",
+            "top": 1000.1886596679688,
+            "x": 753.814208984375,
+            "y": 1007.1988220214844
+        },
+        {
+            "bottom": 305.95953369140625,
+            "id": "cairo_m024",
+            "left": 93.38388061523438,
+            "ref": "cose:MotionDetector",
+            "right": 130.35406494140625,
+            "sensor": "cairo:m024",
+            "top": 291.9393005371094,
+            "x": 111.86897277832031,
+            "y": 298.9494171142578
+        },
+        {
+            "bottom": 649.535888671875,
+            "id": "cairo_m027",
+            "left": 873.9651489257812,
+            "ref": "cose:MotionDetector",
+            "right": 910.9353637695312,
+            "sensor": "cairo:m027",
+            "top": 635.5155639648438,
+            "x": 892.4502563476562,
+            "y": 642.5257263183594
+        },
+        {
+            "bottom": 691.7294311523438,
+            "id": "cairo_m026",
+            "left": 721.766845703125,
+            "ref": "cose:MotionDetector",
+            "right": 758.737060546875,
+            "sensor": "cairo:m026",
+            "top": 677.7091674804688,
+            "x": 740.251953125,
+            "y": 684.7192993164062
+        },
+        {
+            "bottom": 313.49407958984375,
+            "id": "cairo_m021",
+            "left": 474.6330261230469,
+            "ref": "cose:MotionDetector",
+            "right": 511.60321044921875,
+            "sensor": "cairo:m021",
+            "top": 299.4738464355469,
+            "x": 493.1181182861328,
+            "y": 306.4839630126953
+        },
+        {
+            "bottom": 408.4296569824219,
+            "id": "cairo_m020",
+            "left": 188.31944274902344,
+            "ref": "cose:MotionDetector",
+            "right": 225.2896270751953,
+            "sensor": "cairo:m020",
+            "top": 394.409423828125,
+            "x": 206.80453491210938,
+            "y": 401.41954040527344
+        },
+        {
+            "bottom": 709.8124389648438,
+            "id": "cairo_m023",
+            "left": 128.04287719726562,
+            "ref": "cose:MotionDetector",
+            "right": 165.0130615234375,
+            "sensor": "cairo:m023",
+            "top": 695.7921752929688,
+            "x": 146.52796936035156,
+            "y": 702.8023071289062
+        },
+        {
+            "bottom": 462.67852783203125,
+            "id": "cairo_m008",
+            "left": 467.0984802246094,
+            "ref": "cose:MotionDetector",
+            "right": 504.0686340332031,
+            "sensor": "cairo:m008",
+            "top": 448.6582946777344,
+            "x": 485.58355712890625,
+            "y": 455.6684112548828
+        },
+        {
+            "bottom": 90.06754302978516,
+            "id": "cairo_t001",
+            "left": 863.2334594726562,
+            "ref": "cose:TemperatureSensor",
+            "right": 896.448974609375,
+            "sensor": "cairo:t001",
+            "top": 76.04727935791016,
+            "x": 879.8412170410156,
+            "y": 83.05741119384766
+        },
+        {
+            "bottom": 364.7291564941406,
+            "id": "cairo_t002",
+            "left": 640.3935546875,
+            "ref": "cose:TemperatureSensor",
+            "right": 673.6090698242188,
+            "sensor": "cairo:t002",
+            "top": 350.70892333984375,
+            "x": 657.0013122558594,
+            "y": 357.7190399169922
+        },
+        {
+            "bottom": 634.4667358398438,
+            "id": "cairo_t003",
+            "left": 461.0708312988281,
+            "ref": "cose:TemperatureSensor",
+            "right": 494.2863464355469,
+            "sensor": "cairo:t003",
+            "top": 620.4464721679688,
+            "x": 477.6785888671875,
+            "y": 627.4566040039062
+        },
+        {
+            "bottom": 357.194580078125,
+            "id": "cairo_t004",
+            "left": 473.1261291503906,
+            "ref": "cose:TemperatureSensor",
+            "right": 506.3416442871094,
+            "sensor": "cairo:t004",
+            "top": 343.1743469238281,
+            "x": 489.73388671875,
+            "y": 350.18446350097656
+        },
+        {
+            "bottom": 596.7938842773438,
+            "id": "cairo_t005",
+            "left": 176.26414489746094,
+            "ref": "cose:TemperatureSensor",
+            "right": 209.47964477539062,
+            "sensor": "cairo:t005",
+            "top": 582.7736206054688,
+            "x": 192.87189483642578,
+            "y": 589.7837524414062
+        },
+        {
+            "bottom": 301.43878173828125,
+            "id": "cairo_m010",
+            "left": 637.3796997070312,
+            "ref": "cose:MotionDetector",
+            "right": 674.3499145507812,
+            "sensor": "cairo:m010",
+            "top": 287.41851806640625,
+            "x": 655.8648071289062,
+            "y": 294.42864990234375
+        },
+        {
+            "bottom": 506.3790283203125,
+            "id": "cairo_m011",
+            "left": 465.591552734375,
+            "ref": "cose:MotionDetector",
+            "right": 502.5617370605469,
+            "sensor": "cairo:m011",
+            "top": 492.3587951660156,
+            "x": 484.07664489746094,
+            "y": 499.36891174316406
+        },
+        {
+            "bottom": 608.8491821289062,
+            "id": "cairo_m012",
+            "left": 551.4856567382812,
+            "ref": "cose:MotionDetector",
+            "right": 588.455810546875,
+            "sensor": "cairo:m012",
+            "top": 594.8289184570312,
+            "x": 569.9707336425781,
+            "y": 601.8390502929688
+        },
+        {
+            "bottom": 516.927490234375,
+            "id": "cairo_m013",
+            "left": 378.1905822753906,
+            "ref": "cose:MotionDetector",
+            "right": 415.1607360839844,
+            "sensor": "cairo:m013",
+            "top": 502.9072265625,
+            "x": 396.6756591796875,
+            "y": 509.9173583984375
+        },
+        {
+            "bottom": 590.7662353515625,
+            "id": "cairo_m014",
+            "left": 458.0570068359375,
+            "ref": "cose:MotionDetector",
+            "right": 495.0271911621094,
+            "sensor": "cairo:m014",
+            "top": 576.7459716796875,
+            "x": 476.54209899902344,
+            "y": 583.756103515625
+        },
+        {
+            "bottom": 711.3193359375,
+            "id": "cairo_m015",
+            "left": 435.45330810546875,
+            "ref": "cose:MotionDetector",
+            "right": 472.4234619140625,
+            "sensor": "cairo:m015",
+            "top": 697.299072265625,
+            "x": 453.9383850097656,
+            "y": 704.3092041015625
+        },
+        {
+            "bottom": 635.9736328125,
+            "id": "cairo_m016",
+            "left": 271.1996765136719,
+            "ref": "cose:MotionDetector",
+            "right": 308.16986083984375,
+            "sensor": "cairo:m016",
+            "top": 621.953369140625,
+            "x": 289.6847686767578,
+            "y": 628.9635009765625
+        },
+        {
+            "bottom": 515.4205322265625,
+            "id": "cairo_m017",
+            "left": 284.7619323730469,
+            "ref": "cose:MotionDetector",
+            "right": 321.7320861816406,
+            "sensor": "cairo:m017",
+            "top": 501.4002990722656,
+            "x": 303.24700927734375,
+            "y": 508.41041564941406
+        },
+        {
+            "bottom": 551.58642578125,
+            "id": "cairo_m018",
+            "left": 177.7710418701172,
+            "ref": "cose:MotionDetector",
+            "right": 214.74122619628906,
+            "sensor": "cairo:m018",
+            "top": 537.566162109375,
+            "x": 196.25613403320312,
+            "y": 544.5762939453125
+        },
+        {
+            "bottom": 444.5956115722656,
+            "id": "cairo_m019",
+            "left": 283.2550048828125,
+            "ref": "cose:MotionDetector",
+            "right": 320.2251892089844,
+            "sensor": "cairo:m019",
+            "top": 430.5753479003906,
+            "x": 301.74009704589844,
+            "y": 437.5854797363281
+        },
+        {
+            "bottom": 319.5217590332031,
+            "id": "cairo_m022",
+            "left": 317.9140319824219,
+            "ref": "cose:MotionDetector",
+            "right": 354.8841857910156,
+            "sensor": "cairo:m022",
+            "top": 305.5014953613281,
+            "x": 336.39910888671875,
+            "y": 312.5116271972656
+        },
+        {
+            "bottom": 91.97779846191406,
+            "id": "cairo_m009",
+            "left": 1051.781005859375,
+            "ref": "cose:MotionDetector",
+            "right": 1088.751220703125,
+            "sensor": "cairo:m009",
+            "top": 77.95753479003906,
+            "x": 1070.26611328125,
+            "y": 84.96766662597656
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+features:
+    seamr.features.seq.CRFFeatures:
+        crossEnv: true

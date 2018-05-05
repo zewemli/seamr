@@ -1,0 +1,17 @@
+classifier:
+    seamr.learn.ace.ACE:
+        cutlevel: 0.00001
+        acceptor:
+            sklearn.linear_model.LogisticRegression:
+                solver: "lbfgs"
+                penalty: "l2"
+        expert:    
+            sklearn.naive_bayes.MultinomialNB:
+                alpha: 1.0
+        generalist:
+            sklearn.ensemble.RandomForestClassifier:
+                criterion: gini
+                n_jobs: -1
+                max_leaf_nodes: 32
+                n_estimators: 256
+                max_features: log2

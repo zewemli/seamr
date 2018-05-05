@@ -1,0 +1,8 @@
+features:
+    seamr.features.seq.CRFWrapped:
+        sensors: null
+        dset: null
+        store: null
+        wrapped:
+            seamr.features.state.StateFeatures:
+                sensors: null

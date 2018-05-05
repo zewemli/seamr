@@ -1,0 +1,2640 @@
+{
+    "edges": [
+        [
+            "InteriorDoor-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "InteriorDoor-1",
+            "KitchenCounter-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Bathtub-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_t003"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_t004"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m022"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m020"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m021"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m026"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m024"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m018"
+        ],
+        [
+            "InteriorDoor-1",
+            "tulum_m031"
+        ],
+        [
+            "InteriorDoor-2",
+            "KitchenCounter-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "BathroomSink-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "ClosetDoors-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "ClosetDoors-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "tulum_t005"
+        ],
+        [
+            "InteriorDoor-2",
+            "tulum_m026"
+        ],
+        [
+            "InteriorDoor-2",
+            "tulum_m028"
+        ],
+        [
+            "InteriorDoor-2",
+            "tulum_m027"
+        ],
+        [
+            "InteriorDoor-2",
+            "tulum_m024"
+        ],
+        [
+            "InteriorDoor-3",
+            "KitchenCounter-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "ClosetDoors-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "ClosetDoors-2"
+        ],
+        [
+            "InteriorDoor-3",
+            "Nightstand-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "DoubleBed-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "Stairs-2"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_t004"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m023"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m026"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m028"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m029"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m024"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m018"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m017"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m031"
+        ],
+        [
+            "InteriorDoor-3",
+            "tulum_m030"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenCounter-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Oven-1"
+        ],
+        [
+            "KitchenChair-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "KitchenChair-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "KitchenChair-1",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Loveseat-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_t001"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m003"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m008"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m009"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m013"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m012"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m011"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m010"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m016"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m015"
+        ],
+        [
+            "KitchenChair-1",
+            "tulum_m014"
+        ],
+        [
+            "KitchenCounter-1",
+            "OfficeChair-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Stairs-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Oven-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Bathtub-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "BathroomSink-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "BathroomSink-2"
+        ],
+        [
+            "KitchenCounter-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "KitchenCounter-1",
+            "Nightstand-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Desk-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "DoubleBed-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Freezer-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Table-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Loveseat-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Television-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Toilet-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenCounter-1",
+            "Stairs-2"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_t003"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_t002"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_t001"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_t005"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_t004"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m022"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m005"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m020"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m004"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m023"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m006"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m021"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m026"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m001"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m002"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m003"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m007"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m028"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m029"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m008"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m009"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m027"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m024"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m025"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m019"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m018"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m013"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m012"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m011"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m010"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m017"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m016"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m015"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m014"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m031"
+        ],
+        [
+            "KitchenCounter-1",
+            "tulum_m030"
+        ],
+        [
+            "OfficeChair-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "OfficeChair-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "OfficeChair-1",
+            "Desk-1"
+        ],
+        [
+            "OfficeChair-1",
+            "Stairs-2"
+        ],
+        [
+            "OfficeChair-1",
+            "tulum_t003"
+        ],
+        [
+            "OfficeChair-1",
+            "tulum_m022"
+        ],
+        [
+            "OfficeChair-1",
+            "tulum_m020"
+        ],
+        [
+            "OfficeChair-1",
+            "tulum_m021"
+        ],
+        [
+            "OfficeChair-1",
+            "tulum_m019"
+        ],
+        [
+            "OfficeChair-1",
+            "tulum_m018"
+        ],
+        [
+            "Stairs-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "Stairs-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "Stairs-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Stairs-1",
+            "tulum_m004"
+        ],
+        [
+            "Stairs-1",
+            "tulum_m006"
+        ],
+        [
+            "Stairs-1",
+            "tulum_m001"
+        ],
+        [
+            "Stairs-1",
+            "tulum_m002"
+        ],
+        [
+            "Stairs-1",
+            "tulum_m009"
+        ],
+        [
+            "Stairs-1",
+            "tulum_m012"
+        ],
+        [
+            "Oven-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "Oven-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "Oven-1",
+            "Freezer-1"
+        ],
+        [
+            "Oven-1",
+            "Table-1"
+        ],
+        [
+            "Oven-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Oven-1",
+            "tulum_t001"
+        ],
+        [
+            "Oven-1",
+            "tulum_m002"
+        ],
+        [
+            "Oven-1",
+            "tulum_m003"
+        ],
+        [
+            "Oven-1",
+            "tulum_m008"
+        ],
+        [
+            "Oven-1",
+            "tulum_m009"
+        ],
+        [
+            "Oven-1",
+            "tulum_m013"
+        ],
+        [
+            "Oven-1",
+            "tulum_m012"
+        ],
+        [
+            "Oven-1",
+            "tulum_m011"
+        ],
+        [
+            "Oven-1",
+            "tulum_m010"
+        ],
+        [
+            "Oven-1",
+            "tulum_m016"
+        ],
+        [
+            "Oven-1",
+            "tulum_m015"
+        ],
+        [
+            "Oven-1",
+            "tulum_m014"
+        ],
+        [
+            "Bathtub-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Bathtub-1",
+            "BathroomSink-2"
+        ],
+        [
+            "Bathtub-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "Bathtub-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "Bathtub-1",
+            "Toilet-1"
+        ],
+        [
+            "Bathtub-1",
+            "tulum_t005"
+        ],
+        [
+            "Bathtub-1",
+            "tulum_m027"
+        ],
+        [
+            "Bathtub-1",
+            "tulum_m025"
+        ],
+        [
+            "BathroomSink-1",
+            "BathroomSink-2"
+        ],
+        [
+            "BathroomSink-1",
+            "ClosetDoors-1"
+        ],
+        [
+            "BathroomSink-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "BathroomSink-1",
+            "tulum_t005"
+        ],
+        [
+            "BathroomSink-1",
+            "tulum_m027"
+        ],
+        [
+            "BathroomSink-2",
+            "ClosetDoors-1"
+        ],
+        [
+            "BathroomSink-2",
+            "ClosetDoors-2"
+        ],
+        [
+            "BathroomSink-2",
+            "Toilet-1"
+        ],
+        [
+            "BathroomSink-2",
+            "tulum_t005"
+        ],
+        [
+            "BathroomSink-2",
+            "tulum_m027"
+        ],
+        [
+            "BathroomSink-2",
+            "tulum_m024"
+        ],
+        [
+            "BathroomSink-2",
+            "tulum_m025"
+        ],
+        [
+            "ClosetDoors-1",
+            "ClosetDoors-2"
+        ],
+        [
+            "ClosetDoors-1",
+            "Nightstand-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Desk-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "DoubleBed-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Freezer-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Table-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Loveseat-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Television-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Toilet-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "KitchenSink-1"
+        ],
+        [
+            "ClosetDoors-1",
+            "Stairs-2"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_t003"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_t002"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_t001"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_t005"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_t004"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m022"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m005"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m020"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m004"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m023"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m006"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m021"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m026"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m001"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m002"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m003"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m007"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m028"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m029"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m008"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m009"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m027"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m024"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m025"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m019"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m018"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m013"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m012"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m011"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m010"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m017"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m016"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m015"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m014"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m031"
+        ],
+        [
+            "ClosetDoors-1",
+            "tulum_m030"
+        ],
+        [
+            "ClosetDoors-2",
+            "Nightstand-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Desk-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "DoubleBed-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Freezer-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Table-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Loveseat-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Television-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Toilet-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "ExteriorDoor-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "KitchenSink-1"
+        ],
+        [
+            "ClosetDoors-2",
+            "Stairs-2"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_t003"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_t002"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_t001"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_t005"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_t004"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m022"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m005"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m020"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m004"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m023"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m006"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m021"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m026"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m001"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m002"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m003"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m007"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m028"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m029"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m008"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m009"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m027"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m024"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m025"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m019"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m018"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m013"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m012"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m011"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m010"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m017"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m016"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m015"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m014"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m031"
+        ],
+        [
+            "ClosetDoors-2",
+            "tulum_m030"
+        ],
+        [
+            "Nightstand-1",
+            "DoubleBed-1"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_t004"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_m028"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_m029"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_m008"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_m017"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_m031"
+        ],
+        [
+            "Nightstand-1",
+            "tulum_m030"
+        ],
+        [
+            "Desk-1",
+            "Toilet-1"
+        ],
+        [
+            "Desk-1",
+            "tulum_t003"
+        ],
+        [
+            "Desk-1",
+            "tulum_m022"
+        ],
+        [
+            "Desk-1",
+            "tulum_m020"
+        ],
+        [
+            "Desk-1",
+            "tulum_m021"
+        ],
+        [
+            "Desk-1",
+            "tulum_m019"
+        ],
+        [
+            "Desk-1",
+            "tulum_m018"
+        ],
+        [
+            "DoubleBed-1",
+            "tulum_t004"
+        ],
+        [
+            "DoubleBed-1",
+            "tulum_m028"
+        ],
+        [
+            "DoubleBed-1",
+            "tulum_m029"
+        ],
+        [
+            "DoubleBed-1",
+            "tulum_m017"
+        ],
+        [
+            "DoubleBed-1",
+            "tulum_m031"
+        ],
+        [
+            "DoubleBed-1",
+            "tulum_m030"
+        ],
+        [
+            "Freezer-1",
+            "Table-1"
+        ],
+        [
+            "Freezer-1",
+            "Loveseat-1"
+        ],
+        [
+            "Freezer-1",
+            "Television-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Freezer-1",
+            "tulum_t002"
+        ],
+        [
+            "Freezer-1",
+            "tulum_t001"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m002"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m003"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m007"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m028"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m008"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m009"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m013"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m011"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m010"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m016"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m015"
+        ],
+        [
+            "Freezer-1",
+            "tulum_m014"
+        ],
+        [
+            "Table-1",
+            "Loveseat-1"
+        ],
+        [
+            "Table-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Table-1",
+            "tulum_t001"
+        ],
+        [
+            "Table-1",
+            "tulum_m003"
+        ],
+        [
+            "Table-1",
+            "tulum_m009"
+        ],
+        [
+            "Table-1",
+            "tulum_m013"
+        ],
+        [
+            "Table-1",
+            "tulum_m012"
+        ],
+        [
+            "Table-1",
+            "tulum_m011"
+        ],
+        [
+            "Table-1",
+            "tulum_m010"
+        ],
+        [
+            "Table-1",
+            "tulum_m016"
+        ],
+        [
+            "Table-1",
+            "tulum_m015"
+        ],
+        [
+            "Table-1",
+            "tulum_m014"
+        ],
+        [
+            "Loveseat-1",
+            "Television-1"
+        ],
+        [
+            "Loveseat-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_t002"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_t001"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m002"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m003"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m007"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m008"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m009"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m013"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m012"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m011"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m010"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m016"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m015"
+        ],
+        [
+            "Loveseat-1",
+            "tulum_m014"
+        ],
+        [
+            "Television-1",
+            "tulum_t002"
+        ],
+        [
+            "Television-1",
+            "tulum_m002"
+        ],
+        [
+            "Television-1",
+            "tulum_m007"
+        ],
+        [
+            "Television-1",
+            "tulum_m008"
+        ],
+        [
+            "Television-1",
+            "tulum_m009"
+        ],
+        [
+            "Television-1",
+            "tulum_m013"
+        ],
+        [
+            "Television-1",
+            "tulum_m012"
+        ],
+        [
+            "Television-1",
+            "tulum_m011"
+        ],
+        [
+            "Television-1",
+            "tulum_m010"
+        ],
+        [
+            "Toilet-1",
+            "tulum_t005"
+        ],
+        [
+            "Toilet-1",
+            "tulum_m027"
+        ],
+        [
+            "Toilet-1",
+            "tulum_m025"
+        ],
+        [
+            "ExteriorDoor-1",
+            "tulum_m005"
+        ],
+        [
+            "ExteriorDoor-1",
+            "tulum_m004"
+        ],
+        [
+            "ExteriorDoor-1",
+            "tulum_m001"
+        ],
+        [
+            "ExteriorDoor-1",
+            "tulum_m002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "tulum_m009"
+        ],
+        [
+            "ExteriorDoor-1",
+            "tulum_m010"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_t001"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m003"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m009"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m013"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m012"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m011"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m010"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m016"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m015"
+        ],
+        [
+            "KitchenSink-1",
+            "tulum_m014"
+        ],
+        [
+            "Stairs-2",
+            "tulum_t004"
+        ],
+        [
+            "Stairs-2",
+            "tulum_m023"
+        ],
+        [
+            "Stairs-2",
+            "tulum_m029"
+        ],
+        [
+            "Stairs-2",
+            "tulum_m024"
+        ],
+        [
+            "Stairs-2",
+            "tulum_m031"
+        ],
+        [
+            "tulum_t003",
+            "tulum_m022"
+        ],
+        [
+            "tulum_t003",
+            "tulum_m020"
+        ],
+        [
+            "tulum_t003",
+            "tulum_m021"
+        ],
+        [
+            "tulum_t003",
+            "tulum_m019"
+        ],
+        [
+            "tulum_t003",
+            "tulum_m018"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m002"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m007"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m008"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m009"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m013"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m012"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m011"
+        ],
+        [
+            "tulum_t002",
+            "tulum_m010"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m003"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m013"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m012"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m011"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m016"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m015"
+        ],
+        [
+            "tulum_t001",
+            "tulum_m014"
+        ],
+        [
+            "tulum_t005",
+            "tulum_m026"
+        ],
+        [
+            "tulum_t005",
+            "tulum_m027"
+        ],
+        [
+            "tulum_t005",
+            "tulum_m024"
+        ],
+        [
+            "tulum_t005",
+            "tulum_m025"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m023"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m026"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m028"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m029"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m024"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m018"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m017"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m031"
+        ],
+        [
+            "tulum_t004",
+            "tulum_m030"
+        ],
+        [
+            "tulum_m022",
+            "tulum_m020"
+        ],
+        [
+            "tulum_m022",
+            "tulum_m021"
+        ],
+        [
+            "tulum_m022",
+            "tulum_m019"
+        ],
+        [
+            "tulum_m022",
+            "tulum_m018"
+        ],
+        [
+            "tulum_m005",
+            "tulum_m004"
+        ],
+        [
+            "tulum_m005",
+            "tulum_m001"
+        ],
+        [
+            "tulum_m005",
+            "tulum_m002"
+        ],
+        [
+            "tulum_m005",
+            "tulum_m009"
+        ],
+        [
+            "tulum_m005",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m020",
+            "tulum_m021"
+        ],
+        [
+            "tulum_m020",
+            "tulum_m019"
+        ],
+        [
+            "tulum_m020",
+            "tulum_m018"
+        ],
+        [
+            "tulum_m020",
+            "tulum_m031"
+        ],
+        [
+            "tulum_m004",
+            "tulum_m006"
+        ],
+        [
+            "tulum_m004",
+            "tulum_m001"
+        ],
+        [
+            "tulum_m004",
+            "tulum_m002"
+        ],
+        [
+            "tulum_m004",
+            "tulum_m009"
+        ],
+        [
+            "tulum_m023",
+            "tulum_m029"
+        ],
+        [
+            "tulum_m023",
+            "tulum_m024"
+        ],
+        [
+            "tulum_m023",
+            "tulum_m017"
+        ],
+        [
+            "tulum_m023",
+            "tulum_m031"
+        ],
+        [
+            "tulum_m006",
+            "tulum_m001"
+        ],
+        [
+            "tulum_m006",
+            "tulum_m002"
+        ],
+        [
+            "tulum_m006",
+            "tulum_m009"
+        ],
+        [
+            "tulum_m006",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m006",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m021",
+            "tulum_m024"
+        ],
+        [
+            "tulum_m021",
+            "tulum_m019"
+        ],
+        [
+            "tulum_m021",
+            "tulum_m018"
+        ],
+        [
+            "tulum_m026",
+            "tulum_m027"
+        ],
+        [
+            "tulum_m026",
+            "tulum_m024"
+        ],
+        [
+            "tulum_m002",
+            "tulum_m007"
+        ],
+        [
+            "tulum_m002",
+            "tulum_m008"
+        ],
+        [
+            "tulum_m002",
+            "tulum_m009"
+        ],
+        [
+            "tulum_m002",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m002",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m002",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m003",
+            "tulum_m013"
+        ],
+        [
+            "tulum_m003",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m003",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m003",
+            "tulum_m016"
+        ],
+        [
+            "tulum_m003",
+            "tulum_m015"
+        ],
+        [
+            "tulum_m003",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m007",
+            "tulum_m008"
+        ],
+        [
+            "tulum_m007",
+            "tulum_m009"
+        ],
+        [
+            "tulum_m007",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m007",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m007",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m028",
+            "tulum_m029"
+        ],
+        [
+            "tulum_m028",
+            "tulum_m024"
+        ],
+        [
+            "tulum_m028",
+            "tulum_m017"
+        ],
+        [
+            "tulum_m028",
+            "tulum_m031"
+        ],
+        [
+            "tulum_m028",
+            "tulum_m030"
+        ],
+        [
+            "tulum_m029",
+            "tulum_m024"
+        ],
+        [
+            "tulum_m029",
+            "tulum_m017"
+        ],
+        [
+            "tulum_m029",
+            "tulum_m031"
+        ],
+        [
+            "tulum_m029",
+            "tulum_m030"
+        ],
+        [
+            "tulum_m008",
+            "tulum_m009"
+        ],
+        [
+            "tulum_m008",
+            "tulum_m013"
+        ],
+        [
+            "tulum_m008",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m008",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m008",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m009",
+            "tulum_m013"
+        ],
+        [
+            "tulum_m009",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m009",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m009",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m009",
+            "tulum_m016"
+        ],
+        [
+            "tulum_m009",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m027",
+            "tulum_m025"
+        ],
+        [
+            "tulum_m024",
+            "tulum_m018"
+        ],
+        [
+            "tulum_m024",
+            "tulum_m017"
+        ],
+        [
+            "tulum_m024",
+            "tulum_m031"
+        ],
+        [
+            "tulum_m019",
+            "tulum_m018"
+        ],
+        [
+            "tulum_m013",
+            "tulum_m012"
+        ],
+        [
+            "tulum_m013",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m013",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m013",
+            "tulum_m016"
+        ],
+        [
+            "tulum_m013",
+            "tulum_m015"
+        ],
+        [
+            "tulum_m013",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m012",
+            "tulum_m011"
+        ],
+        [
+            "tulum_m012",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m012",
+            "tulum_m016"
+        ],
+        [
+            "tulum_m012",
+            "tulum_m015"
+        ],
+        [
+            "tulum_m012",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m011",
+            "tulum_m010"
+        ],
+        [
+            "tulum_m011",
+            "tulum_m016"
+        ],
+        [
+            "tulum_m011",
+            "tulum_m015"
+        ],
+        [
+            "tulum_m011",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m010",
+            "tulum_m016"
+        ],
+        [
+            "tulum_m010",
+            "tulum_m015"
+        ],
+        [
+            "tulum_m010",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m017",
+            "tulum_m031"
+        ],
+        [
+            "tulum_m017",
+            "tulum_m030"
+        ],
+        [
+            "tulum_m016",
+            "tulum_m015"
+        ],
+        [
+            "tulum_m016",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m015",
+            "tulum_m014"
+        ],
+        [
+            "tulum_m031",
+            "tulum_m030"
+        ]
+    ],
+    "nodes": [
+        {
+            "bottom": 678.7319615217109,
+            "id": "InteriorDoor-1",
+            "left": 1068.9553328342736,
+            "ref": "cose:InteriorDoor",
+            "right": 1154.6560807014298,
+            "sensor": "",
+            "top": 652.5219827811306,
+            "x": 1111.8057067678517,
+            "y": 665.6269721514208
+        },
+        {
+            "bottom": 619.3102657670365,
+            "id": "InteriorDoor-2",
+            "left": 984.4353766084482,
+            "ref": "cose:InteriorDoor",
+            "right": 1055.5748871828473,
+            "sensor": "",
+            "top": 548.1707551926374,
+            "x": 1020.0051318956478,
+            "y": 583.740510479837
+        },
+        {
+            "bottom": 424.81584051917093,
+            "id": "InteriorDoor-3",
+            "left": 1198.4225812582445,
+            "ref": "cose:InteriorDoor",
+            "right": 1280.2817692112912,
+            "sensor": "",
+            "top": 399.78072257712483,
+            "x": 1239.3521752347679,
+            "y": 412.2982815481479
+        },
+        {
+            "bottom": 722.2474055148247,
+            "id": "KitchenChair-1",
+            "left": 249.6004359126091,
+            "ref": "cose:KitchenChair",
+            "right": 314.8635919624021,
+            "sensor": "",
+            "top": 647.9704696600879,
+            "x": 282.23198939581573,
+            "y": 671.2141753362068
+        },
+        {
+            "bottom": null,
+            "id": "KitchenCounter-1",
+            "left": null,
+            "ref": "cose:KitchenCounter",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": 886.5996646445856,
+            "id": "OfficeChair-1",
+            "left": 802.8241298275689,
+            "ref": "cose:OfficeChair",
+            "right": 836.0121915417412,
+            "sensor": "",
+            "top": 788.1656845211983,
+            "x": 819.418160684655,
+            "y": 837.3826745828919
+        },
+        {
+            "bottom": 941.0428845008701,
+            "id": "Stairs-1",
+            "left": 492.39065910836337,
+            "ref": "cose:Stairs",
+            "right": 595.0800753955501,
+            "sensor": "",
+            "top": 800.2493322040665,
+            "x": 543.7353672519567,
+            "y": 870.6461220132081
+        },
+        {
+            "bottom": 948.6511316895485,
+            "id": "Oven-1",
+            "left": 11.934451313308529,
+            "ref": "cose:Oven",
+            "right": 95.00627323395747,
+            "sensor": "",
+            "top": 873.2367840409279,
+            "x": 70.67197900553187,
+            "y": 910.9439751262125
+        },
+        {
+            "bottom": 526.8841732383569,
+            "id": "Bathtub-1",
+            "left": 702.00069419033,
+            "ref": "cose:Bathtub",
+            "right": 891.3833007478008,
+            "sensor": "",
+            "top": 436.69941847735834,
+            "x": 825.4518352647048,
+            "y": 484.573754341287
+        },
+        {
+            "bottom": 709.2237257769087,
+            "id": "BathroomSink-1",
+            "left": 843.4820025512423,
+            "ref": "cose:BathroomSink",
+            "right": 882.1997322785293,
+            "sensor": "",
+            "top": 666.4648966682513,
+            "x": 862.7344418564318,
+            "y": 696.1730611861481
+        },
+        {
+            "bottom": 709.2237257769087,
+            "id": "BathroomSink-2",
+            "left": 745.1049273559298,
+            "ref": "cose:BathroomSink",
+            "right": 783.8226570832168,
+            "sensor": "",
+            "top": 666.4648966682513,
+            "x": 764.3573666611192,
+            "y": 696.1730611861481
+        },
+        {
+            "bottom": null,
+            "id": "ClosetDoors-1",
+            "left": null,
+            "ref": "cose:ClosetDoors",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": null,
+            "id": "ClosetDoors-2",
+            "left": null,
+            "ref": "cose:ClosetDoors",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": 409.5669646203436,
+            "id": "Nightstand-1",
+            "left": 1098.99718836197,
+            "ref": "cose:Nightstand",
+            "right": 1158.9321689009666,
+            "sensor": "",
+            "top": 329.3657435988947,
+            "x": 1128.5726082339359,
+            "y": 375.93626573640745
+        },
+        {
+            "bottom": 936.9932359597283,
+            "id": "Desk-1",
+            "left": 722.0378197450655,
+            "ref": "cose:Desk",
+            "right": 856.2462102946829,
+            "sensor": "",
+            "top": 739.5320260405301,
+            "x": 792.4157158209242,
+            "y": 854.6285223691568
+        },
+        {
+            "bottom": 412.42846664432824,
+            "id": "DoubleBed-1",
+            "left": 923.2768737077713,
+            "ref": "cose:DoubleBed",
+            "right": 1114.3342320491593,
+            "sensor": "",
+            "top": 184.16551983356476,
+            "x": 1051.6215954989034,
+            "y": 363.7926200059451
+        },
+        {
+            "bottom": 724.7788610294457,
+            "id": "Freezer-1",
+            "left": 14.503331092010917,
+            "ref": "cose:Freezer",
+            "right": 113.01485828361137,
+            "sensor": "",
+            "top": 633.0360912183806,
+            "x": 94.93539151845665,
+            "y": 677.7994391589662
+        },
+        {
+            "bottom": 802.8289062672782,
+            "id": "Table-1",
+            "left": 225.58358177542686,
+            "ref": "cose:Table",
+            "right": 327.99522146582603,
+            "sensor": "",
+            "top": 701.0971420269641,
+            "x": 276.7894094340145,
+            "y": 751.9630241471212
+        },
+        {
+            "bottom": 543.9634199142456,
+            "id": "Loveseat-1",
+            "left": 43.65620946715262,
+            "ref": "cose:Loveseat",
+            "right": 156.6796135368786,
+            "sensor": "",
+            "top": 342.2420816856902,
+            "x": 102.16989050471948,
+            "y": 443.0565238825278
+        },
+        {
+            "bottom": 558.257115483284,
+            "id": "Television-1",
+            "left": 575.6485952842811,
+            "ref": "cose:Television",
+            "right": 589.1368745673278,
+            "sensor": "",
+            "top": 342.44464695453644,
+            "x": 582.3927349258045,
+            "y": 450.3508812189102
+        },
+        {
+            "bottom": 502.96142436106675,
+            "id": "Toilet-1",
+            "left": 1004.1969193520381,
+            "ref": "cose:Toilet",
+            "right": 1085.125365053676,
+            "sensor": "",
+            "top": 447.30832090973854,
+            "x": 1056.306433486556,
+            "y": 475.1346477255744
+        },
+        {
+            "bottom": 1033.8907880689544,
+            "id": "ExteriorDoor-1",
+            "left": 355.12675699204254,
+            "ref": "cose:ExteriorDoor",
+            "right": 475.43307644635775,
+            "sensor": "",
+            "top": 1001.8143447769775,
+            "x": 448.7434361855717,
+            "y": 1013.7104668247429
+        },
+        {
+            "bottom": 1021.7320752742332,
+            "id": "KitchenSink-1",
+            "left": 133.50661430674634,
+            "ref": "cose:KitchenSink",
+            "right": 218.09036690020983,
+            "sensor": "",
+            "top": 970.675948927711,
+            "x": 185.11753274049104,
+            "y": 1001.1244762209614
+        },
+        {
+            "bottom": 789.8359753211826,
+            "id": "Stairs-2",
+            "left": 1198.1048009540666,
+            "ref": "cose:Stairs",
+            "right": 1300.7942172412534,
+            "sensor": "",
+            "top": 649.042423024379,
+            "x": 1249.4495090976604,
+            "y": 719.4392128335207
+        },
+        {
+            "bottom": 895.6467895507812,
+            "id": "tulum_t003",
+            "left": 1135.600341796875,
+            "ref": "cose:TemperatureSensor",
+            "right": 1179.890869140625,
+            "sensor": "tulum:t003",
+            "top": 876.6346435546875,
+            "x": 1157.74560546875,
+            "y": 886.1407165527344
+        },
+        {
+            "bottom": 460.18536376953125,
+            "id": "tulum_t002",
+            "left": 542.6268920898438,
+            "ref": "cose:TemperatureSensor",
+            "right": 586.9174194335938,
+            "sensor": "tulum:t002",
+            "top": 441.1731872558594,
+            "x": 564.7721557617188,
+            "y": 450.6792755126953
+        },
+        {
+            "bottom": 903.8189086914062,
+            "id": "tulum_t001",
+            "left": 291.4647216796875,
+            "ref": "cose:TemperatureSensor",
+            "right": 335.7552185058594,
+            "sensor": "tulum:t001",
+            "top": 884.8067626953125,
+            "x": 313.60997009277344,
+            "y": 894.3128356933594
+        },
+        {
+            "bottom": 644.9661254882812,
+            "id": "tulum_t005",
+            "left": 869.7848510742188,
+            "ref": "cose:TemperatureSensor",
+            "right": 914.0753173828125,
+            "sensor": "tulum:t005",
+            "top": 625.9539794921875,
+            "x": 891.9300842285156,
+            "y": 635.4600524902344
+        },
+        {
+            "bottom": 384.8103942871094,
+            "id": "tulum_t004",
+            "left": 1235.3350830078125,
+            "ref": "cose:TemperatureSensor",
+            "right": 1279.6256103515625,
+            "sensor": "tulum:t004",
+            "top": 365.7982482910156,
+            "x": 1257.4803466796875,
+            "y": 375.3043212890625
+        },
+        {
+            "bottom": 985.4703979492188,
+            "id": "tulum_m022",
+            "left": 1118.0694580078125,
+            "ref": "cose:MotionDetector",
+            "right": 1167.3800048828125,
+            "sensor": "tulum:m022",
+            "top": 966.458251953125,
+            "x": 1142.7247314453125,
+            "y": 975.9643249511719
+        },
+        {
+            "bottom": 936.7576293945312,
+            "id": "tulum_m005",
+            "left": 412.4117736816406,
+            "ref": "cose:MotionDetector",
+            "right": 461.72235107421875,
+            "sensor": "tulum:m005",
+            "top": 917.7454833984375,
+            "x": 437.0670623779297,
+            "y": 927.2515563964844
+        },
+        {
+            "bottom": 841.2772827148438,
+            "id": "tulum_m020",
+            "left": 1104.17138671875,
+            "ref": "cose:MotionDetector",
+            "right": 1153.48193359375,
+            "sensor": "tulum:m020",
+            "top": 822.26513671875,
+            "x": 1128.82666015625,
+            "y": 831.7712097167969
+        },
+        {
+            "bottom": 934.0111083984375,
+            "id": "tulum_m004",
+            "left": 546.628173828125,
+            "ref": "cose:MotionDetector",
+            "right": 595.9387817382812,
+            "sensor": "tulum:m004",
+            "top": 914.9989624023438,
+            "x": 571.2834777832031,
+            "y": 924.5050354003906
+        },
+        {
+            "bottom": 726.2903442382812,
+            "id": "tulum_m023",
+            "left": 1244.2352294921875,
+            "ref": "cose:MotionDetector",
+            "right": 1293.5457763671875,
+            "sensor": "tulum:m023",
+            "top": 707.2781372070312,
+            "x": 1268.8905029296875,
+            "y": 716.7842407226562
+        },
+        {
+            "bottom": 757.8884887695312,
+            "id": "tulum_m006",
+            "left": 456.1708068847656,
+            "ref": "cose:MotionDetector",
+            "right": 505.4813537597656,
+            "sensor": "tulum:m006",
+            "top": 738.8763427734375,
+            "x": 480.8260803222656,
+            "y": 748.3824157714844
+        },
+        {
+            "bottom": 995.8939819335938,
+            "id": "tulum_m021",
+            "left": 862.6912231445312,
+            "ref": "cose:MotionDetector",
+            "right": 912.0017700195312,
+            "sensor": "tulum:m021",
+            "top": 976.8818359375,
+            "x": 887.3464965820312,
+            "y": 986.3879089355469
+        },
+        {
+            "bottom": 605.8776245117188,
+            "id": "tulum_m026",
+            "left": 1012.9647827148438,
+            "ref": "cose:MotionDetector",
+            "right": 1062.2752685546875,
+            "sensor": "tulum:m026",
+            "top": 586.865478515625,
+            "x": 1037.6200256347656,
+            "y": 596.3715515136719
+        },
+        {
+            "bottom": 1012.234375,
+            "id": "tulum_m001",
+            "left": 526.90576171875,
+            "ref": "cose:MotionDetector",
+            "right": 576.2162475585938,
+            "sensor": "tulum:m001",
+            "top": 993.2222290039062,
+            "x": 551.5610046386719,
+            "y": 1002.7283020019531
+        },
+        {
+            "bottom": 611.9580688476562,
+            "id": "tulum_m002",
+            "left": 384.9428405761719,
+            "ref": "cose:MotionDetector",
+            "right": 434.25341796875,
+            "sensor": "tulum:m002",
+            "top": 592.9459228515625,
+            "x": 409.59812927246094,
+            "y": 602.4519958496094
+        },
+        {
+            "bottom": 957.6741333007812,
+            "id": "tulum_m003",
+            "left": 259.85968017578125,
+            "ref": "cose:MotionDetector",
+            "right": 309.1701965332031,
+            "sensor": "tulum:m003",
+            "top": 938.6619873046875,
+            "x": 284.5149383544922,
+            "y": 948.1680603027344
+        },
+        {
+            "bottom": 523.357421875,
+            "id": "tulum_m007",
+            "left": 516.9751586914062,
+            "ref": "cose:MotionDetector",
+            "right": 566.2857055664062,
+            "sensor": "tulum:m007",
+            "top": 504.34527587890625,
+            "x": 541.6304321289062,
+            "y": 513.8513488769531
+        },
+        {
+            "bottom": 120.3115463256836,
+            "id": "tulum_m028",
+            "left": 987.7744750976562,
+            "ref": "cose:MotionDetector",
+            "right": 1037.0849609375,
+            "sensor": "tulum:m028",
+            "top": 101.29939270019531,
+            "x": 1012.4297180175781,
+            "y": 110.80546951293945
+        },
+        {
+            "bottom": 123.78607940673828,
+            "id": "tulum_m029",
+            "left": 1224.042724609375,
+            "ref": "cose:MotionDetector",
+            "right": 1273.3531494140625,
+            "sensor": "tulum:m029",
+            "top": 104.77391815185547,
+            "x": 1248.6979370117188,
+            "y": 114.27999877929688
+        },
+        {
+            "bottom": 406.9605407714844,
+            "id": "tulum_m008",
+            "left": 510.02606201171875,
+            "ref": "cose:MotionDetector",
+            "right": 559.3366088867188,
+            "sensor": "tulum:m008",
+            "top": 387.9483947753906,
+            "x": 534.6813354492188,
+            "y": 397.4544677734375
+        },
+        {
+            "bottom": 523.357421875,
+            "id": "tulum_m009",
+            "left": 345.8543395996094,
+            "ref": "cose:MotionDetector",
+            "right": 395.1648864746094,
+            "sensor": "tulum:m009",
+            "top": 504.34527587890625,
+            "x": 370.5096130371094,
+            "y": 513.8513488769531
+        },
+        {
+            "bottom": 591.11083984375,
+            "id": "tulum_m027",
+            "left": 838.3694458007812,
+            "ref": "cose:MotionDetector",
+            "right": 887.6799926757812,
+            "sensor": "tulum:m027",
+            "top": 572.0986938476562,
+            "x": 863.0247192382812,
+            "y": 581.6047668457031
+        },
+        {
+            "bottom": 495.5611572265625,
+            "id": "tulum_m024",
+            "left": 1250.101806640625,
+            "ref": "cose:MotionDetector",
+            "right": 1299.4122314453125,
+            "sensor": "tulum:m024",
+            "top": 476.54901123046875,
+            "x": 1274.7570190429688,
+            "y": 486.0550842285156
+        },
+        {
+            "bottom": 504.24749755859375,
+            "id": "tulum_m025",
+            "left": 1008.6216430664062,
+            "ref": "cose:MotionDetector",
+            "right": 1057.9322509765625,
+            "sensor": "tulum:m025",
+            "top": 485.2353210449219,
+            "x": 1033.2769470214844,
+            "y": 494.7414093017578
+        },
+        {
+            "bottom": 841.2772827148438,
+            "id": "tulum_m019",
+            "left": 864.4285278320312,
+            "ref": "cose:MotionDetector",
+            "right": 913.739013671875,
+            "sensor": "tulum:m019",
+            "top": 822.26513671875,
+            "x": 889.0837707519531,
+            "y": 831.7712097167969
+        },
+        {
+            "bottom": 920.3228759765625,
+            "id": "tulum_m018",
+            "left": 966.05859375,
+            "ref": "cose:MotionDetector",
+            "right": 1015.369140625,
+            "sensor": "tulum:m018",
+            "top": 901.3107299804688,
+            "x": 990.7138671875,
+            "y": 910.8168029785156
+        },
+        {
+            "bottom": 669.2879028320312,
+            "id": "tulum_m013",
+            "left": 247.69882202148438,
+            "ref": "cose:MotionDetector",
+            "right": 297.0093688964844,
+            "sensor": "tulum:m013",
+            "top": 650.2757568359375,
+            "x": 272.3540954589844,
+            "y": 659.7818298339844
+        },
+        {
+            "bottom": 406.9605407714844,
+            "id": "tulum_m012",
+            "left": 174.73361206054688,
+            "ref": "cose:MotionDetector",
+            "right": 224.04415893554688,
+            "sensor": "tulum:m012",
+            "top": 387.9483947753906,
+            "x": 199.38888549804688,
+            "y": 397.4544677734375
+        },
+        {
+            "bottom": 523.357421875,
+            "id": "tulum_m011",
+            "left": 174.73361206054688,
+            "ref": "cose:MotionDetector",
+            "right": 224.04415893554688,
+            "sensor": "tulum:m011",
+            "top": 504.34527587890625,
+            "x": 199.38888549804688,
+            "y": 513.8513488769531
+        },
+        {
+            "bottom": 406.9605407714844,
+            "id": "tulum_m010",
+            "left": 342.37982177734375,
+            "ref": "cose:MotionDetector",
+            "right": 391.69036865234375,
+            "sensor": "tulum:m010",
+            "top": 387.9483947753906,
+            "x": 367.03509521484375,
+            "y": 397.4544677734375
+        },
+        {
+            "bottom": 231.0623016357422,
+            "id": "tulum_m017",
+            "left": 1126.755859375,
+            "ref": "cose:MotionDetector",
+            "right": 1176.0662841796875,
+            "sensor": "tulum:m017",
+            "top": 212.05015563964844,
+            "x": 1151.4110717773438,
+            "y": 221.5562286376953
+        },
+        {
+            "bottom": 972.2415771484375,
+            "id": "tulum_m016",
+            "left": 153.71669006347656,
+            "ref": "cose:MotionDetector",
+            "right": 203.02725219726562,
+            "sensor": "tulum:m016",
+            "top": 953.2294311523438,
+            "x": 178.3719711303711,
+            "y": 962.7355041503906
+        },
+        {
+            "bottom": 848.226318359375,
+            "id": "tulum_m015",
+            "left": 239.01246643066406,
+            "ref": "cose:MotionDetector",
+            "right": 288.3230285644531,
+            "sensor": "tulum:m015",
+            "top": 829.2141723632812,
+            "x": 263.6677474975586,
+            "y": 838.7202453613281
+        },
+        {
+            "bottom": 757.8884887695312,
+            "id": "tulum_m014",
+            "left": 240.749755859375,
+            "ref": "cose:MotionDetector",
+            "right": 290.060302734375,
+            "sensor": "tulum:m014",
+            "top": 738.8763427734375,
+            "x": 265.405029296875,
+            "y": 748.3824157714844
+        },
+        {
+            "bottom": 332.15582275390625,
+            "id": "tulum_m031",
+            "left": 1202.87890625,
+            "ref": "cose:MotionDetector",
+            "right": 1252.189453125,
+            "sensor": "tulum:m031",
+            "top": 313.1436462402344,
+            "x": 1227.5341796875,
+            "y": 322.6497344970703
+        },
+        {
+            "bottom": 332.15582275390625,
+            "id": "tulum_m030",
+            "left": 979.3040161132812,
+            "ref": "cose:MotionDetector",
+            "right": 1028.614501953125,
+            "sensor": "tulum:m030",
+            "top": 313.1436462402344,
+            "x": 1003.9592590332031,
+            "y": 322.6497344970703
+        }
+    ]
+}

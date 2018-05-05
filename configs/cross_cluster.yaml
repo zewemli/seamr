@@ -1,0 +1,24 @@
+train_for: 15
+eval_for: 30
+xenv_fit: 3
+
+rand_step: [8,16]
+hmm_components: 64
+weight_hours: 2
+weight_step: 0.5
+num_level_checks: 50
+
+max_steps: 20
+step_by: 15
+
+classifier:
+    sklearn.tree.DecisionTreeClassifier:
+        criterion: gini
+        max_leaves: 2048
+
+feat_args:
+    withTimes: true
+    avg: 0.0
+
+xenv_dist: dtw
+

@@ -1,0 +1,15 @@
+@base <http://serc.wsu.edu/owl/activity/BedToToilet.ttl> .
+@prefix activity: <http://serc.wsu.edu/owl/activity.owl#> .
+@prefix cose: <http://serc.wsu.edu/owl/cose.owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<#start>
+    a cose:ActivityComponent ;
+    a <http://serc.wsu.edu/owl/activity/Sleep.ttl> .
+
+<#toilet>
+    a cose:ActivityComponent ;
+    activity:occursIn cose:Bathroom ;
+    activity:involvesObject cose:Toilet ;
+    activity:occursAfter <#start> .

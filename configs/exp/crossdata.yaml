@@ -1,0 +1,4 @@
+expectations:
+    seamr.expectations.CrossDataExp:
+        store: null
+        cls: null

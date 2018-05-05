@@ -1,0 +1,5193 @@
+{
+    "edges": [
+        [
+            "OfficeChair-1",
+            "Desk-1"
+        ],
+        [
+            "OfficeChair-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "OfficeChair-1",
+            "CookingRange-1"
+        ],
+        [
+            "OfficeChair-1",
+            "Freezer-1"
+        ],
+        [
+            "OfficeChair-1",
+            "BathroomSink-1"
+        ],
+        [
+            "OfficeChair-1",
+            "DoubleBed-1"
+        ],
+        [
+            "OfficeChair-1",
+            "Ottoman-1"
+        ],
+        [
+            "OfficeChair-1",
+            "Sofa-1"
+        ],
+        [
+            "OfficeChair-1",
+            "ArmChair-1"
+        ],
+        [
+            "OfficeChair-1",
+            "KitchenChair-1"
+        ],
+        [
+            "OfficeChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "OfficeChair-1",
+            "KitchenChair-3"
+        ],
+        [
+            "OfficeChair-1",
+            "Table-1"
+        ],
+        [
+            "OfficeChair-1",
+            "KitchenSink-1"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m008"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m007"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m006"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m004"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m003"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m002"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m001"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_l003"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls013"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls012"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls011"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls010"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls016"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls015"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls014"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls003"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_l002"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls008"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls001"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls002"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls004"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls005"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls006"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ls007"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ma012"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m010"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m011"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m013"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m014"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m015"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_m016"
+        ],
+        [
+            "OfficeChair-1",
+            "hh112_ma005"
+        ],
+        [
+            "OfficeChair-1",
+            "Wardrobe-1"
+        ],
+        [
+            "Desk-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "Desk-1",
+            "CookingRange-1"
+        ],
+        [
+            "Desk-1",
+            "Freezer-1"
+        ],
+        [
+            "Desk-1",
+            "DoubleBed-1"
+        ],
+        [
+            "Desk-1",
+            "Ottoman-1"
+        ],
+        [
+            "Desk-1",
+            "Sofa-1"
+        ],
+        [
+            "Desk-1",
+            "ArmChair-1"
+        ],
+        [
+            "Desk-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Desk-1",
+            "KitchenChair-2"
+        ],
+        [
+            "Desk-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Desk-1",
+            "Table-1"
+        ],
+        [
+            "Desk-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Desk-1",
+            "hh112_m008"
+        ],
+        [
+            "Desk-1",
+            "hh112_m007"
+        ],
+        [
+            "Desk-1",
+            "hh112_m006"
+        ],
+        [
+            "Desk-1",
+            "hh112_m004"
+        ],
+        [
+            "Desk-1",
+            "hh112_m003"
+        ],
+        [
+            "Desk-1",
+            "hh112_m002"
+        ],
+        [
+            "Desk-1",
+            "hh112_m001"
+        ],
+        [
+            "Desk-1",
+            "hh112_l003"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls013"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls012"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls011"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls010"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls016"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls015"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls014"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls003"
+        ],
+        [
+            "Desk-1",
+            "hh112_l002"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls008"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls001"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls002"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls004"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls005"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls006"
+        ],
+        [
+            "Desk-1",
+            "hh112_ls007"
+        ],
+        [
+            "Desk-1",
+            "hh112_ma012"
+        ],
+        [
+            "Desk-1",
+            "hh112_d004"
+        ],
+        [
+            "Desk-1",
+            "hh112_t104"
+        ],
+        [
+            "Desk-1",
+            "hh112_m010"
+        ],
+        [
+            "Desk-1",
+            "hh112_m011"
+        ],
+        [
+            "Desk-1",
+            "hh112_m013"
+        ],
+        [
+            "Desk-1",
+            "hh112_m014"
+        ],
+        [
+            "Desk-1",
+            "hh112_m015"
+        ],
+        [
+            "Desk-1",
+            "hh112_m016"
+        ],
+        [
+            "Desk-1",
+            "hh112_ma005"
+        ],
+        [
+            "Desk-1",
+            "Wardrobe-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "BathroomSink-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "Ottoman-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "ArmChair-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "KitchenChair-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "KitchenChair-2"
+        ],
+        [
+            "ExteriorDoor-1",
+            "KitchenChair-3"
+        ],
+        [
+            "ExteriorDoor-1",
+            "Table-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m008"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m004"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m003"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m001"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_l003"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls012"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls014"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls003"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls008"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls001"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ls005"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ma012"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_d002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_t102"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m010"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m011"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_m014"
+        ],
+        [
+            "ExteriorDoor-1",
+            "hh112_ma005"
+        ],
+        [
+            "ExteriorDoor-1",
+            "Wardrobe-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "CookingRange-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Freezer-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Bathtub-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Toilet-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "BathroomSink-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Ottoman-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "ArmChair-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Table-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_m009"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_m007"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_m004"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_m003"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_m002"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_m001"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls010"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls003"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls009"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls001"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls002"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls004"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls005"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ls007"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_d001"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_d002"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_d003"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_t101"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_t103"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_t102"
+        ],
+        [
+            "InteriorDoor-1",
+            "hh112_ma005"
+        ],
+        [
+            "InteriorDoor-1",
+            "Wardrobe-1"
+        ],
+        [
+            "CookingRange-1",
+            "Freezer-1"
+        ],
+        [
+            "CookingRange-1",
+            "Ottoman-1"
+        ],
+        [
+            "CookingRange-1",
+            "KitchenChair-1"
+        ],
+        [
+            "CookingRange-1",
+            "KitchenChair-2"
+        ],
+        [
+            "CookingRange-1",
+            "KitchenChair-3"
+        ],
+        [
+            "CookingRange-1",
+            "Table-1"
+        ],
+        [
+            "CookingRange-1",
+            "KitchenSink-1"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_ls016"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_ls015"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_ls014"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_l002"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_d004"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_t104"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_m014"
+        ],
+        [
+            "CookingRange-1",
+            "hh112_m016"
+        ],
+        [
+            "Freezer-1",
+            "Ottoman-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-2"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Freezer-1",
+            "Table-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Freezer-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m008"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m007"
+        ],
+        [
+            "Freezer-1",
+            "hh112_l003"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls013"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls012"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls010"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls016"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls015"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls014"
+        ],
+        [
+            "Freezer-1",
+            "hh112_l002"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls008"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ls007"
+        ],
+        [
+            "Freezer-1",
+            "hh112_ma012"
+        ],
+        [
+            "Freezer-1",
+            "hh112_d001"
+        ],
+        [
+            "Freezer-1",
+            "hh112_d004"
+        ],
+        [
+            "Freezer-1",
+            "hh112_t101"
+        ],
+        [
+            "Freezer-1",
+            "hh112_t104"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m010"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m013"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m014"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m015"
+        ],
+        [
+            "Freezer-1",
+            "hh112_m016"
+        ],
+        [
+            "Freezer-1",
+            "Wardrobe-1"
+        ],
+        [
+            "Bathtub-1",
+            "Toilet-1"
+        ],
+        [
+            "Bathtub-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Bathtub-1",
+            "Ottoman-1"
+        ],
+        [
+            "Bathtub-1",
+            "ArmChair-1"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_m004"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_m003"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_l003"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_ls003"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_ls004"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_ls005"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_d003"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_t103"
+        ],
+        [
+            "Bathtub-1",
+            "hh112_ma005"
+        ],
+        [
+            "Toilet-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Toilet-1",
+            "Ottoman-1"
+        ],
+        [
+            "Toilet-1",
+            "Sofa-1"
+        ],
+        [
+            "Toilet-1",
+            "ArmChair-1"
+        ],
+        [
+            "Toilet-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Toilet-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "Toilet-1",
+            "hh112_m009"
+        ],
+        [
+            "Toilet-1",
+            "hh112_m006"
+        ],
+        [
+            "Toilet-1",
+            "hh112_m004"
+        ],
+        [
+            "Toilet-1",
+            "hh112_m003"
+        ],
+        [
+            "Toilet-1",
+            "hh112_l003"
+        ],
+        [
+            "Toilet-1",
+            "hh112_ls003"
+        ],
+        [
+            "Toilet-1",
+            "hh112_ls009"
+        ],
+        [
+            "Toilet-1",
+            "hh112_ls004"
+        ],
+        [
+            "Toilet-1",
+            "hh112_ls005"
+        ],
+        [
+            "Toilet-1",
+            "hh112_d001"
+        ],
+        [
+            "Toilet-1",
+            "hh112_d002"
+        ],
+        [
+            "Toilet-1",
+            "hh112_d003"
+        ],
+        [
+            "Toilet-1",
+            "hh112_t101"
+        ],
+        [
+            "Toilet-1",
+            "hh112_t103"
+        ],
+        [
+            "Toilet-1",
+            "hh112_t102"
+        ],
+        [
+            "Toilet-1",
+            "hh112_ma005"
+        ],
+        [
+            "BathroomSink-1",
+            "Ottoman-1"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_m009"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_m002"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_m001"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_l003"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_ls013"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_ls001"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_ls002"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_ls004"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_ls005"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_d002"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_d003"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_t103"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_t102"
+        ],
+        [
+            "BathroomSink-1",
+            "hh112_ma005"
+        ],
+        [
+            "DoubleBed-1",
+            "Ottoman-1"
+        ],
+        [
+            "DoubleBed-1",
+            "Sofa-1"
+        ],
+        [
+            "DoubleBed-1",
+            "KitchenChair-2"
+        ],
+        [
+            "DoubleBed-1",
+            "KitchenChair-3"
+        ],
+        [
+            "DoubleBed-1",
+            "Table-1"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_m008"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_m007"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_m006"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_m004"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_m003"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_l003"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls013"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls003"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls008"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls004"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls005"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls006"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ls007"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_m013"
+        ],
+        [
+            "DoubleBed-1",
+            "hh112_ma005"
+        ],
+        [
+            "DoubleBed-1",
+            "Wardrobe-1"
+        ],
+        [
+            "Ottoman-1",
+            "Sofa-1"
+        ],
+        [
+            "Ottoman-1",
+            "ArmChair-1"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenChair-2"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Ottoman-1",
+            "Table-1"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Ottoman-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Ottoman-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m009"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m008"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m007"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m006"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m004"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m003"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m002"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m001"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_l003"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls013"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls012"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls011"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls010"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls016"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls015"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls014"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls003"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_l002"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls008"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls009"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls001"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls002"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls004"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls005"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls006"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ls007"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ma012"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_d001"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_d002"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_d003"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_d004"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_t101"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_t103"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_t102"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_t104"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m010"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m011"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m013"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m014"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m015"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_m016"
+        ],
+        [
+            "Ottoman-1",
+            "hh112_ma005"
+        ],
+        [
+            "Ottoman-1",
+            "Wardrobe-1"
+        ],
+        [
+            "Sofa-1",
+            "ArmChair-1"
+        ],
+        [
+            "Sofa-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Sofa-1",
+            "KitchenChair-2"
+        ],
+        [
+            "Sofa-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Sofa-1",
+            "Table-1"
+        ],
+        [
+            "Sofa-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Sofa-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m009"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m008"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m007"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m006"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m002"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls013"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls012"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls011"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls010"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls015"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls014"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls008"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls009"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls001"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls002"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls005"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls006"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ls007"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ma012"
+        ],
+        [
+            "Sofa-1",
+            "hh112_d001"
+        ],
+        [
+            "Sofa-1",
+            "hh112_d003"
+        ],
+        [
+            "Sofa-1",
+            "hh112_t101"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m010"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m011"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m013"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m014"
+        ],
+        [
+            "Sofa-1",
+            "hh112_m015"
+        ],
+        [
+            "Sofa-1",
+            "hh112_ma005"
+        ],
+        [
+            "Sofa-1",
+            "Wardrobe-1"
+        ],
+        [
+            "ArmChair-1",
+            "KitchenChair-1"
+        ],
+        [
+            "ArmChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "ArmChair-1",
+            "KitchenChair-3"
+        ],
+        [
+            "ArmChair-1",
+            "Table-1"
+        ],
+        [
+            "ArmChair-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "ArmChair-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m009"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m008"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m007"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m002"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls013"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls012"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls011"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls010"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls015"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls014"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls009"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls002"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ls007"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_ma012"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_d001"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_d003"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_t101"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_t103"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m010"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m011"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m013"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m014"
+        ],
+        [
+            "ArmChair-1",
+            "hh112_m015"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-1",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "KitchenChair-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m009"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m008"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m007"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m001"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_l003"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls013"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls012"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls011"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls010"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls016"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls015"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls014"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_l002"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls008"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls009"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls001"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls005"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ls007"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ma012"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_d001"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_d004"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_t101"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_t102"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_t104"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m010"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m011"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m013"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m014"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m015"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_m016"
+        ],
+        [
+            "KitchenChair-1",
+            "hh112_ma005"
+        ],
+        [
+            "KitchenChair-1",
+            "Wardrobe-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-2",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-2",
+            "InteriorDoor-2"
+        ],
+        [
+            "KitchenChair-2",
+            "InteriorDoor-3"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m009"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m008"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m007"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m001"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_l003"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls013"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls012"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls011"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls010"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls016"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls015"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls014"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_l002"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls008"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls009"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls001"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls005"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls006"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ls007"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ma012"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_d001"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_d004"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_t101"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_t104"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m010"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m011"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m013"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m014"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m015"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_m016"
+        ],
+        [
+            "KitchenChair-2",
+            "hh112_ma005"
+        ],
+        [
+            "KitchenChair-2",
+            "Wardrobe-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-3",
+            "InteriorDoor-2"
+        ],
+        [
+            "KitchenChair-3",
+            "InteriorDoor-3"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m009"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m008"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m007"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m006"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m004"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m001"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_l003"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls013"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls012"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls011"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls010"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls016"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls015"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls014"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_l002"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls008"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls009"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls004"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls005"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls006"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ls007"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ma012"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_d001"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_d002"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_t101"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_t103"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_t102"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m010"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m011"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m013"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m014"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m015"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_m016"
+        ],
+        [
+            "KitchenChair-3",
+            "hh112_ma005"
+        ],
+        [
+            "KitchenChair-3",
+            "Wardrobe-1"
+        ],
+        [
+            "Table-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Table-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Table-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "Table-1",
+            "hh112_m009"
+        ],
+        [
+            "Table-1",
+            "hh112_m008"
+        ],
+        [
+            "Table-1",
+            "hh112_m007"
+        ],
+        [
+            "Table-1",
+            "hh112_m006"
+        ],
+        [
+            "Table-1",
+            "hh112_m004"
+        ],
+        [
+            "Table-1",
+            "hh112_m001"
+        ],
+        [
+            "Table-1",
+            "hh112_l003"
+        ],
+        [
+            "Table-1",
+            "hh112_ls013"
+        ],
+        [
+            "Table-1",
+            "hh112_ls012"
+        ],
+        [
+            "Table-1",
+            "hh112_ls011"
+        ],
+        [
+            "Table-1",
+            "hh112_ls010"
+        ],
+        [
+            "Table-1",
+            "hh112_ls016"
+        ],
+        [
+            "Table-1",
+            "hh112_ls015"
+        ],
+        [
+            "Table-1",
+            "hh112_ls014"
+        ],
+        [
+            "Table-1",
+            "hh112_l002"
+        ],
+        [
+            "Table-1",
+            "hh112_ls008"
+        ],
+        [
+            "Table-1",
+            "hh112_ls009"
+        ],
+        [
+            "Table-1",
+            "hh112_ls004"
+        ],
+        [
+            "Table-1",
+            "hh112_ls005"
+        ],
+        [
+            "Table-1",
+            "hh112_ls006"
+        ],
+        [
+            "Table-1",
+            "hh112_ls007"
+        ],
+        [
+            "Table-1",
+            "hh112_ma012"
+        ],
+        [
+            "Table-1",
+            "hh112_d001"
+        ],
+        [
+            "Table-1",
+            "hh112_d002"
+        ],
+        [
+            "Table-1",
+            "hh112_d004"
+        ],
+        [
+            "Table-1",
+            "hh112_t101"
+        ],
+        [
+            "Table-1",
+            "hh112_t102"
+        ],
+        [
+            "Table-1",
+            "hh112_m010"
+        ],
+        [
+            "Table-1",
+            "hh112_m011"
+        ],
+        [
+            "Table-1",
+            "hh112_m013"
+        ],
+        [
+            "Table-1",
+            "hh112_m014"
+        ],
+        [
+            "Table-1",
+            "hh112_m015"
+        ],
+        [
+            "Table-1",
+            "hh112_m016"
+        ],
+        [
+            "Table-1",
+            "hh112_ma005"
+        ],
+        [
+            "Table-1",
+            "Wardrobe-1"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m008"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m007"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m003"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m002"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_l003"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls013"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls012"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls011"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls016"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls015"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls014"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls003"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_l002"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls008"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls002"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls005"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ls007"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ma012"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_d004"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_t104"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m010"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m011"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m013"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m014"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m015"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_m016"
+        ],
+        [
+            "KitchenSink-1",
+            "hh112_ma005"
+        ],
+        [
+            "KitchenSink-1",
+            "Wardrobe-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "InteriorDoor-3"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m009"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m002"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls013"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls012"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls011"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls010"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls016"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls015"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls014"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_l002"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls009"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ls002"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_ma012"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_d001"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_d003"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_t103"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m010"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m011"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m013"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m014"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m015"
+        ],
+        [
+            "InteriorDoor-2",
+            "hh112_m016"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m009"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m002"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls013"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls012"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls011"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls010"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls016"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls015"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls014"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_l002"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls008"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls009"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ls002"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_ma012"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_d001"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_d003"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_t103"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m010"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m011"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m013"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m014"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m015"
+        ],
+        [
+            "InteriorDoor-3",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m002"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls013"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls012"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls011"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m009",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_m009",
+            "hh112_d001"
+        ],
+        [
+            "hh112_m009",
+            "hh112_d003"
+        ],
+        [
+            "hh112_m009",
+            "hh112_t101"
+        ],
+        [
+            "hh112_m009",
+            "hh112_t103"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m010"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m011"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m009",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m007"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m006"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m004"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m003"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m001"
+        ],
+        [
+            "hh112_m008",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls013"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls012"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls011"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m008",
+            "hh112_l002"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_m008",
+            "hh112_d002"
+        ],
+        [
+            "hh112_m008",
+            "hh112_t102"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m011"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m008",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m008",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m008",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m006"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m004"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m003"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m002"
+        ],
+        [
+            "hh112_m007",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls013"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls012"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls011"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m007",
+            "hh112_l002"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_m007",
+            "hh112_d003"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m010"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m011"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m007",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m007",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m007",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m006",
+            "hh112_m004"
+        ],
+        [
+            "hh112_m006",
+            "hh112_m003"
+        ],
+        [
+            "hh112_m006",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls013"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_m006",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m006",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m006",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m004",
+            "hh112_m003"
+        ],
+        [
+            "hh112_m004",
+            "hh112_m002"
+        ],
+        [
+            "hh112_m004",
+            "hh112_m001"
+        ],
+        [
+            "hh112_m004",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls013"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_m004",
+            "hh112_d003"
+        ],
+        [
+            "hh112_m004",
+            "hh112_t102"
+        ],
+        [
+            "hh112_m004",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m004",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m004",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m003",
+            "hh112_m002"
+        ],
+        [
+            "hh112_m003",
+            "hh112_m001"
+        ],
+        [
+            "hh112_m003",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_m003",
+            "hh112_d002"
+        ],
+        [
+            "hh112_m003",
+            "hh112_d003"
+        ],
+        [
+            "hh112_m003",
+            "hh112_t103"
+        ],
+        [
+            "hh112_m003",
+            "hh112_t102"
+        ],
+        [
+            "hh112_m003",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m003",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m002",
+            "hh112_m001"
+        ],
+        [
+            "hh112_m002",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls012"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls011"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_m002",
+            "hh112_d001"
+        ],
+        [
+            "hh112_m002",
+            "hh112_d002"
+        ],
+        [
+            "hh112_m002",
+            "hh112_t102"
+        ],
+        [
+            "hh112_m002",
+            "hh112_m010"
+        ],
+        [
+            "hh112_m002",
+            "hh112_m011"
+        ],
+        [
+            "hh112_m002",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m002",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m002",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m001",
+            "hh112_l003"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls012"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_m001",
+            "hh112_d002"
+        ],
+        [
+            "hh112_m001",
+            "hh112_t102"
+        ],
+        [
+            "hh112_m001",
+            "hh112_m010"
+        ],
+        [
+            "hh112_m001",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m001",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m001",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m001",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m001",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls013"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls003"
+        ],
+        [
+            "hh112_l003",
+            "hh112_l002"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_l003",
+            "hh112_d002"
+        ],
+        [
+            "hh112_l003",
+            "hh112_t102"
+        ],
+        [
+            "hh112_l003",
+            "hh112_m013"
+        ],
+        [
+            "hh112_l003",
+            "hh112_m014"
+        ],
+        [
+            "hh112_l003",
+            "hh112_m015"
+        ],
+        [
+            "hh112_l003",
+            "hh112_m016"
+        ],
+        [
+            "hh112_l003",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_l003",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls012"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls011"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_l002"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_t102"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls013",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls013",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls011"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls012",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls012",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls010"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_d003"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_t103"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls011",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls011",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls016"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_d003"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_t103"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls010",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls015"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_l002"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_d004"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_t104"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls016",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls016",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ls014"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_l002"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls015",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls015",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_l002"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ls009"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls014",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls014",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_d003"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_t103"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_t102"
+        ],
+        [
+            "hh112_ls003",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls003",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_l002",
+            "hh112_ls008"
+        ],
+        [
+            "hh112_l002",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_l002",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_l002",
+            "hh112_d004"
+        ],
+        [
+            "hh112_l002",
+            "hh112_t104"
+        ],
+        [
+            "hh112_l002",
+            "hh112_m013"
+        ],
+        [
+            "hh112_l002",
+            "hh112_m014"
+        ],
+        [
+            "hh112_l002",
+            "hh112_m015"
+        ],
+        [
+            "hh112_l002",
+            "hh112_m016"
+        ],
+        [
+            "hh112_l002",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_l002",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ls001"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_t102"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls008",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls008",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_d003"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_t103"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls009",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_ls002"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_t102"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls001",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_ls004"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_t103"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_t102"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls002",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls004",
+            "hh112_ls005"
+        ],
+        [
+            "hh112_ls004",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_ls004",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls004",
+            "hh112_d003"
+        ],
+        [
+            "hh112_ls004",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls004",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls004",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_ls006"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_t102"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls005",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls005",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls006",
+            "hh112_ls007"
+        ],
+        [
+            "hh112_ls006",
+            "hh112_d002"
+        ],
+        [
+            "hh112_ls006",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls006",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls006",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_ma012"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_d003"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ls007",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_ls007",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_d001"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_t101"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_m010"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_m011"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_m013"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_m014"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_m015"
+        ],
+        [
+            "hh112_ma012",
+            "hh112_m016"
+        ],
+        [
+            "hh112_ma012",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_d001",
+            "hh112_d003"
+        ],
+        [
+            "hh112_d001",
+            "hh112_t101"
+        ],
+        [
+            "hh112_d001",
+            "hh112_t103"
+        ],
+        [
+            "hh112_d001",
+            "hh112_m010"
+        ],
+        [
+            "hh112_d001",
+            "hh112_m011"
+        ],
+        [
+            "hh112_d001",
+            "hh112_m013"
+        ],
+        [
+            "hh112_d001",
+            "hh112_m014"
+        ],
+        [
+            "hh112_d001",
+            "hh112_m015"
+        ],
+        [
+            "hh112_d001",
+            "hh112_m016"
+        ],
+        [
+            "hh112_d001",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_d002",
+            "hh112_t102"
+        ],
+        [
+            "hh112_d002",
+            "hh112_m013"
+        ],
+        [
+            "hh112_d002",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_d002",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_d003",
+            "hh112_t101"
+        ],
+        [
+            "hh112_d003",
+            "hh112_t103"
+        ],
+        [
+            "hh112_d003",
+            "hh112_m010"
+        ],
+        [
+            "hh112_d003",
+            "hh112_m011"
+        ],
+        [
+            "hh112_d004",
+            "hh112_t104"
+        ],
+        [
+            "hh112_d004",
+            "hh112_m016"
+        ],
+        [
+            "hh112_t101",
+            "hh112_t103"
+        ],
+        [
+            "hh112_t101",
+            "hh112_m010"
+        ],
+        [
+            "hh112_t101",
+            "hh112_m011"
+        ],
+        [
+            "hh112_t101",
+            "hh112_m013"
+        ],
+        [
+            "hh112_t101",
+            "hh112_m014"
+        ],
+        [
+            "hh112_t101",
+            "hh112_m015"
+        ],
+        [
+            "hh112_t101",
+            "hh112_m016"
+        ],
+        [
+            "hh112_t101",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_t103",
+            "hh112_m011"
+        ],
+        [
+            "hh112_t102",
+            "hh112_m014"
+        ],
+        [
+            "hh112_t102",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_t102",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_t104",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m010",
+            "hh112_m011"
+        ],
+        [
+            "hh112_m010",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m010",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m010",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m010",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m011",
+            "hh112_m013"
+        ],
+        [
+            "hh112_m011",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m011",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m011",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m013",
+            "hh112_m014"
+        ],
+        [
+            "hh112_m013",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m013",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m013",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m013",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m014",
+            "hh112_m015"
+        ],
+        [
+            "hh112_m014",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m014",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m014",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m015",
+            "hh112_m016"
+        ],
+        [
+            "hh112_m015",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m015",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_m016",
+            "hh112_ma005"
+        ],
+        [
+            "hh112_m016",
+            "Wardrobe-1"
+        ],
+        [
+            "hh112_ma005",
+            "Wardrobe-1"
+        ]
+    ],
+    "nodes": [
+        {
+            "bottom": 341.6845755509509,
+            "id": "OfficeChair-1",
+            "left": 85.61966541534079,
+            "ref": "cose:OfficeChair",
+            "right": 105.61974380774915,
+            "sensor": "",
+            "top": 282.36559028862047,
+            "x": 95.61970461154498,
+            "y": 312.0250829197857
+        },
+        {
+            "bottom": 396.93990657096447,
+            "id": "Desk-1",
+            "left": 22.384606117614993,
+            "ref": "cose:Desk",
+            "right": 131.04176320111765,
+            "sensor": "",
+            "top": 237.0723035379292,
+            "x": 79.36362268881712,
+            "y": 330.25617997162215
+        },
+        {
+            "bottom": 484.6543261012049,
+            "id": "ExteriorDoor-1",
+            "left": 830.7556029881507,
+            "ref": "cose:ExteriorDoor",
+            "right": 865.5379285618397,
+            "sensor": "",
+            "top": 382.1112625742188,
+            "x": 842.0897384517698,
+            "y": 461.73652839435783
+        },
+        {
+            "bottom": 298.66568259045494,
+            "id": "InteriorDoor-1",
+            "left": 618.1251798962649,
+            "ref": "cose:InteriorDoor",
+            "right": 723.8330286248165,
+            "sensor": "",
+            "top": 271.850389841944,
+            "x": 670.9791042605407,
+            "y": 285.25803621619946
+        },
+        {
+            "bottom": 1449.2036330997944,
+            "id": "CookingRange-1",
+            "left": 326.42151513695717,
+            "ref": "cose:CookingRange",
+            "right": 398.619313031435,
+            "sensor": "",
+            "top": 1377.0058352053165,
+            "x": 362.5204140841961,
+            "y": 1413.1047341525555
+        },
+        {
+            "bottom": 1340.909311257115,
+            "id": "Freezer-1",
+            "left": 308.6687351667415,
+            "ref": "cose:Freezer",
+            "right": 397.75940082935585,
+            "sensor": "",
+            "top": 1257.9400926772137,
+            "x": 325.0192250520519,
+            "y": 1300.4267750605384
+        },
+        {
+            "bottom": 228.4472541809082,
+            "id": "Bathtub-1",
+            "left": 755.3576505184174,
+            "ref": "cose:Bathtub",
+            "right": 850.2153282165527,
+            "sensor": "",
+            "top": 29.25178813934326,
+            "x": 805.7125950256983,
+            "y": 98.59949241081874
+        },
+        {
+            "bottom": 118.89466845348579,
+            "id": "Toilet-1",
+            "left": 638.9392919838428,
+            "ref": "cose:Toilet",
+            "right": 700.6969062262324,
+            "sensor": "",
+            "top": 29.089295151188225,
+            "x": 669.817849525166,
+            "y": 61.06933486553308
+        },
+        {
+            "bottom": 238.4064587967043,
+            "id": "BathroomSink-1",
+            "left": 575.264210947703,
+            "ref": "cose:BathroomSink",
+            "right": 614.3728690694572,
+            "sensor": "",
+            "top": 202.9939256025161,
+            "x": 587.2007861622568,
+            "y": 220.60285181710302
+        },
+        {
+            "bottom": 235.3069533407688,
+            "id": "DoubleBed-1",
+            "left": 310.5057733952999,
+            "ref": "cose:DoubleBed",
+            "right": 547.5983029641786,
+            "sensor": "",
+            "top": 36.8591850331909,
+            "x": 497.0811425212355,
+            "y": 101.99764856122226
+        },
+        {
+            "bottom": null,
+            "id": "Ottoman-1",
+            "left": null,
+            "ref": "cose:Ottoman",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": 1225.2414150008658,
+            "id": "Sofa-1",
+            "left": 384.5562148944935,
+            "ref": "cose:Sofa",
+            "right": 628.4317242935646,
+            "sensor": "",
+            "top": 1077.774710369671,
+            "x": 505.19889525948497,
+            "y": 1147.1509013250775
+        },
+        {
+            "bottom": 1019.2015318670615,
+            "id": "ArmChair-1",
+            "left": 611.6919217763473,
+            "ref": "cose:ArmChair",
+            "right": 728.7495056255244,
+            "sensor": "",
+            "top": 889.3153537016793,
+            "x": 669.1317691426013,
+            "y": 955.2106833293033
+        },
+        {
+            "bottom": 1104.3435225486755,
+            "id": "KitchenChair-1",
+            "left": 62.589324951171875,
+            "ref": "cose:KitchenChair",
+            "right": 109.50688552856445,
+            "sensor": "",
+            "top": 1050.9459725618362,
+            "x": 86.04808759689331,
+            "y": 1067.655829012394
+        },
+        {
+            "bottom": 1267.8718985319138,
+            "id": "KitchenChair-2",
+            "left": 62.5893669128418,
+            "ref": "cose:KitchenChair",
+            "right": 109.50692749023438,
+            "sensor": "",
+            "top": 1214.4743485450745,
+            "x": 86.04816484451294,
+            "y": 1251.162042081356
+        },
+        {
+            "bottom": 780.4886031150818,
+            "id": "KitchenChair-3",
+            "left": 76.62482452392578,
+            "ref": "cose:KitchenChair",
+            "right": 123.54238510131836,
+            "sensor": "",
+            "top": 727.0910531282425,
+            "x": 100.08358716964722,
+            "y": 743.8009095788002
+        },
+        {
+            "bottom": 873.2747681623273,
+            "id": "Table-1",
+            "left": -110.77791296124997,
+            "ref": "cose:Table",
+            "right": 157.449714759146,
+            "sensor": "",
+            "top": 651.9967194165611,
+            "x": 18.75240831505448,
+            "y": 758.0522973793925
+        },
+        {
+            "bottom": 1555.4661091566086,
+            "id": "KitchenSink-1",
+            "left": 92.33524215221405,
+            "ref": "cose:KitchenSink",
+            "right": 191.92167556285858,
+            "sensor": "",
+            "top": 1495.3541210889816,
+            "x": 153.10042617718378,
+            "y": 1531.2033254901569
+        },
+        {
+            "bottom": 655.2052383422852,
+            "id": "InteriorDoor-2",
+            "left": 779.0169677734375,
+            "ref": "cose:InteriorDoor",
+            "right": 783.46826171875,
+            "sensor": "",
+            "top": 547.3308715820312,
+            "x": 781.2426147460938,
+            "y": 601.2680549621582
+        },
+        {
+            "bottom": 747.7898330688477,
+            "id": "InteriorDoor-3",
+            "left": 789.7339477539062,
+            "ref": "cose:InteriorDoor",
+            "right": 794.1852416992188,
+            "sensor": "",
+            "top": 639.9154663085938,
+            "x": 791.9595947265625,
+            "y": 693.8526496887207
+        },
+        {
+            "bottom": 639.8148803710938,
+            "id": "hh112_m009",
+            "left": 739.3430786132812,
+            "ref": "cose:MotionDetector",
+            "right": 782.4833374023438,
+            "sensor": "hh112:m009",
+            "top": 623.7837524414062,
+            "x": 760.9132080078125,
+            "y": 631.79931640625
+        },
+        {
+            "bottom": 128.86599731445312,
+            "id": "hh112_m008",
+            "left": 164.1763916015625,
+            "ref": "cose:MotionDetector",
+            "right": 207.31661987304688,
+            "sensor": "hh112:m008",
+            "top": 112.83489990234375,
+            "x": 185.7465057373047,
+            "y": 120.85044860839844
+        },
+        {
+            "bottom": 403.720947265625,
+            "id": "hh112_m007",
+            "left": 163.00869750976562,
+            "ref": "cose:MotionDetector",
+            "right": 206.14894104003906,
+            "sensor": "hh112:m007",
+            "top": 387.6898498535156,
+            "x": 184.57881927490234,
+            "y": 395.7053985595703
+        },
+        {
+            "bottom": 180.2772216796875,
+            "id": "hh112_m006",
+            "left": 421.8057861328125,
+            "ref": "cose:MotionDetector",
+            "right": 464.9460144042969,
+            "sensor": "hh112:m006",
+            "top": 164.24612426757812,
+            "x": 443.3759002685547,
+            "y": 172.2616729736328
+        },
+        {
+            "bottom": 357.10174560546875,
+            "id": "hh112_m004",
+            "left": 362.48040771484375,
+            "ref": "cose:MotionDetector",
+            "right": 405.62066650390625,
+            "sensor": "hh112:m004",
+            "top": 341.0706481933594,
+            "x": 384.050537109375,
+            "y": 349.08619689941406
+        },
+        {
+            "bottom": 364.8153991699219,
+            "id": "hh112_m003",
+            "left": 561.7364501953125,
+            "ref": "cose:MotionDetector",
+            "right": 604.876708984375,
+            "sensor": "hh112:m003",
+            "top": 348.7842712402344,
+            "x": 583.3065795898438,
+            "y": 356.7998352050781
+        },
+        {
+            "bottom": 331.7961120605469,
+            "id": "hh112_m002",
+            "left": 741.5919799804688,
+            "ref": "cose:MotionDetector",
+            "right": 784.732177734375,
+            "sensor": "hh112:m002",
+            "top": 315.7650146484375,
+            "x": 763.1620788574219,
+            "y": 323.7805633544922
+        },
+        {
+            "bottom": 444.2526550292969,
+            "id": "hh112_m001",
+            "left": 822.3729248046875,
+            "ref": "cose:MotionDetector",
+            "right": 865.5131225585938,
+            "sensor": "hh112:m001",
+            "top": 428.2215576171875,
+            "x": 843.9430236816406,
+            "y": 436.2371063232422
+        },
+        {
+            "bottom": 224.14324951171875,
+            "id": "hh112_l003",
+            "left": 286.6773681640625,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 324.802001953125,
+            "sensor": "hh112:l003",
+            "top": 208.11215209960938,
+            "x": 305.73968505859375,
+            "y": 216.12770080566406
+        },
+        {
+            "bottom": 593.2496948242188,
+            "id": "hh112_ls013",
+            "left": 204.32774353027344,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 252.5304412841797,
+            "sensor": "hh112:ls013",
+            "top": 577.2185668945312,
+            "x": 228.42909240722656,
+            "y": 585.234130859375
+        },
+        {
+            "bottom": 894.27099609375,
+            "id": "hh112_ls012",
+            "left": 403.1461486816406,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 451.3488464355469,
+            "sensor": "hh112:ls012",
+            "top": 878.2399291992188,
+            "x": 427.24749755859375,
+            "y": 886.2554626464844
+        },
+        {
+            "bottom": 1109.8809814453125,
+            "id": "hh112_ls011",
+            "left": 508.4877624511719,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 556.6904907226562,
+            "sensor": "hh112:ls011",
+            "top": 1093.849853515625,
+            "x": 532.5891265869141,
+            "y": 1101.8654174804688
+        },
+        {
+            "bottom": 791.7588500976562,
+            "id": "hh112_ls010",
+            "left": 580.4078369140625,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 628.6104736328125,
+            "sensor": "hh112:ls010",
+            "top": 775.727783203125,
+            "x": 604.5091552734375,
+            "y": 783.7433166503906
+        },
+        {
+            "bottom": 1429.3865966796875,
+            "id": "hh112_ls016",
+            "left": 137.68324279785156,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 185.8859405517578,
+            "sensor": "hh112:ls016",
+            "top": 1413.35546875,
+            "x": 161.7845916748047,
+            "y": 1421.3710327148438
+        },
+        {
+            "bottom": 1199.56982421875,
+            "id": "hh112_ls015",
+            "left": 275.3132629394531,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 323.5159606933594,
+            "sensor": "hh112:ls015",
+            "top": 1183.5386962890625,
+            "x": 299.41461181640625,
+            "y": 1191.5542602539062
+        },
+        {
+            "bottom": 978.9545288085938,
+            "id": "hh112_ls014",
+            "left": 204.12632751464844,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 252.3290252685547,
+            "sensor": "hh112:ls014",
+            "top": 962.9234008789062,
+            "x": 228.22767639160156,
+            "y": 970.93896484375
+        },
+        {
+            "bottom": 396.3037414550781,
+            "id": "hh112_ls003",
+            "left": 540.5010986328125,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 588.7037963867188,
+            "sensor": "hh112:ls003",
+            "top": 380.27264404296875,
+            "x": 564.6024475097656,
+            "y": 388.28819274902344
+        },
+        {
+            "bottom": 1407.9798583984375,
+            "id": "hh112_l002",
+            "left": 268.7582702636719,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 306.8829345703125,
+            "sensor": "hh112:l002",
+            "top": 1391.94873046875,
+            "x": 287.8206024169922,
+            "y": 1399.9642944335938
+        },
+        {
+            "bottom": 160.1033935546875,
+            "id": "hh112_ls008",
+            "left": 145.8702850341797,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 194.07296752929688,
+            "sensor": "hh112:ls008",
+            "top": 144.07229614257812,
+            "x": 169.97162628173828,
+            "y": 152.0878448486328
+        },
+        {
+            "bottom": 670.7900390625,
+            "id": "hh112_ls009",
+            "left": 721.4353637695312,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 769.6380615234375,
+            "sensor": "hh112:ls009",
+            "top": 654.7589721679688,
+            "x": 745.5367126464844,
+            "y": 662.7745056152344
+        },
+        {
+            "bottom": 411.1080017089844,
+            "id": "hh112_ls001",
+            "left": 803.769775390625,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 851.972412109375,
+            "sensor": "hh112:ls001",
+            "top": 395.076904296875,
+            "x": 827.87109375,
+            "y": 403.0924530029297
+        },
+        {
+            "bottom": 362.6563720703125,
+            "id": "hh112_ls002",
+            "left": 723.037841796875,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 771.2405395507812,
+            "sensor": "hh112:ls002",
+            "top": 346.6252746582031,
+            "x": 747.1391906738281,
+            "y": 354.6408233642578
+        },
+        {
+            "bottom": 387.98614501953125,
+            "id": "hh112_ls004",
+            "left": 344.48577880859375,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 392.6884460449219,
+            "sensor": "hh112:ls004",
+            "top": 371.9550476074219,
+            "x": 368.5871124267578,
+            "y": 379.97059631347656
+        },
+        {
+            "bottom": 292.29248046875,
+            "id": "hh112_ls005",
+            "left": 328.7002258300781,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 376.9029235839844,
+            "sensor": "hh112:ls005",
+            "top": 276.2613830566406,
+            "x": 352.80157470703125,
+            "y": 284.2769317626953
+        },
+        {
+            "bottom": 212.97879028320312,
+            "id": "hh112_ls006",
+            "left": 442.8692626953125,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 491.0719299316406,
+            "sensor": "hh112:ls006",
+            "top": 196.9476776123047,
+            "x": 466.97059631347656,
+            "y": 204.9632339477539
+        },
+        {
+            "bottom": 434.6547546386719,
+            "id": "hh112_ls007",
+            "left": 180.98422241210938,
+            "ref": "cose:PowerSwitchSensor",
+            "right": 229.18690490722656,
+            "sensor": "hh112:ls007",
+            "top": 418.6236572265625,
+            "x": 205.08556365966797,
+            "y": 426.6392059326172
+        },
+        {
+            "bottom": 862.8366088867188,
+            "id": "hh112_ma012",
+            "left": 385.03656005859375,
+            "ref": "cose:AreaMotionDetector",
+            "right": 439.00482177734375,
+            "sensor": "hh112:ma012",
+            "top": 846.8054809570312,
+            "x": 412.02069091796875,
+            "y": 854.821044921875
+        },
+        {
+            "bottom": 740.4312744140625,
+            "id": "hh112_d001",
+            "left": 743.8352661132812,
+            "ref": "cose:ContactSensor",
+            "right": 784.6630249023438,
+            "sensor": "hh112:d001",
+            "top": 724.400146484375,
+            "x": 764.2491455078125,
+            "y": 732.4157104492188
+        },
+        {
+            "bottom": 510.847900390625,
+            "id": "hh112_d002",
+            "left": 821.59814453125,
+            "ref": "cose:ContactSensor",
+            "right": 862.4259033203125,
+            "sensor": "hh112:d002",
+            "top": 494.8167724609375,
+            "x": 842.0120239257812,
+            "y": 502.83233642578125
+        },
+        {
+            "bottom": 259.6861877441406,
+            "id": "hh112_d003",
+            "left": 695.4965209960938,
+            "ref": "cose:ContactSensor",
+            "right": 736.3242797851562,
+            "sensor": "hh112:d003",
+            "top": 243.65509033203125,
+            "x": 715.910400390625,
+            "y": 251.67063903808594
+        },
+        {
+            "bottom": 1334.408203125,
+            "id": "hh112_d004",
+            "left": 355.2593688964844,
+            "ref": "cose:ContactSensor",
+            "right": 396.0871276855469,
+            "sensor": "hh112:d004",
+            "top": 1318.3770751953125,
+            "x": 375.6732482910156,
+            "y": 1326.3926391601562
+        },
+        {
+            "bottom": 772.8157348632812,
+            "id": "hh112_t101",
+            "left": 764.143798828125,
+            "ref": "cose:TemperatureSensor",
+            "right": 802.9091186523438,
+            "sensor": "hh112:t101",
+            "top": 756.7846069335938,
+            "x": 783.5264587402344,
+            "y": 764.8001708984375
+        },
+        {
+            "bottom": 225.3965301513672,
+            "id": "hh112_t103",
+            "left": 674.86572265625,
+            "ref": "cose:TemperatureSensor",
+            "right": 713.6309814453125,
+            "sensor": "hh112:t103",
+            "top": 209.36541748046875,
+            "x": 694.2483520507812,
+            "y": 217.38097381591797
+        },
+        {
+            "bottom": 478.0316467285156,
+            "id": "hh112_t102",
+            "left": 840.8432006835938,
+            "ref": "cose:TemperatureSensor",
+            "right": 879.6084594726562,
+            "sensor": "hh112:t102",
+            "top": 462.00054931640625,
+            "x": 860.225830078125,
+            "y": 470.01609802246094
+        },
+        {
+            "bottom": 1303.231201171875,
+            "id": "hh112_t104",
+            "left": 373.1136779785156,
+            "ref": "cose:TemperatureSensor",
+            "right": 411.87896728515625,
+            "sensor": "hh112:t104",
+            "top": 1287.2001953125,
+            "x": 392.49632263183594,
+            "y": 1295.2156982421875
+        },
+        {
+            "bottom": 760.6148681640625,
+            "id": "hh112_m010",
+            "left": 562.0594482421875,
+            "ref": "cose:MotionDetector",
+            "right": 605.19970703125,
+            "sensor": "hh112:m010",
+            "top": 744.583740234375,
+            "x": 583.6295776367188,
+            "y": 752.5993041992188
+        },
+        {
+            "bottom": 1078.92236328125,
+            "id": "hh112_m011",
+            "left": 526.3814086914062,
+            "ref": "cose:MotionDetector",
+            "right": 569.5216674804688,
+            "sensor": "hh112:m011",
+            "top": 1062.8912353515625,
+            "x": 547.9515380859375,
+            "y": 1070.9067993164062
+        },
+        {
+            "bottom": 561.991455078125,
+            "id": "hh112_m013",
+            "left": 186.2700653076172,
+            "ref": "cose:MotionDetector",
+            "right": 229.41029357910156,
+            "sensor": "hh112:m013",
+            "top": 545.9603881835938,
+            "x": 207.84017944335938,
+            "y": 553.9759216308594
+        },
+        {
+            "bottom": 948.1087646484375,
+            "id": "hh112_m014",
+            "left": 222.47451782226562,
+            "ref": "cose:MotionDetector",
+            "right": 265.61474609375,
+            "sensor": "hh112:m014",
+            "top": 932.0776977539062,
+            "x": 244.0446319580078,
+            "y": 940.0932312011719
+        },
+        {
+            "bottom": 1168.7098388671875,
+            "id": "hh112_m015",
+            "left": 293.3177490234375,
+            "ref": "cose:MotionDetector",
+            "right": 336.4579772949219,
+            "sensor": "hh112:m015",
+            "top": 1152.6788330078125,
+            "x": 314.8878631591797,
+            "y": 1160.6943359375
+        },
+        {
+            "bottom": 1398.46728515625,
+            "id": "hh112_m016",
+            "left": 155.8407745361328,
+            "ref": "cose:MotionDetector",
+            "right": 198.9810028076172,
+            "sensor": "hh112:m016",
+            "top": 1382.436279296875,
+            "x": 177.410888671875,
+            "y": 1390.4517822265625
+        },
+        {
+            "bottom": 259.47650146484375,
+            "id": "hh112_ma005",
+            "left": 309.3093566894531,
+            "ref": "cose:AreaMotionDetector",
+            "right": 363.2776184082031,
+            "sensor": "hh112:ma005",
+            "top": 243.44537353515625,
+            "x": 336.2934875488281,
+            "y": 251.4609375
+        },
+        {
+            "bottom": 75.39995080154722,
+            "id": "Wardrobe-1",
+            "left": 56.77388000488281,
+            "ref": "cose:Wardrobe",
+            "right": 169.83685330296572,
+            "sensor": "",
+            "top": 22.59956743074713,
+            "x": 113.24792452914497,
+            "y": 44.94917574094194
+        }
+    ]
+}

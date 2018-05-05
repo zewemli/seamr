@@ -1,0 +1,3109 @@
+{
+    "edges": [
+        [
+            "InteriorDoor-1",
+            "KitchenChair-3"
+        ],
+        [
+            "InteriorDoor-1",
+            "DogBed-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "SingleBed-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "SingleBed-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "Nightstand-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "Dresser-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "Ottoman-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "KitchenSink-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "milan_m010"
+        ],
+        [
+            "InteriorDoor-1",
+            "milan_t002"
+        ],
+        [
+            "InteriorDoor-1",
+            "milan_m011"
+        ],
+        [
+            "InteriorDoor-1",
+            "milan_m024"
+        ],
+        [
+            "InteriorDoor-2",
+            "KitchenChair-3"
+        ],
+        [
+            "InteriorDoor-2",
+            "DogBed-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "Sofa-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "Ottoman-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "ClothesWasher-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "ClothesDryer-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "KitchenChair-4"
+        ],
+        [
+            "InteriorDoor-2",
+            "Toilet-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "BathroomSink-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m018"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m010"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_t002"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m017"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m009"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m011"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m002"
+        ],
+        [
+            "InteriorDoor-2",
+            "milan_m003"
+        ],
+        [
+            "InteriorDoor-3",
+            "DogBed-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "ArmChair-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "Ottoman-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "ClothesWasher-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "ClothesDryer-1"
+        ],
+        [
+            "InteriorDoor-3",
+            "milan_m019"
+        ],
+        [
+            "InteriorDoor-3",
+            "milan_m009"
+        ],
+        [
+            "InteriorDoor-3",
+            "milan_m006"
+        ],
+        [
+            "InteriorDoor-3",
+            "milan_m008"
+        ],
+        [
+            "InteriorDoor-4",
+            "BathroomSink-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "Toilet-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "DogBed-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "DoubleBed-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "Nightstand-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "Dresser-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "Bathtub-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "Ottoman-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "ClothesWasher-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "ClothesDryer-1"
+        ],
+        [
+            "InteriorDoor-4",
+            "Dresser-3"
+        ],
+        [
+            "InteriorDoor-4",
+            "milan_m013"
+        ],
+        [
+            "InteriorDoor-4",
+            "milan_m025"
+        ],
+        [
+            "InteriorDoor-4",
+            "milan_m028"
+        ],
+        [
+            "InteriorDoor-4",
+            "milan_m020"
+        ],
+        [
+            "InteriorDoor-4",
+            "milan_m021"
+        ],
+        [
+            "ExteriorDoor-1",
+            "KitchenChair-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "KitchenChair-2"
+        ],
+        [
+            "ExteriorDoor-1",
+            "DogBed-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "Sofa-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "Ottoman-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "Table-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_m002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_m026"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_m001"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_m005"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_m004"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_d001"
+        ],
+        [
+            "ExteriorDoor-1",
+            "milan_d002"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-1",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Oven-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Loveseat-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Ottoman-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-1",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_t001"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m010"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m015"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m014"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m023"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m012"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m003"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m026"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m022"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m005"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m004"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_d003"
+        ],
+        [
+            "KitchenChair-1",
+            "milan_m027"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-2",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Loveseat-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Ottoman-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-2",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-2",
+            "ExteriorDoor-2"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_t001"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m010"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m015"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m014"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m016"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m023"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m012"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m003"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m026"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m005"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m004"
+        ],
+        [
+            "KitchenChair-2",
+            "milan_m027"
+        ],
+        [
+            "KitchenChair-3",
+            "DogBed-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Freezer-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Loveseat-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Ottoman-1"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-3",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-3",
+            "BathroomSink-2"
+        ],
+        [
+            "KitchenChair-3",
+            "ExteriorDoor-2"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_t001"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m010"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m015"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m017"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m016"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m023"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m012"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m003"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m026"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m005"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m004"
+        ],
+        [
+            "KitchenChair-3",
+            "milan_m027"
+        ],
+        [
+            "BathroomSink-1",
+            "Toilet-1"
+        ],
+        [
+            "BathroomSink-1",
+            "DogBed-1"
+        ],
+        [
+            "BathroomSink-1",
+            "DoubleBed-1"
+        ],
+        [
+            "BathroomSink-1",
+            "Bathtub-1"
+        ],
+        [
+            "BathroomSink-1",
+            "Ottoman-1"
+        ],
+        [
+            "BathroomSink-1",
+            "Dresser-3"
+        ],
+        [
+            "BathroomSink-1",
+            "milan_m013"
+        ],
+        [
+            "BathroomSink-1",
+            "milan_m025"
+        ],
+        [
+            "Toilet-1",
+            "DogBed-1"
+        ],
+        [
+            "Toilet-1",
+            "Bathtub-1"
+        ],
+        [
+            "Toilet-1",
+            "Ottoman-1"
+        ],
+        [
+            "Toilet-1",
+            "milan_m013"
+        ],
+        [
+            "Toilet-1",
+            "milan_m025"
+        ],
+        [
+            "DogBed-1",
+            "DoubleBed-1"
+        ],
+        [
+            "DogBed-1",
+            "Nightstand-1"
+        ],
+        [
+            "DogBed-1",
+            "Dresser-1"
+        ],
+        [
+            "DogBed-1",
+            "Sofa-1"
+        ],
+        [
+            "DogBed-1",
+            "ArmChair-1"
+        ],
+        [
+            "DogBed-1",
+            "SingleBed-1"
+        ],
+        [
+            "DogBed-1",
+            "SingleBed-2"
+        ],
+        [
+            "DogBed-1",
+            "Nightstand-2"
+        ],
+        [
+            "DogBed-1",
+            "Dresser-2"
+        ],
+        [
+            "DogBed-1",
+            "Freezer-1"
+        ],
+        [
+            "DogBed-1",
+            "Oven-1"
+        ],
+        [
+            "DogBed-1",
+            "Bathtub-1"
+        ],
+        [
+            "DogBed-1",
+            "Television-1"
+        ],
+        [
+            "DogBed-1",
+            "Loveseat-1"
+        ],
+        [
+            "DogBed-1",
+            "Ottoman-1"
+        ],
+        [
+            "DogBed-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "DogBed-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "DogBed-1",
+            "KitchenChair-4"
+        ],
+        [
+            "DogBed-1",
+            "Table-1"
+        ],
+        [
+            "DogBed-1",
+            "Toilet-2"
+        ],
+        [
+            "DogBed-1",
+            "BathroomSink-2"
+        ],
+        [
+            "DogBed-1",
+            "Dresser-3"
+        ],
+        [
+            "DogBed-1",
+            "KitchenSink-1"
+        ],
+        [
+            "DogBed-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "DogBed-1",
+            "milan_m019"
+        ],
+        [
+            "DogBed-1",
+            "milan_m018"
+        ],
+        [
+            "DogBed-1",
+            "milan_t001"
+        ],
+        [
+            "DogBed-1",
+            "milan_m010"
+        ],
+        [
+            "DogBed-1",
+            "milan_m013"
+        ],
+        [
+            "DogBed-1",
+            "milan_t002"
+        ],
+        [
+            "DogBed-1",
+            "milan_m015"
+        ],
+        [
+            "DogBed-1",
+            "milan_m014"
+        ],
+        [
+            "DogBed-1",
+            "milan_m017"
+        ],
+        [
+            "DogBed-1",
+            "milan_m016"
+        ],
+        [
+            "DogBed-1",
+            "milan_m009"
+        ],
+        [
+            "DogBed-1",
+            "milan_m006"
+        ],
+        [
+            "DogBed-1",
+            "milan_m011"
+        ],
+        [
+            "DogBed-1",
+            "milan_m025"
+        ],
+        [
+            "DogBed-1",
+            "milan_m023"
+        ],
+        [
+            "DogBed-1",
+            "milan_m008"
+        ],
+        [
+            "DogBed-1",
+            "milan_m012"
+        ],
+        [
+            "DogBed-1",
+            "milan_m028"
+        ],
+        [
+            "DogBed-1",
+            "milan_m002"
+        ],
+        [
+            "DogBed-1",
+            "milan_m003"
+        ],
+        [
+            "DogBed-1",
+            "milan_m026"
+        ],
+        [
+            "DogBed-1",
+            "milan_m001"
+        ],
+        [
+            "DogBed-1",
+            "milan_m020"
+        ],
+        [
+            "DogBed-1",
+            "milan_m021"
+        ],
+        [
+            "DogBed-1",
+            "milan_m022"
+        ],
+        [
+            "DogBed-1",
+            "milan_m005"
+        ],
+        [
+            "DogBed-1",
+            "milan_m004"
+        ],
+        [
+            "DogBed-1",
+            "milan_d001"
+        ],
+        [
+            "DogBed-1",
+            "milan_d003"
+        ],
+        [
+            "DogBed-1",
+            "milan_m007"
+        ],
+        [
+            "DogBed-1",
+            "milan_m027"
+        ],
+        [
+            "DogBed-1",
+            "milan_m024"
+        ],
+        [
+            "DogBed-1",
+            "milan_d002"
+        ],
+        [
+            "DogBed-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "DoubleBed-1",
+            "Nightstand-1"
+        ],
+        [
+            "DoubleBed-1",
+            "Dresser-1"
+        ],
+        [
+            "DoubleBed-1",
+            "Ottoman-1"
+        ],
+        [
+            "DoubleBed-1",
+            "Dresser-3"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m019"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m013"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m006"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m025"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m008"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m028"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m020"
+        ],
+        [
+            "DoubleBed-1",
+            "milan_m021"
+        ],
+        [
+            "Nightstand-1",
+            "Dresser-1"
+        ],
+        [
+            "Nightstand-1",
+            "Ottoman-1"
+        ],
+        [
+            "Nightstand-1",
+            "Dresser-3"
+        ],
+        [
+            "Nightstand-1",
+            "milan_m028"
+        ],
+        [
+            "Nightstand-1",
+            "milan_m020"
+        ],
+        [
+            "Nightstand-1",
+            "milan_m021"
+        ],
+        [
+            "Dresser-1",
+            "Bathtub-1"
+        ],
+        [
+            "Dresser-1",
+            "Ottoman-1"
+        ],
+        [
+            "Dresser-1",
+            "Dresser-3"
+        ],
+        [
+            "Dresser-1",
+            "milan_m028"
+        ],
+        [
+            "Dresser-1",
+            "milan_m020"
+        ],
+        [
+            "Dresser-1",
+            "milan_m021"
+        ],
+        [
+            "Sofa-1",
+            "Loveseat-1"
+        ],
+        [
+            "Sofa-1",
+            "Ottoman-1"
+        ],
+        [
+            "Sofa-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Sofa-1",
+            "Table-1"
+        ],
+        [
+            "Sofa-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "Sofa-1",
+            "milan_t001"
+        ],
+        [
+            "Sofa-1",
+            "milan_m010"
+        ],
+        [
+            "Sofa-1",
+            "milan_m011"
+        ],
+        [
+            "Sofa-1",
+            "milan_m012"
+        ],
+        [
+            "Sofa-1",
+            "milan_m002"
+        ],
+        [
+            "Sofa-1",
+            "milan_m003"
+        ],
+        [
+            "Sofa-1",
+            "milan_m026"
+        ],
+        [
+            "Sofa-1",
+            "milan_m001"
+        ],
+        [
+            "Sofa-1",
+            "milan_m022"
+        ],
+        [
+            "Sofa-1",
+            "milan_m005"
+        ],
+        [
+            "Sofa-1",
+            "milan_m004"
+        ],
+        [
+            "Sofa-1",
+            "milan_d001"
+        ],
+        [
+            "Sofa-1",
+            "milan_m027"
+        ],
+        [
+            "Sofa-1",
+            "milan_d002"
+        ],
+        [
+            "ArmChair-1",
+            "Television-1"
+        ],
+        [
+            "ArmChair-1",
+            "Ottoman-1"
+        ],
+        [
+            "ArmChair-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m019"
+        ],
+        [
+            "ArmChair-1",
+            "milan_t002"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m015"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m017"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m016"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m006"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m023"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m008"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m026"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m005"
+        ],
+        [
+            "ArmChair-1",
+            "milan_d003"
+        ],
+        [
+            "ArmChair-1",
+            "milan_m007"
+        ],
+        [
+            "SingleBed-1",
+            "SingleBed-2"
+        ],
+        [
+            "SingleBed-1",
+            "Nightstand-2"
+        ],
+        [
+            "SingleBed-1",
+            "Dresser-2"
+        ],
+        [
+            "SingleBed-1",
+            "Ottoman-1"
+        ],
+        [
+            "SingleBed-1",
+            "milan_m024"
+        ],
+        [
+            "SingleBed-2",
+            "Nightstand-2"
+        ],
+        [
+            "SingleBed-2",
+            "Dresser-2"
+        ],
+        [
+            "SingleBed-2",
+            "Ottoman-1"
+        ],
+        [
+            "SingleBed-2",
+            "BathroomSink-2"
+        ],
+        [
+            "SingleBed-2",
+            "milan_m024"
+        ],
+        [
+            "Nightstand-2",
+            "Dresser-2"
+        ],
+        [
+            "Nightstand-2",
+            "Ottoman-1"
+        ],
+        [
+            "Nightstand-2",
+            "milan_m024"
+        ],
+        [
+            "Dresser-2",
+            "Ottoman-1"
+        ],
+        [
+            "Dresser-2",
+            "milan_m010"
+        ],
+        [
+            "Dresser-2",
+            "milan_t002"
+        ],
+        [
+            "Dresser-2",
+            "milan_m011"
+        ],
+        [
+            "Dresser-2",
+            "milan_m024"
+        ],
+        [
+            "Freezer-1",
+            "Oven-1"
+        ],
+        [
+            "Freezer-1",
+            "Ottoman-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Freezer-1",
+            "Table-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Freezer-1",
+            "milan_t001"
+        ],
+        [
+            "Freezer-1",
+            "milan_t002"
+        ],
+        [
+            "Freezer-1",
+            "milan_m015"
+        ],
+        [
+            "Freezer-1",
+            "milan_m014"
+        ],
+        [
+            "Freezer-1",
+            "milan_m017"
+        ],
+        [
+            "Freezer-1",
+            "milan_m016"
+        ],
+        [
+            "Freezer-1",
+            "milan_m023"
+        ],
+        [
+            "Freezer-1",
+            "milan_m012"
+        ],
+        [
+            "Freezer-1",
+            "milan_m003"
+        ],
+        [
+            "Freezer-1",
+            "milan_m022"
+        ],
+        [
+            "Freezer-1",
+            "milan_d003"
+        ],
+        [
+            "Freezer-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "Oven-1",
+            "Ottoman-1"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Oven-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Oven-1",
+            "milan_t002"
+        ],
+        [
+            "Oven-1",
+            "milan_m015"
+        ],
+        [
+            "Oven-1",
+            "milan_m014"
+        ],
+        [
+            "Oven-1",
+            "milan_m017"
+        ],
+        [
+            "Oven-1",
+            "milan_m016"
+        ],
+        [
+            "Oven-1",
+            "milan_m023"
+        ],
+        [
+            "Oven-1",
+            "milan_m012"
+        ],
+        [
+            "Oven-1",
+            "milan_m022"
+        ],
+        [
+            "Oven-1",
+            "milan_d003"
+        ],
+        [
+            "Oven-1",
+            "milan_m027"
+        ],
+        [
+            "Oven-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "Bathtub-1",
+            "Ottoman-1"
+        ],
+        [
+            "Bathtub-1",
+            "milan_m013"
+        ],
+        [
+            "Bathtub-1",
+            "milan_m025"
+        ],
+        [
+            "Bathtub-1",
+            "milan_m028"
+        ],
+        [
+            "Bathtub-1",
+            "milan_m020"
+        ],
+        [
+            "Television-1",
+            "Ottoman-1"
+        ],
+        [
+            "Television-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "Television-1",
+            "milan_m006"
+        ],
+        [
+            "Television-1",
+            "milan_m008"
+        ],
+        [
+            "Television-1",
+            "milan_m026"
+        ],
+        [
+            "Television-1",
+            "milan_m005"
+        ],
+        [
+            "Television-1",
+            "milan_m007"
+        ],
+        [
+            "Loveseat-1",
+            "Ottoman-1"
+        ],
+        [
+            "Loveseat-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Loveseat-1",
+            "Table-1"
+        ],
+        [
+            "Loveseat-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "Loveseat-1",
+            "milan_t001"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m010"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m012"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m002"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m003"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m026"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m005"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m004"
+        ],
+        [
+            "Loveseat-1",
+            "milan_d001"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m007"
+        ],
+        [
+            "Loveseat-1",
+            "milan_m027"
+        ],
+        [
+            "Loveseat-1",
+            "milan_d002"
+        ],
+        [
+            "Ottoman-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "Ottoman-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Ottoman-1",
+            "Table-1"
+        ],
+        [
+            "Ottoman-1",
+            "Toilet-2"
+        ],
+        [
+            "Ottoman-1",
+            "BathroomSink-2"
+        ],
+        [
+            "Ottoman-1",
+            "Dresser-3"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Ottoman-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m019"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m018"
+        ],
+        [
+            "Ottoman-1",
+            "milan_t001"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m010"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m013"
+        ],
+        [
+            "Ottoman-1",
+            "milan_t002"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m015"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m014"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m017"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m016"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m009"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m006"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m011"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m025"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m023"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m008"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m012"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m028"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m002"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m003"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m026"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m001"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m020"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m021"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m022"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m005"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m004"
+        ],
+        [
+            "Ottoman-1",
+            "milan_d001"
+        ],
+        [
+            "Ottoman-1",
+            "milan_d003"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m007"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m027"
+        ],
+        [
+            "Ottoman-1",
+            "milan_m024"
+        ],
+        [
+            "Ottoman-1",
+            "milan_d002"
+        ],
+        [
+            "Ottoman-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "ClothesWasher-1",
+            "milan_m019"
+        ],
+        [
+            "ClothesWasher-1",
+            "milan_m009"
+        ],
+        [
+            "ClothesWasher-1",
+            "milan_m007"
+        ],
+        [
+            "ClothesWasher-1",
+            "milan_m027"
+        ],
+        [
+            "ClothesDryer-1",
+            "milan_m019"
+        ],
+        [
+            "ClothesDryer-1",
+            "milan_m017"
+        ],
+        [
+            "ClothesDryer-1",
+            "milan_m009"
+        ],
+        [
+            "KitchenChair-4",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-4",
+            "ExteriorDoor-2"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_t001"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m010"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_t002"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m015"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m014"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m017"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m023"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m012"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m003"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m026"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m022"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m005"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m004"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_d003"
+        ],
+        [
+            "KitchenChair-4",
+            "milan_m027"
+        ],
+        [
+            "Table-1",
+            "BathroomSink-2"
+        ],
+        [
+            "Table-1",
+            "ExteriorDoor-2"
+        ],
+        [
+            "Table-1",
+            "milan_t001"
+        ],
+        [
+            "Table-1",
+            "milan_m010"
+        ],
+        [
+            "Table-1",
+            "milan_m015"
+        ],
+        [
+            "Table-1",
+            "milan_m014"
+        ],
+        [
+            "Table-1",
+            "milan_m017"
+        ],
+        [
+            "Table-1",
+            "milan_m016"
+        ],
+        [
+            "Table-1",
+            "milan_m023"
+        ],
+        [
+            "Table-1",
+            "milan_m012"
+        ],
+        [
+            "Table-1",
+            "milan_m003"
+        ],
+        [
+            "Table-1",
+            "milan_m026"
+        ],
+        [
+            "Table-1",
+            "milan_m005"
+        ],
+        [
+            "Table-1",
+            "milan_m004"
+        ],
+        [
+            "Table-1",
+            "milan_d003"
+        ],
+        [
+            "Table-1",
+            "milan_m027"
+        ],
+        [
+            "Toilet-2",
+            "milan_m018"
+        ],
+        [
+            "Toilet-2",
+            "milan_m010"
+        ],
+        [
+            "Toilet-2",
+            "milan_m017"
+        ],
+        [
+            "BathroomSink-2",
+            "milan_m018"
+        ],
+        [
+            "BathroomSink-2",
+            "milan_t002"
+        ],
+        [
+            "BathroomSink-2",
+            "milan_m017"
+        ],
+        [
+            "BathroomSink-2",
+            "milan_m011"
+        ],
+        [
+            "BathroomSink-2",
+            "milan_m003"
+        ],
+        [
+            "Dresser-3",
+            "milan_m018"
+        ],
+        [
+            "Dresser-3",
+            "milan_m025"
+        ],
+        [
+            "Dresser-3",
+            "milan_m028"
+        ],
+        [
+            "Dresser-3",
+            "milan_m020"
+        ],
+        [
+            "Dresser-3",
+            "milan_m021"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_t001"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_m015"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_m014"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_m016"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_m023"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_m012"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_m022"
+        ],
+        [
+            "KitchenSink-1",
+            "milan_d003"
+        ],
+        [
+            "KitchenSink-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_t001"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m010"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m006"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m012"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m002"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m003"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m026"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m001"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m005"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m004"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_d001"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m007"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_m027"
+        ],
+        [
+            "ExteriorDoor-2",
+            "milan_d002"
+        ],
+        [
+            "milan_m019",
+            "milan_t002"
+        ],
+        [
+            "milan_m019",
+            "milan_m017"
+        ],
+        [
+            "milan_m019",
+            "milan_m009"
+        ],
+        [
+            "milan_m019",
+            "milan_m006"
+        ],
+        [
+            "milan_m019",
+            "milan_m008"
+        ],
+        [
+            "milan_m019",
+            "milan_m007"
+        ],
+        [
+            "milan_m019",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m018",
+            "milan_m010"
+        ],
+        [
+            "milan_m018",
+            "milan_m017"
+        ],
+        [
+            "milan_t001",
+            "milan_m010"
+        ],
+        [
+            "milan_t001",
+            "milan_m015"
+        ],
+        [
+            "milan_t001",
+            "milan_m016"
+        ],
+        [
+            "milan_t001",
+            "milan_m012"
+        ],
+        [
+            "milan_t001",
+            "milan_m003"
+        ],
+        [
+            "milan_t001",
+            "milan_m026"
+        ],
+        [
+            "milan_t001",
+            "milan_m005"
+        ],
+        [
+            "milan_t001",
+            "milan_m004"
+        ],
+        [
+            "milan_t001",
+            "milan_m027"
+        ],
+        [
+            "milan_t001",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m010",
+            "milan_t002"
+        ],
+        [
+            "milan_m010",
+            "milan_m017"
+        ],
+        [
+            "milan_m010",
+            "milan_m011"
+        ],
+        [
+            "milan_m010",
+            "milan_m012"
+        ],
+        [
+            "milan_m010",
+            "milan_m003"
+        ],
+        [
+            "milan_m010",
+            "milan_m026"
+        ],
+        [
+            "milan_m010",
+            "milan_m022"
+        ],
+        [
+            "milan_m010",
+            "milan_m005"
+        ],
+        [
+            "milan_m010",
+            "milan_m004"
+        ],
+        [
+            "milan_m010",
+            "milan_m027"
+        ],
+        [
+            "milan_m013",
+            "milan_m025"
+        ],
+        [
+            "milan_t002",
+            "milan_m017"
+        ],
+        [
+            "milan_t002",
+            "milan_m006"
+        ],
+        [
+            "milan_t002",
+            "milan_m011"
+        ],
+        [
+            "milan_t002",
+            "milan_m003"
+        ],
+        [
+            "milan_t002",
+            "milan_m007"
+        ],
+        [
+            "milan_t002",
+            "milan_m027"
+        ],
+        [
+            "milan_m015",
+            "milan_m014"
+        ],
+        [
+            "milan_m015",
+            "milan_m016"
+        ],
+        [
+            "milan_m015",
+            "milan_m023"
+        ],
+        [
+            "milan_m015",
+            "milan_m012"
+        ],
+        [
+            "milan_m015",
+            "milan_m003"
+        ],
+        [
+            "milan_m015",
+            "milan_m022"
+        ],
+        [
+            "milan_m015",
+            "milan_d003"
+        ],
+        [
+            "milan_m015",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m014",
+            "milan_m016"
+        ],
+        [
+            "milan_m014",
+            "milan_m023"
+        ],
+        [
+            "milan_m014",
+            "milan_m012"
+        ],
+        [
+            "milan_m014",
+            "milan_m003"
+        ],
+        [
+            "milan_m014",
+            "milan_m022"
+        ],
+        [
+            "milan_m014",
+            "milan_d003"
+        ],
+        [
+            "milan_m014",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m017",
+            "milan_m006"
+        ],
+        [
+            "milan_m017",
+            "milan_m011"
+        ],
+        [
+            "milan_m017",
+            "milan_m003"
+        ],
+        [
+            "milan_m017",
+            "milan_m007"
+        ],
+        [
+            "milan_m016",
+            "milan_m023"
+        ],
+        [
+            "milan_m016",
+            "milan_m012"
+        ],
+        [
+            "milan_m016",
+            "milan_m003"
+        ],
+        [
+            "milan_m016",
+            "milan_m022"
+        ],
+        [
+            "milan_m016",
+            "milan_d003"
+        ],
+        [
+            "milan_m016",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m009",
+            "milan_m007"
+        ],
+        [
+            "milan_m006",
+            "milan_m008"
+        ],
+        [
+            "milan_m006",
+            "milan_m026"
+        ],
+        [
+            "milan_m006",
+            "milan_m005"
+        ],
+        [
+            "milan_m006",
+            "milan_m007"
+        ],
+        [
+            "milan_m011",
+            "milan_m027"
+        ],
+        [
+            "milan_m023",
+            "milan_m012"
+        ],
+        [
+            "milan_m023",
+            "milan_m003"
+        ],
+        [
+            "milan_m023",
+            "milan_m022"
+        ],
+        [
+            "milan_m023",
+            "milan_d003"
+        ],
+        [
+            "milan_m023",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m008",
+            "milan_m007"
+        ],
+        [
+            "milan_m012",
+            "milan_m003"
+        ],
+        [
+            "milan_m012",
+            "milan_m026"
+        ],
+        [
+            "milan_m012",
+            "milan_m022"
+        ],
+        [
+            "milan_m012",
+            "milan_m005"
+        ],
+        [
+            "milan_m012",
+            "milan_m004"
+        ],
+        [
+            "milan_m012",
+            "milan_d003"
+        ],
+        [
+            "milan_m012",
+            "milan_m027"
+        ],
+        [
+            "milan_m012",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m028",
+            "milan_m020"
+        ],
+        [
+            "milan_m028",
+            "milan_m021"
+        ],
+        [
+            "milan_m002",
+            "milan_m026"
+        ],
+        [
+            "milan_m002",
+            "milan_m001"
+        ],
+        [
+            "milan_m002",
+            "milan_m005"
+        ],
+        [
+            "milan_m002",
+            "milan_m004"
+        ],
+        [
+            "milan_m002",
+            "milan_d001"
+        ],
+        [
+            "milan_m002",
+            "milan_m027"
+        ],
+        [
+            "milan_m002",
+            "milan_d002"
+        ],
+        [
+            "milan_m003",
+            "milan_m026"
+        ],
+        [
+            "milan_m003",
+            "milan_m005"
+        ],
+        [
+            "milan_m003",
+            "milan_m004"
+        ],
+        [
+            "milan_m003",
+            "milan_m027"
+        ],
+        [
+            "milan_m003",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m026",
+            "milan_m001"
+        ],
+        [
+            "milan_m026",
+            "milan_m005"
+        ],
+        [
+            "milan_m026",
+            "milan_m004"
+        ],
+        [
+            "milan_m026",
+            "milan_d001"
+        ],
+        [
+            "milan_m026",
+            "milan_m007"
+        ],
+        [
+            "milan_m026",
+            "milan_m027"
+        ],
+        [
+            "milan_m026",
+            "milan_d002"
+        ],
+        [
+            "milan_m001",
+            "milan_m005"
+        ],
+        [
+            "milan_m001",
+            "milan_m004"
+        ],
+        [
+            "milan_m001",
+            "milan_d001"
+        ],
+        [
+            "milan_m001",
+            "milan_d002"
+        ],
+        [
+            "milan_m020",
+            "milan_m021"
+        ],
+        [
+            "milan_m022",
+            "milan_m005"
+        ],
+        [
+            "milan_m022",
+            "milan_d003"
+        ],
+        [
+            "milan_m022",
+            "milan_m027"
+        ],
+        [
+            "milan_m022",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m005",
+            "milan_m004"
+        ],
+        [
+            "milan_m005",
+            "milan_d001"
+        ],
+        [
+            "milan_m005",
+            "milan_m007"
+        ],
+        [
+            "milan_m005",
+            "milan_m027"
+        ],
+        [
+            "milan_m005",
+            "milan_d002"
+        ],
+        [
+            "milan_m004",
+            "milan_d001"
+        ],
+        [
+            "milan_m004",
+            "milan_m027"
+        ],
+        [
+            "milan_m004",
+            "milan_d002"
+        ],
+        [
+            "milan_d001",
+            "milan_m027"
+        ],
+        [
+            "milan_d001",
+            "milan_d002"
+        ],
+        [
+            "milan_d003",
+            "KitchenCabinet-1"
+        ],
+        [
+            "milan_m027",
+            "milan_d002"
+        ],
+        [
+            "milan_m027",
+            "KitchenCabinet-1"
+        ]
+    ],
+    "nodes": [
+        {
+            "bottom": 738.0239397852711,
+            "id": "InteriorDoor-1",
+            "left": 217.7732389353905,
+            "ref": "cose:InteriorDoor",
+            "right": 262.7275202944875,
+            "sensor": "",
+            "top": 663.6233489862511,
+            "x": 240.250379614939,
+            "y": 700.8236443857611
+        },
+        {
+            "bottom": 639.8907913193107,
+            "id": "InteriorDoor-2",
+            "left": 391.592630844214,
+            "ref": "cose:InteriorDoor",
+            "right": 427.85198627101136,
+            "sensor": "",
+            "top": 579.8805285184644,
+            "x": 409.7223085576127,
+            "y": 609.8856599188875
+        },
+        {
+            "bottom": 381.726733462885,
+            "id": "InteriorDoor-3",
+            "left": 407.5647700240879,
+            "ref": "cose:InteriorDoor",
+            "right": 425.9006535662587,
+            "sensor": "",
+            "top": 321.7725206200771,
+            "x": 416.7327117951734,
+            "y": 351.74962704148106
+        },
+        {
+            "bottom": 414.1713156160381,
+            "id": "InteriorDoor-4",
+            "left": 76.28531867265701,
+            "ref": "cose:InteriorDoor",
+            "right": 162.25266889360364,
+            "sensor": "",
+            "top": 387.87979575932695,
+            "x": 119.26899378313033,
+            "y": 401.0255556876825
+        },
+        {
+            "bottom": 964.5454398355273,
+            "id": "ExteriorDoor-1",
+            "left": 878.7541850830614,
+            "ref": "cose:ExteriorDoor",
+            "right": 940.3932715839694,
+            "sensor": "",
+            "top": 943.9754939234149,
+            "x": 926.6755984567113,
+            "y": 950.6836306679102
+        },
+        {
+            "bottom": 839.2753792256117,
+            "id": "KitchenChair-1",
+            "left": 644.3137706963921,
+            "ref": "cose:KitchenChair",
+            "right": 685.770363358591,
+            "sensor": "",
+            "top": 802.8496968105871,
+            "x": 657.2869073381542,
+            "y": 821.062551715687
+        },
+        {
+            "bottom": 895.5253792256117,
+            "id": "KitchenChair-2",
+            "left": 644.3137706963921,
+            "ref": "cose:KitchenChair",
+            "right": 685.770363358591,
+            "sensor": "",
+            "top": 859.0996968105871,
+            "x": 657.2869073381542,
+            "y": 877.312551715687
+        },
+        {
+            "bottom": 895.5253642245691,
+            "id": "KitchenChair-3",
+            "left": 723.5509867390653,
+            "ref": "cose:KitchenChair",
+            "right": 765.0075794012641,
+            "sensor": "",
+            "top": 859.0996818095446,
+            "x": 752.0344427595021,
+            "y": 877.3125093194692
+        },
+        {
+            "bottom": 526.1551794237288,
+            "id": "BathroomSink-1",
+            "left": 228.9592394453371,
+            "ref": "cose:BathroomSink",
+            "right": 268.5105064679301,
+            "sensor": "",
+            "top": 482.475813935053,
+            "x": 248.62615620825767,
+            "y": 512.8235527067909
+        },
+        {
+            "bottom": 524.3218052387238,
+            "id": "Toilet-1",
+            "left": 346.8830871582031,
+            "ref": "cose:Toilet",
+            "right": 396.675537109375,
+            "sensor": "",
+            "top": 451.9156799316406,
+            "x": 371.7795133590698,
+            "y": 498.5377048254013
+        },
+        {
+            "bottom": null,
+            "id": "DogBed-1",
+            "left": null,
+            "ref": "cose:DogBed",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": 202.56526413792062,
+            "id": "DoubleBed-1",
+            "left": 10.767294622601046,
+            "ref": "cose:DoubleBed",
+            "right": 173.02311190962791,
+            "sensor": "",
+            "top": 66.75624099373817,
+            "x": 45.33904249502115,
+            "y": 157.98733224027535
+        },
+        {
+            "bottom": 58.51679992675781,
+            "id": "Nightstand-1",
+            "left": 11.333954572677612,
+            "ref": "cose:Nightstand",
+            "right": 62.224602460861206,
+            "sensor": "",
+            "top": 20.483295440673828,
+            "x": 32.673879742622375,
+            "y": 39.25124788284302
+        },
+        {
+            "bottom": 178.27622985839844,
+            "id": "Dresser-1",
+            "left": 250.69610595703125,
+            "ref": "cose:Dresser",
+            "right": 282.6124849319458,
+            "sensor": "",
+            "top": 77.723876953125,
+            "x": 258.74790779749554,
+            "y": 128.0000556310018
+        },
+        {
+            "bottom": 526.2467347383499,
+            "id": "Sofa-1",
+            "left": 834.4480800628662,
+            "ref": "cose:Sofa",
+            "right": 929.4537937641144,
+            "sensor": "",
+            "top": 297.6112365722656,
+            "x": 879.1961551109949,
+            "y": 412.09224130709964
+        },
+        {
+            "bottom": 181.7633495250211,
+            "id": "ArmChair-1",
+            "left": 474.5582495561241,
+            "ref": "cose:ArmChair",
+            "right": 541.9810176915634,
+            "sensor": "",
+            "top": 101.90223309397697,
+            "x": 508.5673531622238,
+            "y": 141.7358053372716
+        },
+        {
+            "bottom": 943.3685621395937,
+            "id": "SingleBed-1",
+            "left": 157.99592469111894,
+            "ref": "cose:SingleBed",
+            "right": 236.96206826598223,
+            "sensor": "",
+            "top": 809.5758054393616,
+            "x": 202.73507203283205,
+            "y": 910.1376858333716
+        },
+        {
+            "bottom": 943.3685621395937,
+            "id": "SingleBed-2",
+            "left": 16.221014717974413,
+            "ref": "cose:SingleBed",
+            "right": 95.1871582928377,
+            "sensor": "",
+            "top": 809.5758054393616,
+            "x": 60.960162059687526,
+            "y": 910.1376858333716
+        },
+        {
+            "bottom": 941.9027349948883,
+            "id": "Nightstand-2",
+            "left": 101.36783218383789,
+            "ref": "cose:Nightstand",
+            "right": 139.40133666992188,
+            "sensor": "",
+            "top": 891.0120871067047,
+            "x": 120.13578462600708,
+            "y": 920.5628098249435
+        },
+        {
+            "bottom": 780.0573577880859,
+            "id": "Dresser-2",
+            "left": 11.036520957946777,
+            "ref": "cose:Dresser",
+            "right": 42.95289993286133,
+            "sensor": "",
+            "top": 679.5050048828125,
+            "x": 34.901098092397056,
+            "y": 729.7811791102091
+        },
+        {
+            "bottom": 821.3008509577805,
+            "id": "Freezer-1",
+            "left": 268.68022806239884,
+            "ref": "cose:Freezer",
+            "right": 342.3891924064128,
+            "sensor": "",
+            "top": 752.6564522604324,
+            "x": 328.86165091820004,
+            "y": 786.1495886611503
+        },
+        {
+            "bottom": 958.0707342398222,
+            "id": "Oven-1",
+            "left": 455.7855212241411,
+            "ref": "cose:Oven",
+            "right": 516.283991292119,
+            "sensor": "",
+            "top": 891.4293286100183,
+            "x": 486.034770105131,
+            "y": 910.9506480526151
+        },
+        {
+            "bottom": 560.691185633804,
+            "id": "Bathtub-1",
+            "left": 2.025282172215384,
+            "ref": "cose:Bathtub",
+            "right": 78.77559904610133,
+            "sensor": "",
+            "top": 399.52009743593203,
+            "x": 38.03289860387104,
+            "y": 504.58124907969767
+        },
+        {
+            "bottom": 207.0000457763672,
+            "id": "Television-1",
+            "left": 311.38888788223267,
+            "ref": "cose:Television",
+            "right": 320.76388788223267,
+            "sensor": "",
+            "top": 57.00004577636719,
+            "x": 316.07638788223267,
+            "y": 132.0000457763672
+        },
+        {
+            "bottom": 308.08102798461914,
+            "id": "Loveseat-1",
+            "left": 583.4248046875,
+            "ref": "cose:Loveseat",
+            "right": 751.5921020507812,
+            "sensor": "",
+            "top": 213.85777640342712,
+            "x": 667.5469909667969,
+            "y": 262.63837485313417
+        },
+        {
+            "bottom": null,
+            "id": "Ottoman-1",
+            "left": null,
+            "ref": "cose:Ottoman",
+            "right": null,
+            "sensor": "",
+            "top": null
+        },
+        {
+            "bottom": 520.4021551321707,
+            "id": "ClothesWasher-1",
+            "left": 508.0568895269316,
+            "ref": "cose:ClothesWasher",
+            "right": 566.9800026476615,
+            "sensor": "",
+            "top": 466.1449791445551,
+            "x": 530.3759501705416,
+            "y": 493.27265462353375
+        },
+        {
+            "bottom": 461.72133454031723,
+            "id": "ClothesDryer-1",
+            "left": 507.9311716021857,
+            "ref": "cose:ClothesDryer",
+            "right": 566.9054080051133,
+            "sensor": "",
+            "top": 407.4170835634087,
+            "x": 525.3553611001638,
+            "y": 434.5692098732279
+        },
+        {
+            "bottom": 839.2753642245691,
+            "id": "KitchenChair-4",
+            "left": 723.5509867390653,
+            "ref": "cose:KitchenChair",
+            "right": 765.0075794012641,
+            "sensor": "",
+            "top": 802.8496818095446,
+            "x": 752.0344427595021,
+            "y": 821.0625093194692
+        },
+        {
+            "bottom": 916.621692802091,
+            "id": "Table-1",
+            "left": 662.6686476916075,
+            "ref": "cose:Table",
+            "right": 747.0589005202055,
+            "sensor": "",
+            "top": 780.0753895944943,
+            "x": 704.8637805443718,
+            "y": 848.3485411982928
+        },
+        {
+            "bottom": 619.5397644042969,
+            "id": "Toilet-2",
+            "left": 237.30780029296875,
+            "ref": "cose:Toilet",
+            "right": 287.1002502441406,
+            "sensor": "",
+            "top": 547.1336390972137,
+            "x": 262.2038240432739,
+            "y": 572.9177395105362
+        },
+        {
+            "bottom": 579.6764464486779,
+            "id": "BathroomSink-2",
+            "left": 352.166004332855,
+            "ref": "cose:BathroomSink",
+            "right": 384.50283867573967,
+            "sensor": "",
+            "top": 543.9645081888294,
+            "x": 368.4233075437893,
+            "y": 554.8643512816066
+        },
+        {
+            "bottom": 250.8169174194336,
+            "id": "Dresser-3",
+            "left": 13.010760307312012,
+            "ref": "cose:Dresser",
+            "right": 45.22127914428711,
+            "sensor": "",
+            "top": 201.8253936767578,
+            "x": 34.52618074417114,
+            "y": 226.32115745544434
+        },
+        {
+            "bottom": 790.9526920705681,
+            "id": "KitchenSink-1",
+            "left": 456.7399239259622,
+            "ref": "cose:KitchenSink",
+            "right": 529.1374919529864,
+            "sensor": "",
+            "top": 747.2523445802591,
+            "x": 484.96228260512186,
+            "y": 764.8909572994606
+        },
+        {
+            "bottom": 33.43222056661671,
+            "id": "ExteriorDoor-2",
+            "left": 760.6746161954915,
+            "ref": "cose:ExteriorDoor",
+            "right": 851.6622466766445,
+            "sensor": "",
+            "top": 3.0682487197730666,
+            "x": 780.9237569843092,
+            "y": 23.530110803556823
+        },
+        {
+            "bottom": 378.149169921875,
+            "id": "milan_m019",
+            "left": 449.7300109863281,
+            "ref": "cose:MotionDetector",
+            "right": 492.8699645996094,
+            "sensor": "milan:m019",
+            "top": 362.1181640625,
+            "x": 471.29998779296875,
+            "y": 370.1336669921875
+        },
+        {
+            "bottom": 638.3604125976562,
+            "id": "milan_m018",
+            "left": 339.42303466796875,
+            "ref": "cose:MotionDetector",
+            "right": 382.5630187988281,
+            "sensor": "milan:m018",
+            "top": 622.3294067382812,
+            "x": 360.99302673339844,
+            "y": 630.3449096679688
+        },
+        {
+            "bottom": 911.2994995117188,
+            "id": "milan_t001",
+            "left": 612.362060546875,
+            "ref": "cose:TemperatureSensor",
+            "right": 651.1270751953125,
+            "sensor": "milan:t001",
+            "top": 895.2684936523438,
+            "x": 631.7445678710938,
+            "y": 903.2839965820312
+        },
+        {
+            "bottom": 724.6261596679688,
+            "id": "milan_m010",
+            "left": 593.9776000976562,
+            "ref": "cose:MotionDetector",
+            "right": 637.1175537109375,
+            "sensor": "milan:m010",
+            "top": 708.5951538085938,
+            "x": 615.5475769042969,
+            "y": 716.6106567382812
+        },
+        {
+            "bottom": 460.17230224609375,
+            "id": "milan_m013",
+            "left": 369.1210632324219,
+            "ref": "cose:MotionDetector",
+            "right": 412.26104736328125,
+            "sensor": "milan:m013",
+            "top": 444.14129638671875,
+            "x": 390.69105529785156,
+            "y": 452.15679931640625
+        },
+        {
+            "bottom": 692.0997924804688,
+            "id": "milan_t002",
+            "left": 469.5287170410156,
+            "ref": "cose:TemperatureSensor",
+            "right": 508.2937316894531,
+            "sensor": "milan:t002",
+            "top": 676.0687866210938,
+            "x": 488.9112243652344,
+            "y": 684.0842895507812
+        },
+        {
+            "bottom": 836.3473510742188,
+            "id": "milan_m015",
+            "left": 387.5055847167969,
+            "ref": "cose:MotionDetector",
+            "right": 430.6455383300781,
+            "sensor": "milan:m015",
+            "top": 820.3163452148438,
+            "x": 409.0755615234375,
+            "y": 828.3318481445312
+        },
+        {
+            "bottom": 900.9002685546875,
+            "id": "milan_m014",
+            "left": 362.4056396484375,
+            "ref": "cose:MotionDetector",
+            "right": 405.54559326171875,
+            "sensor": "milan:m014",
+            "top": 884.8692626953125,
+            "x": 383.9756164550781,
+            "y": 892.884765625
+        },
+        {
+            "bottom": 646.8455810546875,
+            "id": "milan_m017",
+            "left": 441.244873046875,
+            "ref": "cose:MotionDetector",
+            "right": 484.38482666015625,
+            "sensor": "milan:m017",
+            "top": 630.8145751953125,
+            "x": 462.8148498535156,
+            "y": 638.830078125
+        },
+        {
+            "bottom": 788.2648315429688,
+            "id": "milan_m016",
+            "left": 404.47589111328125,
+            "ref": "cose:MotionDetector",
+            "right": 447.6158447265625,
+            "sensor": "milan:m016",
+            "top": 772.2338256835938,
+            "x": 426.0458679199219,
+            "y": 780.2493286132812
+        },
+        {
+            "bottom": 481.38519287109375,
+            "id": "milan_m009",
+            "left": 504.8835144042969,
+            "ref": "cose:MotionDetector",
+            "right": 548.0234375,
+            "sensor": "milan:m009",
+            "top": 465.35418701171875,
+            "x": 526.4534759521484,
+            "y": 473.36968994140625
+        },
+        {
+            "bottom": 170.26296997070312,
+            "id": "milan_m006",
+            "left": 486.4989929199219,
+            "ref": "cose:MotionDetector",
+            "right": 529.6389770507812,
+            "sensor": "milan:m006",
+            "top": 154.23196411132812,
+            "x": 508.06898498535156,
+            "y": 162.24746704101562
+        },
+        {
+            "bottom": 728.8687744140625,
+            "id": "milan_m011",
+            "left": 496.3983459472656,
+            "ref": "cose:MotionDetector",
+            "right": 539.538330078125,
+            "sensor": "milan:m011",
+            "top": 712.8377685546875,
+            "x": 517.9683380126953,
+            "y": 720.853271484375
+        },
+        {
+            "bottom": 518.1541748046875,
+            "id": "milan_m025",
+            "left": 205.07484436035156,
+            "ref": "cose:MotionDetector",
+            "right": 248.2147979736328,
+            "sensor": "milan:m025",
+            "top": 502.1231384277344,
+            "x": 226.6448211669922,
+            "y": 510.13865661621094
+        },
+        {
+            "bottom": 868.8737182617188,
+            "id": "milan_m023",
+            "left": 451.14422607421875,
+            "ref": "cose:MotionDetector",
+            "right": 494.2841796875,
+            "sensor": "milan:m023",
+            "top": 852.8427734375,
+            "x": 472.7142028808594,
+            "y": 860.8582458496094
+        },
+        {
+            "bottom": 242.57269287109375,
+            "id": "milan_m008",
+            "left": 518.4238891601562,
+            "ref": "cose:MotionDetector",
+            "right": 561.5639038085938,
+            "sensor": "milan:m008",
+            "top": 226.54168701171875,
+            "x": 539.993896484375,
+            "y": 234.55718994140625
+        },
+        {
+            "bottom": 870.2879028320312,
+            "id": "milan_m012",
+            "left": 591.149169921875,
+            "ref": "cose:MotionDetector",
+            "right": 634.2891235351562,
+            "sensor": "milan:m012",
+            "top": 854.2568969726562,
+            "x": 612.7191467285156,
+            "y": 862.2723999023438
+        },
+        {
+            "bottom": 232.48739624023438,
+            "id": "milan_m028",
+            "left": 227.2377166748047,
+            "ref": "cose:MotionDetector",
+            "right": 270.377685546875,
+            "sensor": "milan:m028",
+            "top": 216.45639038085938,
+            "x": 248.80770111083984,
+            "y": 224.47189331054688
+        },
+        {
+            "bottom": 779.3815307617188,
+            "id": "milan_m002",
+            "left": 905.7516479492188,
+            "ref": "cose:MotionDetector",
+            "right": 948.8916015625,
+            "sensor": "milan:m002",
+            "top": 763.3505249023438,
+            "x": 927.3216247558594,
+            "y": 771.3660278320312
+        },
+        {
+            "bottom": 867.4595336914062,
+            "id": "milan_m003",
+            "left": 741.0535888671875,
+            "ref": "cose:MotionDetector",
+            "right": 784.1935424804688,
+            "sensor": "milan:m003",
+            "top": 851.4285278320312,
+            "x": 762.6235656738281,
+            "y": 859.4440307617188
+        },
+        {
+            "bottom": 106.62433624267578,
+            "id": "milan_m026",
+            "left": 625.08984375,
+            "ref": "cose:MotionDetector",
+            "right": 668.2297973632812,
+            "sensor": "milan:m026",
+            "top": 90.59333038330078,
+            "x": 646.6598205566406,
+            "y": 98.60883331298828
+        },
+        {
+            "bottom": 917.309814453125,
+            "id": "milan_m001",
+            "left": 891.1346435546875,
+            "ref": "cose:MotionDetector",
+            "right": 934.2745971679688,
+            "sensor": "milan:m001",
+            "top": 901.27880859375,
+            "x": 912.7046203613281,
+            "y": 909.2943115234375
+        },
+        {
+            "bottom": 232.45693969726562,
+            "id": "milan_m020",
+            "left": 128.1354217529297,
+            "ref": "cose:MotionDetector",
+            "right": 171.275390625,
+            "sensor": "milan:m020",
+            "top": 216.42593383789062,
+            "x": 149.70540618896484,
+            "y": 224.44143676757812
+        },
+        {
+            "bottom": 151.8784637451172,
+            "id": "milan_m021",
+            "left": 107.49559020996094,
+            "ref": "cose:MotionDetector",
+            "right": 150.63555908203125,
+            "sensor": "milan:m021",
+            "top": 135.84747314453125,
+            "x": 129.0655746459961,
+            "y": 143.86296844482422
+        },
+        {
+            "bottom": 901.400146484375,
+            "id": "milan_m022",
+            "left": 520.9699096679688,
+            "ref": "cose:MotionDetector",
+            "right": 564.10986328125,
+            "sensor": "milan:m022",
+            "top": 885.369140625,
+            "x": 542.5398864746094,
+            "y": 893.3846435546875
+        },
+        {
+            "bottom": 59.95600128173828,
+            "id": "milan_m005",
+            "left": 845.7037353515625,
+            "ref": "cose:MotionDetector",
+            "right": 888.8436889648438,
+            "sensor": "milan:m005",
+            "top": 43.92499542236328,
+            "x": 867.2737121582031,
+            "y": 51.94049835205078
+        },
+        {
+            "bottom": 283.3982849121094,
+            "id": "milan_m004",
+            "left": 667.5155639648438,
+            "ref": "cose:MotionDetector",
+            "right": 710.655517578125,
+            "sensor": "milan:m004",
+            "top": 267.3673095703125,
+            "x": 689.0855407714844,
+            "y": 275.38279724121094
+        },
+        {
+            "bottom": 949.4353637695312,
+            "id": "milan_d001",
+            "left": 907.9661865234375,
+            "ref": "cose:ContactSensor",
+            "right": 948.7936401367188,
+            "sensor": "milan:d001",
+            "top": 933.4043579101562,
+            "x": 928.3799133300781,
+            "y": 941.4198608398438
+        },
+        {
+            "bottom": 935.33203125,
+            "id": "milan_d003",
+            "left": 380.83270263671875,
+            "ref": "cose:ContactSensor",
+            "right": 421.66021728515625,
+            "sensor": "milan:d003",
+            "top": 919.301025390625,
+            "x": 401.2464599609375,
+            "y": 927.3165283203125
+        },
+        {
+            "bottom": 154.70684814453125,
+            "id": "milan_m007",
+            "left": 400.2333068847656,
+            "ref": "cose:MotionDetector",
+            "right": 443.3732604980469,
+            "sensor": "milan:m007",
+            "top": 138.6758575439453,
+            "x": 421.80328369140625,
+            "y": 146.69135284423828
+        },
+        {
+            "bottom": 625.6327514648438,
+            "id": "milan_m027",
+            "left": 779.2366943359375,
+            "ref": "cose:MotionDetector",
+            "right": 822.3766479492188,
+            "sensor": "milan:m027",
+            "top": 609.6017456054688,
+            "x": 800.8066711425781,
+            "y": 617.6172485351562
+        },
+        {
+            "bottom": 819.3770141601562,
+            "id": "milan_m024",
+            "left": 158.40650939941406,
+            "ref": "cose:MotionDetector",
+            "right": 201.5464630126953,
+            "sensor": "milan:m024",
+            "top": 803.3460083007812,
+            "x": 179.9764862060547,
+            "y": 811.3615112304688
+        },
+        {
+            "bottom": 864.6311645507812,
+            "id": "milan_d002",
+            "left": 885.3010864257812,
+            "ref": "cose:ContactSensor",
+            "right": 926.1286010742188,
+            "sensor": "milan:d002",
+            "top": 848.6001586914062,
+            "x": 905.71484375,
+            "y": 856.6156616210938
+        },
+        {
+            "bottom": 957.7020210425803,
+            "id": "KitchenCabinet-1",
+            "left": 378.9266466682878,
+            "ref": "cose:KitchenCabinet",
+            "right": 449.8712721434312,
+            "sensor": "",
+            "top": 942.9133928962867,
+            "x": 414.3989594058595,
+            "y": 950.3077069694334
+        }
+    ]
+}

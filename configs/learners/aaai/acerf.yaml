@@ -1,0 +1,20 @@
+classifier:
+    seamr.learn.ace.ACE:
+        cutlevel: 0.00001
+        acceptor:
+            sklearn.linear_model.LogisticRegression:
+                solver: "lbfgs"
+                penalty: "l2"
+        expert:    
+            sklearn.ensemble.RandomForestClassifier:
+                criterion: gini
+                max_leaf_nodes: 32
+                n_estimators: 64
+                max_features: log2
+        generalist:
+            sklearn.ensemble.RandomForestClassifier:
+                criterion: gini
+                n_jobs: -1
+                max_leaf_nodes: 128
+                n_estimators: 64
+                max_features: log2

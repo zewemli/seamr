@@ -1,0 +1,7 @@
+classifier:
+    seamr.learn.keyed.Classifier:
+        key: tree
+        model:    
+            sklearn.tree.DecisionTreeClassifier:
+                criterion: gini
+                min_samples_leaf: 16

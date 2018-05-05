@@ -1,0 +1,3 @@
+features:
+    seamr.features.semantic.CrossEnvFeatures:
+        decay: 15

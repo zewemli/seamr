@@ -1,0 +1,6 @@
+features:
+    seamr.features.rule.RuleGroupFeatures:
+        rules_path: "/phd/seamr/rules/adapted_models/"
+        store: null
+        dset: null
+        after_space: 300

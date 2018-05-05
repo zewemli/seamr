@@ -1,0 +1,40 @@
+label_groups:
+    personal_care:
+        - bathing
+        - personal_hygiene
+        - toileting
+        - take_medicine
+    
+    enter_exit:
+        - enter_home
+        - leave_home
+        - out_of_home
+
+    food_related:
+        - breakfast
+        - cooking
+        - wash_dishes
+        - eating
+        - lunch
+        - dinner
+
+    misc:
+        - changing_clothes
+        - exercise
+        - napping
+        - having_guest
+        - housekeeping
+        - read
+        - relax
+        - talking_on_the_phone
+        - wandering
+
+    sleeping:
+        - bed_to_toilet
+        - sleeping
+        - wake
+    
+    long_term:
+        - watch_tv
+        - study
+        - work

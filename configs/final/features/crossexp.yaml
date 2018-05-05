@@ -1,0 +1,4 @@
+features:
+    seamr.features.semantic.CrossEnvFeatures:
+        with_exp: true
+        decay: 8.0

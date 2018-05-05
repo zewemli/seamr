@@ -1,0 +1,10 @@
+classifier:
+    seamr.learn.keyed.Classifier:
+        key: randomforest
+        model:
+            sklearn.ensemble.RandomForestClassifier:
+                criterion: gini
+                n_jobs: 1
+                min_samples_leaf: 10
+                n_estimators: 64
+                max_features: sqrt

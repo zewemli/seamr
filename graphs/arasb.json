@@ -1,0 +1,2565 @@
+{
+    "edges": [
+        [
+            "ExteriorDoor-1",
+            "Oven-1"
+        ],
+        [
+            "ExteriorDoor-1",
+            "ArmChair-2"
+        ],
+        [
+            "ExteriorDoor-1",
+            "arasb_co3"
+        ],
+        [
+            "ExteriorDoor-1",
+            "arasb_pr5"
+        ],
+        [
+            "InteriorDoor-1",
+            "Shower-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "BathroomSink-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Nightstand-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "KitchenChair-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "KitchenChair-4"
+        ],
+        [
+            "InteriorDoor-1",
+            "KitchenChair-6"
+        ],
+        [
+            "InteriorDoor-1",
+            "KitchenChair-8"
+        ],
+        [
+            "InteriorDoor-1",
+            "ArmChair-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "ArmChair-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "Sofa-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "Sofa-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "InteriorDoor-1",
+            "SingleBed-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_fo2"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_co6"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_pr4"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_pr5"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_di2"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_pr1"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_pr2"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_pr3"
+        ],
+        [
+            "InteriorDoor-1",
+            "arasb_so1"
+        ],
+        [
+            "InteriorDoor-2",
+            "Nightstand-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "Nightstand-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "Dresser-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "Dresser-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "ArmChair-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "Sofa-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "SingleBed-1"
+        ],
+        [
+            "InteriorDoor-2",
+            "SingleBed-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "arasb_fo3"
+        ],
+        [
+            "InteriorDoor-2",
+            "arasb_co4"
+        ],
+        [
+            "InteriorDoor-2",
+            "arasb_co5"
+        ],
+        [
+            "InteriorDoor-2",
+            "arasb_pr4"
+        ],
+        [
+            "InteriorDoor-2",
+            "arasb_pr5"
+        ],
+        [
+            "InteriorDoor-2",
+            "arasb_pr3"
+        ],
+        [
+            "Shower-1",
+            "Toilet-1"
+        ],
+        [
+            "Shower-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Shower-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Shower-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Shower-1",
+            "KitchenChair-8"
+        ],
+        [
+            "Shower-1",
+            "arasb_fo2"
+        ],
+        [
+            "Shower-1",
+            "arasb_co5"
+        ],
+        [
+            "Shower-1",
+            "arasb_co6"
+        ],
+        [
+            "Shower-1",
+            "arasb_di2"
+        ],
+        [
+            "Shower-1",
+            "arasb_so1"
+        ],
+        [
+            "Shower-1",
+            "arasb_so3"
+        ],
+        [
+            "Toilet-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Toilet-1",
+            "Nightstand-2"
+        ],
+        [
+            "Toilet-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Toilet-1",
+            "arasb_fo2"
+        ],
+        [
+            "Toilet-1",
+            "arasb_co6"
+        ],
+        [
+            "Toilet-1",
+            "arasb_di2"
+        ],
+        [
+            "Toilet-1",
+            "arasb_so1"
+        ],
+        [
+            "Toilet-1",
+            "arasb_so3"
+        ],
+        [
+            "BathroomSink-1",
+            "ArmChair-2"
+        ],
+        [
+            "BathroomSink-1",
+            "Sofa-2"
+        ],
+        [
+            "BathroomSink-1",
+            "arasb_co6"
+        ],
+        [
+            "BathroomSink-1",
+            "arasb_di2"
+        ],
+        [
+            "BathroomSink-1",
+            "arasb_pr1"
+        ],
+        [
+            "BathroomSink-1",
+            "arasb_pr2"
+        ],
+        [
+            "BathroomSink-1",
+            "arasb_so1"
+        ],
+        [
+            "BathroomSink-1",
+            "arasb_so3"
+        ],
+        [
+            "Nightstand-1",
+            "Nightstand-2"
+        ],
+        [
+            "Nightstand-1",
+            "Dresser-1"
+        ],
+        [
+            "Nightstand-1",
+            "Dresser-2"
+        ],
+        [
+            "Nightstand-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "Nightstand-1",
+            "SingleBed-1"
+        ],
+        [
+            "Nightstand-1",
+            "SingleBed-2"
+        ],
+        [
+            "Nightstand-1",
+            "arasb_co4"
+        ],
+        [
+            "Nightstand-1",
+            "arasb_co5"
+        ],
+        [
+            "Nightstand-1",
+            "arasb_pr4"
+        ],
+        [
+            "Nightstand-1",
+            "arasb_pr3"
+        ],
+        [
+            "Nightstand-2",
+            "Dresser-1"
+        ],
+        [
+            "Nightstand-2",
+            "Dresser-2"
+        ],
+        [
+            "Nightstand-2",
+            "ClothesWasher-1"
+        ],
+        [
+            "Nightstand-2",
+            "SingleBed-1"
+        ],
+        [
+            "Nightstand-2",
+            "SingleBed-2"
+        ],
+        [
+            "Nightstand-2",
+            "arasb_co4"
+        ],
+        [
+            "Nightstand-2",
+            "arasb_co5"
+        ],
+        [
+            "Nightstand-2",
+            "arasb_pr4"
+        ],
+        [
+            "Nightstand-2",
+            "arasb_pr3"
+        ],
+        [
+            "Freezer-1",
+            "Oven-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-2"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-5"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-6"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-7"
+        ],
+        [
+            "Freezer-1",
+            "KitchenChair-8"
+        ],
+        [
+            "Freezer-1",
+            "Table-1"
+        ],
+        [
+            "Freezer-1",
+            "Sofa-2"
+        ],
+        [
+            "Freezer-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "Freezer-1",
+            "arasb_fo1"
+        ],
+        [
+            "Freezer-1",
+            "arasb_fo2"
+        ],
+        [
+            "Freezer-1",
+            "arasb_ph1"
+        ],
+        [
+            "Freezer-1",
+            "arasb_co1"
+        ],
+        [
+            "Freezer-1",
+            "arasb_co2"
+        ],
+        [
+            "Freezer-1",
+            "arasb_ph2"
+        ],
+        [
+            "Freezer-1",
+            "arasb_pr1"
+        ],
+        [
+            "Freezer-1",
+            "arasb_so2"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-1"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-2"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-3"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-4"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-5"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-6"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-7"
+        ],
+        [
+            "Oven-1",
+            "KitchenChair-8"
+        ],
+        [
+            "Oven-1",
+            "Table-1"
+        ],
+        [
+            "Oven-1",
+            "ArmChair-1"
+        ],
+        [
+            "Oven-1",
+            "Sofa-2"
+        ],
+        [
+            "Oven-1",
+            "Desk-1"
+        ],
+        [
+            "Oven-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Oven-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "Oven-1",
+            "arasb_fo1"
+        ],
+        [
+            "Oven-1",
+            "arasb_fo2"
+        ],
+        [
+            "Oven-1",
+            "arasb_ph1"
+        ],
+        [
+            "Oven-1",
+            "arasb_co1"
+        ],
+        [
+            "Oven-1",
+            "arasb_co2"
+        ],
+        [
+            "Oven-1",
+            "arasb_pr5"
+        ],
+        [
+            "Oven-1",
+            "arasb_ph2"
+        ],
+        [
+            "Oven-1",
+            "arasb_pr1"
+        ],
+        [
+            "Oven-1",
+            "arasb_pr2"
+        ],
+        [
+            "Oven-1",
+            "arasb_so2"
+        ],
+        [
+            "Dresser-1",
+            "Dresser-2"
+        ],
+        [
+            "Dresser-1",
+            "ArmChair-1"
+        ],
+        [
+            "Dresser-1",
+            "SingleBed-1"
+        ],
+        [
+            "Dresser-1",
+            "SingleBed-2"
+        ],
+        [
+            "Dresser-1",
+            "arasb_co4"
+        ],
+        [
+            "Dresser-1",
+            "arasb_co5"
+        ],
+        [
+            "Dresser-1",
+            "arasb_pr4"
+        ],
+        [
+            "Dresser-1",
+            "arasb_pr5"
+        ],
+        [
+            "Dresser-1",
+            "arasb_pr3"
+        ],
+        [
+            "Dresser-2",
+            "SingleBed-1"
+        ],
+        [
+            "Dresser-2",
+            "SingleBed-2"
+        ],
+        [
+            "Dresser-2",
+            "arasb_co4"
+        ],
+        [
+            "Dresser-2",
+            "arasb_co5"
+        ],
+        [
+            "Dresser-2",
+            "arasb_pr4"
+        ],
+        [
+            "Dresser-2",
+            "arasb_pr3"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-5"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-6"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-7"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-1",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_co6"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_so1"
+        ],
+        [
+            "KitchenChair-1",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-3"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-5"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-6"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-7"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-2",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-2",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-2",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-2",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-4"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-5"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-6"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-7"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-3",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-3",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-3",
+            "ArmChair-2"
+        ],
+        [
+            "KitchenChair-3",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-3",
+            "OfficeChair-1"
+        ],
+        [
+            "KitchenChair-3",
+            "Desk-1"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-3",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_fo3"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-3",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenChair-5"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenChair-6"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenChair-7"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-4",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-4",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-4",
+            "ArmChair-2"
+        ],
+        [
+            "KitchenChair-4",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-4",
+            "OfficeChair-1"
+        ],
+        [
+            "KitchenChair-4",
+            "Desk-1"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-4",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_co6"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_so1"
+        ],
+        [
+            "KitchenChair-4",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-5",
+            "KitchenChair-6"
+        ],
+        [
+            "KitchenChair-5",
+            "KitchenChair-7"
+        ],
+        [
+            "KitchenChair-5",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-5",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-5",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-5",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-5",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-5",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-5",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_fo3"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-5",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-6",
+            "KitchenChair-7"
+        ],
+        [
+            "KitchenChair-6",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-6",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-6",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-6",
+            "ArmChair-2"
+        ],
+        [
+            "KitchenChair-6",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-6",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-6",
+            "OfficeChair-1"
+        ],
+        [
+            "KitchenChair-6",
+            "Desk-1"
+        ],
+        [
+            "KitchenChair-6",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-6",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_fo3"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_co6"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_so1"
+        ],
+        [
+            "KitchenChair-6",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-7",
+            "KitchenChair-8"
+        ],
+        [
+            "KitchenChair-7",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-7",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-7",
+            "ArmChair-2"
+        ],
+        [
+            "KitchenChair-7",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-7",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-7",
+            "OfficeChair-1"
+        ],
+        [
+            "KitchenChair-7",
+            "Desk-1"
+        ],
+        [
+            "KitchenChair-7",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-7",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_fo3"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_co3"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-7",
+            "arasb_so2"
+        ],
+        [
+            "KitchenChair-8",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-8",
+            "ArmChair-1"
+        ],
+        [
+            "KitchenChair-8",
+            "ArmChair-2"
+        ],
+        [
+            "KitchenChair-8",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-8",
+            "Sofa-2"
+        ],
+        [
+            "KitchenChair-8",
+            "OfficeChair-1"
+        ],
+        [
+            "KitchenChair-8",
+            "Desk-1"
+        ],
+        [
+            "KitchenChair-8",
+            "KitchenSink-1"
+        ],
+        [
+            "KitchenChair-8",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_fo3"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_co1"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_co2"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_co3"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_pr5"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenChair-8",
+            "arasb_so2"
+        ],
+        [
+            "Table-1",
+            "ArmChair-1"
+        ],
+        [
+            "Table-1",
+            "ArmChair-2"
+        ],
+        [
+            "Table-1",
+            "Sofa-1"
+        ],
+        [
+            "Table-1",
+            "Sofa-2"
+        ],
+        [
+            "Table-1",
+            "OfficeChair-1"
+        ],
+        [
+            "Table-1",
+            "Desk-1"
+        ],
+        [
+            "Table-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Table-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "Table-1",
+            "arasb_fo1"
+        ],
+        [
+            "Table-1",
+            "arasb_fo3"
+        ],
+        [
+            "Table-1",
+            "arasb_fo2"
+        ],
+        [
+            "Table-1",
+            "arasb_ph1"
+        ],
+        [
+            "Table-1",
+            "arasb_co1"
+        ],
+        [
+            "Table-1",
+            "arasb_co2"
+        ],
+        [
+            "Table-1",
+            "arasb_pr5"
+        ],
+        [
+            "Table-1",
+            "arasb_ph2"
+        ],
+        [
+            "Table-1",
+            "arasb_pr1"
+        ],
+        [
+            "Table-1",
+            "arasb_pr2"
+        ],
+        [
+            "Table-1",
+            "arasb_so1"
+        ],
+        [
+            "Table-1",
+            "arasb_so2"
+        ],
+        [
+            "ArmChair-1",
+            "ArmChair-2"
+        ],
+        [
+            "ArmChair-1",
+            "Sofa-1"
+        ],
+        [
+            "ArmChair-1",
+            "Sofa-2"
+        ],
+        [
+            "ArmChair-1",
+            "OfficeChair-1"
+        ],
+        [
+            "ArmChair-1",
+            "Desk-1"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_fo1"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_fo3"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_pr5"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_di2"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_pr1"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_pr2"
+        ],
+        [
+            "ArmChair-1",
+            "arasb_so2"
+        ],
+        [
+            "ArmChair-2",
+            "Sofa-1"
+        ],
+        [
+            "ArmChair-2",
+            "Sofa-2"
+        ],
+        [
+            "ArmChair-2",
+            "OfficeChair-1"
+        ],
+        [
+            "ArmChair-2",
+            "Desk-1"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_fo3"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_co3"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_co4"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_pr5"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_di2"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_pr1"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_pr2"
+        ],
+        [
+            "ArmChair-2",
+            "arasb_so1"
+        ],
+        [
+            "Sofa-1",
+            "Sofa-2"
+        ],
+        [
+            "Sofa-1",
+            "OfficeChair-1"
+        ],
+        [
+            "Sofa-1",
+            "Desk-1"
+        ],
+        [
+            "Sofa-1",
+            "SingleBed-2"
+        ],
+        [
+            "Sofa-1",
+            "arasb_fo3"
+        ],
+        [
+            "Sofa-1",
+            "arasb_co3"
+        ],
+        [
+            "Sofa-1",
+            "arasb_co5"
+        ],
+        [
+            "Sofa-1",
+            "arasb_pr5"
+        ],
+        [
+            "Sofa-1",
+            "arasb_pr1"
+        ],
+        [
+            "Sofa-1",
+            "arasb_pr2"
+        ],
+        [
+            "Sofa-2",
+            "OfficeChair-1"
+        ],
+        [
+            "Sofa-2",
+            "Desk-1"
+        ],
+        [
+            "Sofa-2",
+            "KitchenSink-1"
+        ],
+        [
+            "Sofa-2",
+            "arasb_fo1"
+        ],
+        [
+            "Sofa-2",
+            "arasb_fo3"
+        ],
+        [
+            "Sofa-2",
+            "arasb_ph1"
+        ],
+        [
+            "Sofa-2",
+            "arasb_co1"
+        ],
+        [
+            "Sofa-2",
+            "arasb_co3"
+        ],
+        [
+            "Sofa-2",
+            "arasb_pr5"
+        ],
+        [
+            "Sofa-2",
+            "arasb_di2"
+        ],
+        [
+            "Sofa-2",
+            "arasb_pr1"
+        ],
+        [
+            "Sofa-2",
+            "arasb_pr2"
+        ],
+        [
+            "Sofa-2",
+            "arasb_so1"
+        ],
+        [
+            "Sofa-2",
+            "arasb_so2"
+        ],
+        [
+            "OfficeChair-1",
+            "Desk-1"
+        ],
+        [
+            "OfficeChair-1",
+            "arasb_fo3"
+        ],
+        [
+            "OfficeChair-1",
+            "arasb_pr5"
+        ],
+        [
+            "OfficeChair-1",
+            "arasb_pr1"
+        ],
+        [
+            "OfficeChair-1",
+            "arasb_pr2"
+        ],
+        [
+            "Desk-1",
+            "arasb_fo3"
+        ],
+        [
+            "Desk-1",
+            "arasb_pr5"
+        ],
+        [
+            "Desk-1",
+            "arasb_pr1"
+        ],
+        [
+            "Desk-1",
+            "arasb_pr2"
+        ],
+        [
+            "ClothesDryer-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "ClothesDryer-1",
+            "SingleBed-1"
+        ],
+        [
+            "ClothesDryer-1",
+            "SingleBed-2"
+        ],
+        [
+            "ClothesDryer-1",
+            "arasb_pr4"
+        ],
+        [
+            "ClothesDryer-1",
+            "arasb_pr5"
+        ],
+        [
+            "ClothesDryer-1",
+            "arasb_pr1"
+        ],
+        [
+            "ClothesDryer-1",
+            "arasb_pr2"
+        ],
+        [
+            "ClothesDryer-1",
+            "arasb_pr3"
+        ],
+        [
+            "ClothesWasher-1",
+            "SingleBed-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "SingleBed-2"
+        ],
+        [
+            "ClothesWasher-1",
+            "arasb_fo2"
+        ],
+        [
+            "ClothesWasher-1",
+            "arasb_co2"
+        ],
+        [
+            "KitchenSink-1",
+            "KitchenCabinet-1"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_co1"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_co2"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_pr1"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_pr2"
+        ],
+        [
+            "KitchenSink-1",
+            "arasb_so2"
+        ],
+        [
+            "SingleBed-1",
+            "SingleBed-2"
+        ],
+        [
+            "SingleBed-1",
+            "arasb_co4"
+        ],
+        [
+            "SingleBed-1",
+            "arasb_co5"
+        ],
+        [
+            "SingleBed-1",
+            "arasb_pr4"
+        ],
+        [
+            "SingleBed-1",
+            "arasb_pr3"
+        ],
+        [
+            "SingleBed-2",
+            "arasb_co4"
+        ],
+        [
+            "SingleBed-2",
+            "arasb_co5"
+        ],
+        [
+            "SingleBed-2",
+            "arasb_pr4"
+        ],
+        [
+            "SingleBed-2",
+            "arasb_pr3"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_fo1"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_fo2"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_ph1"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_co1"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_co2"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_ph2"
+        ],
+        [
+            "KitchenCabinet-1",
+            "arasb_so2"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_fo2"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_ph1"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_co1"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_co2"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_pr5"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_ph2"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_pr1"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_pr2"
+        ],
+        [
+            "arasb_fo1",
+            "arasb_so2"
+        ],
+        [
+            "arasb_fo3",
+            "arasb_co5"
+        ],
+        [
+            "arasb_fo3",
+            "arasb_pr5"
+        ],
+        [
+            "arasb_fo3",
+            "arasb_pr1"
+        ],
+        [
+            "arasb_fo3",
+            "arasb_pr2"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_ph1"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_co1"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_co2"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_co6"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_ph2"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_so1"
+        ],
+        [
+            "arasb_fo2",
+            "arasb_so2"
+        ],
+        [
+            "arasb_ph1",
+            "arasb_co1"
+        ],
+        [
+            "arasb_ph1",
+            "arasb_co2"
+        ],
+        [
+            "arasb_ph1",
+            "arasb_ph2"
+        ],
+        [
+            "arasb_ph1",
+            "arasb_pr1"
+        ],
+        [
+            "arasb_ph1",
+            "arasb_so2"
+        ],
+        [
+            "arasb_co1",
+            "arasb_co2"
+        ],
+        [
+            "arasb_co1",
+            "arasb_ph2"
+        ],
+        [
+            "arasb_co1",
+            "arasb_pr1"
+        ],
+        [
+            "arasb_co1",
+            "arasb_so2"
+        ],
+        [
+            "arasb_co2",
+            "arasb_ph2"
+        ],
+        [
+            "arasb_co2",
+            "arasb_so2"
+        ],
+        [
+            "arasb_co4",
+            "arasb_co5"
+        ],
+        [
+            "arasb_co4",
+            "arasb_pr4"
+        ],
+        [
+            "arasb_co4",
+            "arasb_pr3"
+        ],
+        [
+            "arasb_co5",
+            "arasb_pr4"
+        ],
+        [
+            "arasb_co5",
+            "arasb_pr3"
+        ],
+        [
+            "arasb_co6",
+            "arasb_di2"
+        ],
+        [
+            "arasb_co6",
+            "arasb_so1"
+        ],
+        [
+            "arasb_co6",
+            "arasb_so3"
+        ],
+        [
+            "arasb_pr4",
+            "arasb_pr3"
+        ],
+        [
+            "arasb_pr5",
+            "arasb_di2"
+        ],
+        [
+            "arasb_pr5",
+            "arasb_pr1"
+        ],
+        [
+            "arasb_pr5",
+            "arasb_pr2"
+        ],
+        [
+            "arasb_pr5",
+            "arasb_so2"
+        ],
+        [
+            "arasb_di2",
+            "arasb_pr1"
+        ],
+        [
+            "arasb_di2",
+            "arasb_pr2"
+        ],
+        [
+            "arasb_di2",
+            "arasb_so1"
+        ],
+        [
+            "arasb_di2",
+            "arasb_so3"
+        ],
+        [
+            "arasb_ph2",
+            "arasb_so2"
+        ],
+        [
+            "arasb_pr1",
+            "arasb_pr2"
+        ],
+        [
+            "arasb_pr1",
+            "arasb_so1"
+        ],
+        [
+            "arasb_pr1",
+            "arasb_so2"
+        ],
+        [
+            "arasb_pr2",
+            "arasb_so1"
+        ],
+        [
+            "arasb_pr2",
+            "arasb_so2"
+        ],
+        [
+            "arasb_so1",
+            "arasb_so3"
+        ]
+    ],
+    "nodes": [
+        {
+            "bottom": 80.46642559887863,
+            "id": "ExteriorDoor-1",
+            "left": 619.5201159131367,
+            "ref": "cose:ExteriorDoor",
+            "right": 640.4217259036045,
+            "sensor": "",
+            "top": 18.538814275476227,
+            "x": 626.2118952062335,
+            "y": 66.63245912500432
+        },
+        {
+            "bottom": 272.4344927614195,
+            "id": "InteriorDoor-1",
+            "left": 706.2631243034255,
+            "ref": "cose:InteriorDoor",
+            "right": 749.1434338424915,
+            "sensor": "",
+            "top": 229.55418322235346,
+            "x": 727.7032790729586,
+            "y": 250.99433799188648
+        },
+        {
+            "bottom": 333.5416602965172,
+            "id": "InteriorDoor-2",
+            "left": 714.8822646662593,
+            "ref": "cose:InteriorDoor",
+            "right": 763.1093250947436,
+            "sensor": "",
+            "top": 304.40196158726394,
+            "x": 738.9957948805013,
+            "y": 318.97181094189057
+        },
+        {
+            "bottom": 220.76260744640604,
+            "id": "Shower-1",
+            "left": 802.5779534666799,
+            "ref": "cose:Shower",
+            "right": 874.2162083121948,
+            "sensor": "",
+            "top": 149.12435260089114,
+            "x": 850.0893936791687,
+            "y": 192.81704017859863
+        },
+        {
+            "bottom": 187.27218941570572,
+            "id": "Toilet-1",
+            "left": 760.8657402545214,
+            "ref": "cose:Toilet",
+            "right": 788.519728653233,
+            "sensor": "",
+            "top": 147.05890103159783,
+            "x": 774.6926226963399,
+            "y": 161.37900808398143
+        },
+        {
+            "bottom": 278.2823615706898,
+            "id": "BathroomSink-1",
+            "left": 845.2600492378108,
+            "ref": "cose:BathroomSink",
+            "right": 875.3580605959316,
+            "sensor": "",
+            "top": 251.02888682910498,
+            "x": 866.1716759527606,
+            "y": 264.73053732857556
+        },
+        {
+            "bottom": 431.09455694258213,
+            "id": "Nightstand-1",
+            "left": 644.2932419706276,
+            "ref": "cose:Nightstand",
+            "right": 681.8394551269243,
+            "sensor": "",
+            "top": 403.0341150780357,
+            "x": 660.0374584901466,
+            "y": 416.88077595076044
+        },
+        {
+            "bottom": 574.6389295011759,
+            "id": "Nightstand-2",
+            "left": 644.2932419706276,
+            "ref": "cose:Nightstand",
+            "right": 681.8394551269243,
+            "sensor": "",
+            "top": 546.5784876366295,
+            "x": 660.0374584901466,
+            "y": 560.4251485093541
+        },
+        {
+            "bottom": 551.8875971284353,
+            "id": "Freezer-1",
+            "left": 427.48718875179287,
+            "ref": "cose:Freezer",
+            "right": 482.53185799400103,
+            "sensor": "",
+            "top": 500.6250640667746,
+            "x": 437.5893391958507,
+            "y": 526.8754614747968
+        },
+        {
+            "bottom": 512.9266593456268,
+            "id": "Oven-1",
+            "left": 254.72228186394693,
+            "ref": "cose:Oven",
+            "right": 306.9410962286056,
+            "sensor": "",
+            "top": 465.5213210582733,
+            "x": 291.64459780555507,
+            "y": 489.22400105217093
+        },
+        {
+            "bottom": 392.5055917799473,
+            "id": "Dresser-1",
+            "left": 850.2356022596359,
+            "ref": "cose:Dresser",
+            "right": 871.56466591788,
+            "sensor": "",
+            "top": 360.06453319561933,
+            "x": 857.3176500764316,
+            "y": 376.285061224781
+        },
+        {
+            "bottom": 354.7614816725254,
+            "id": "Dresser-2",
+            "left": 850.2354801893234,
+            "ref": "cose:Dresser",
+            "right": 871.5645438475675,
+            "sensor": "",
+            "top": 322.32042308819746,
+            "x": 857.3175280061191,
+            "y": 338.5409511173591
+        },
+        {
+            "bottom": 428.39015908895135,
+            "id": "KitchenChair-1",
+            "left": 304.9431339679464,
+            "ref": "cose:KitchenChair",
+            "right": 340.10268749914695,
+            "sensor": "",
+            "top": 397.4973469078541,
+            "x": 329.1001023146795,
+            "y": 412.9437413814069
+        },
+        {
+            "bottom": 432.58682057261467,
+            "id": "KitchenChair-2",
+            "left": 208.0695689705796,
+            "ref": "cose:KitchenChair",
+            "right": 243.22912250178018,
+            "sensor": "",
+            "top": 401.6940083915174,
+            "x": 219.07215415504712,
+            "y": 417.14042609906187
+        },
+        {
+            "bottom": 433.6475138252795,
+            "id": "KitchenChair-3",
+            "left": 129.2271000323995,
+            "ref": "cose:KitchenChair",
+            "right": 164.38665356360008,
+            "sensor": "",
+            "top": 402.7547016441822,
+            "x": 153.38406837913257,
+            "y": 418.201096117735
+        },
+        {
+            "bottom": 488.27150674520135,
+            "id": "KitchenChair-4",
+            "left": 129.2271000323995,
+            "ref": "cose:KitchenChair",
+            "right": 164.38665356360008,
+            "sensor": "",
+            "top": 457.3786945641041,
+            "x": 153.38406837913257,
+            "y": 472.8250890376569
+        },
+        {
+            "bottom": 542.8954996651232,
+            "id": "KitchenChair-5",
+            "left": 129.2271000323995,
+            "ref": "cose:KitchenChair",
+            "right": 164.38665356360008,
+            "sensor": "",
+            "top": 512.002687484026,
+            "x": 153.38406837913257,
+            "y": 527.4490819575788
+        },
+        {
+            "bottom": 433.64748951792717,
+            "id": "KitchenChair-6",
+            "left": 42.960140564817905,
+            "ref": "cose:KitchenChair",
+            "right": 78.11969409601846,
+            "sensor": "",
+            "top": 402.7546773368299,
+            "x": 53.9627257492854,
+            "y": 418.20109504437437
+        },
+        {
+            "bottom": 488.27151295542717,
+            "id": "KitchenChair-7",
+            "left": 42.960140564817905,
+            "ref": "cose:KitchenChair",
+            "right": 78.11969409601846,
+            "sensor": "",
+            "top": 457.3787007743299,
+            "x": 53.9627257492854,
+            "y": 472.82511848187437
+        },
+        {
+            "bottom": 542.895505875349,
+            "id": "KitchenChair-8",
+            "left": 42.960140564817905,
+            "ref": "cose:KitchenChair",
+            "right": 78.11969409601846,
+            "sensor": "",
+            "top": 512.0026936942518,
+            "x": 53.9627257492854,
+            "y": 527.4491114017962
+        },
+        {
+            "bottom": 560.4530459907799,
+            "id": "Table-1",
+            "left": 72.57973529398441,
+            "ref": "cose:Table",
+            "right": 137.94903732836246,
+            "sensor": "",
+            "top": 380.9544565900613,
+            "x": 105.2643912984554,
+            "y": 470.70375129042066
+        },
+        {
+            "bottom": 107.31898462015351,
+            "id": "ArmChair-1",
+            "left": 7.954482887928805,
+            "ref": "cose:ArmChair",
+            "right": 98.45614322558924,
+            "sensor": "",
+            "top": 21.02723897612691,
+            "x": 53.905162160496815,
+            "y": 64.95617824644779
+        },
+        {
+            "bottom": 291.8797396310508,
+            "id": "ArmChair-2",
+            "left": 223.06329074963048,
+            "ref": "cose:ArmChair",
+            "right": 313.5649510872909,
+            "sensor": "",
+            "top": 205.58799398702422,
+            "x": 267.614271814723,
+            "y": 247.95080036073
+        },
+        {
+            "bottom": 75.7435922980045,
+            "id": "Sofa-1",
+            "left": 156.93090517818928,
+            "ref": "cose:Sofa",
+            "right": 319.24425163380045,
+            "sensor": "",
+            "top": 8.296955852899757,
+            "x": 238.20347716792241,
+            "y": 43.97595399700669
+        },
+        {
+            "bottom": 299.189347476568,
+            "id": "Sofa-2",
+            "left": 13.677882765613617,
+            "ref": "cose:Sofa",
+            "right": 175.99122922122478,
+            "sensor": "",
+            "top": 231.74271103146327,
+            "x": 94.71865723149165,
+            "y": 263.5103493324611
+        },
+        {
+            "bottom": 66.29029142253808,
+            "id": "OfficeChair-1",
+            "left": 350.9816341663791,
+            "ref": "cose:OfficeChair",
+            "right": 395.2934411019087,
+            "sensor": "",
+            "top": 51.350095146827016,
+            "x": 373.1375376341439,
+            "y": 58.820193284682546
+        },
+        {
+            "bottom": 76.55704979102575,
+            "id": "Desk-1",
+            "left": 323.83956814464113,
+            "ref": "cose:Desk",
+            "right": 423.1537759721334,
+            "sensor": "",
+            "top": 9.056197361871924,
+            "x": 365.2653564629299,
+            "y": 44.45314950350844
+        },
+        {
+            "bottom": 196.3461578878987,
+            "id": "ClothesDryer-1",
+            "left": 646.5484190492442,
+            "ref": "cose:ClothesDryer",
+            "right": 689.3910601370595,
+            "sensor": "",
+            "top": 149.81919179986681,
+            "x": 667.9697402411573,
+            "y": 182.59956745568033
+        },
+        {
+            "bottom": 196.34212993885194,
+            "id": "ClothesWasher-1",
+            "left": 692.4101731117315,
+            "ref": "cose:ClothesWasher",
+            "right": 735.215905092901,
+            "sensor": "",
+            "top": 149.85524701818898,
+            "x": 713.8123191815962,
+            "y": 178.7336991535876
+        },
+        {
+            "bottom": 432.9542571810083,
+            "id": "KitchenSink-1",
+            "left": 452.6687588189917,
+            "ref": "cose:KitchenSink",
+            "right": 478.29041171703244,
+            "sensor": "",
+            "top": 390.50733249552246,
+            "x": 463.01033362671075,
+            "y": 416.4073984128533
+        },
+        {
+            "bottom": 549.1283017141884,
+            "id": "SingleBed-1",
+            "left": 643.4207547684472,
+            "ref": "cose:SingleBed",
+            "right": 777.0179887031305,
+            "sensor": "",
+            "top": 489.20179590289854,
+            "x": 676.6030679611104,
+            "y": 523.1538246052191
+        },
+        {
+            "bottom": 498.80280122590716,
+            "id": "SingleBed-2",
+            "left": 643.4208158036034,
+            "ref": "cose:SingleBed",
+            "right": 777.0180497382868,
+            "sensor": "",
+            "top": 438.8762954146173,
+            "x": 676.6031289962666,
+            "y": 472.8283241169379
+        },
+        {
+            "bottom": 495.3444368079968,
+            "id": "KitchenCabinet-1",
+            "left": 466.8997296266241,
+            "ref": "cose:KitchenCabinet",
+            "right": 478.4703639350652,
+            "sensor": "",
+            "top": 439.8373059638195,
+            "x": 472.6850467808447,
+            "y": 467.59087138590814
+        },
+        {
+            "bottom": 412.50396728515625,
+            "id": "arasb_fo1",
+            "left": 244.49766540527344,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 261.0028076171875,
+            "sensor": "arasb:fo1",
+            "top": 403.49212646484375,
+            "x": 252.75023651123047,
+            "y": 407.998046875
+        },
+        {
+            "bottom": 85.61000061035156,
+            "id": "arasb_fo3",
+            "left": 390.2601623535156,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 406.7652893066406,
+            "sensor": "arasb:fo3",
+            "top": 76.59815979003906,
+            "x": 398.5127258300781,
+            "y": 81.10408020019531
+        },
+        {
+            "bottom": 413.8385314941406,
+            "id": "arasb_fo2",
+            "left": 336.1125793457031,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 352.6177062988281,
+            "sensor": "arasb:fo2",
+            "top": 404.8266906738281,
+            "x": 344.3651428222656,
+            "y": 409.3326110839844
+        },
+        {
+            "bottom": 411.1802062988281,
+            "id": "arasb_ph1",
+            "left": 456.56976318359375,
+            "ref": "cose:MotionDetector",
+            "right": 473.6805114746094,
+            "sensor": "arasb:ph1",
+            "top": 402.1683654785156,
+            "x": 465.12513732910156,
+            "y": 406.6742858886719
+        },
+        {
+            "bottom": 557.5321044921875,
+            "id": "arasb_co1",
+            "left": 428.09307861328125,
+            "ref": "cose:ContactSensor",
+            "right": 445.0049743652344,
+            "sensor": "arasb:co1",
+            "top": 548.520263671875,
+            "x": 436.5490264892578,
+            "y": 553.0261840820312
+        },
+        {
+            "bottom": 492.3490905761719,
+            "id": "arasb_co2",
+            "left": 449.5377197265625,
+            "ref": "cose:ContactSensor",
+            "right": 466.4495849609375,
+            "sensor": "arasb:co2",
+            "top": 483.3372497558594,
+            "x": 457.99365234375,
+            "y": 487.8431701660156
+        },
+        {
+            "bottom": 64.20004272460938,
+            "id": "arasb_co3",
+            "left": 615.69677734375,
+            "ref": "cose:ContactSensor",
+            "right": 632.6087036132812,
+            "sensor": "arasb:co3",
+            "top": 55.188209533691406,
+            "x": 624.1527404785156,
+            "y": 59.69412612915039
+        },
+        {
+            "bottom": 332.6695861816406,
+            "id": "arasb_co4",
+            "left": 849.6420288085938,
+            "ref": "cose:ContactSensor",
+            "right": 866.5538940429688,
+            "sensor": "arasb:co4",
+            "top": 323.6577453613281,
+            "x": 858.0979614257812,
+            "y": 328.1636657714844
+        },
+        {
+            "bottom": 407.9011535644531,
+            "id": "arasb_co5",
+            "left": 849.9674682617188,
+            "ref": "cose:ContactSensor",
+            "right": 866.8793334960938,
+            "sensor": "arasb:co5",
+            "top": 398.8893127441406,
+            "x": 858.4234008789062,
+            "y": 403.3952331542969
+        },
+        {
+            "bottom": 222.61822509765625,
+            "id": "arasb_co6",
+            "left": 833.3988647460938,
+            "ref": "cose:ContactSensor",
+            "right": 850.310791015625,
+            "sensor": "arasb:co6",
+            "top": 213.60638427734375,
+            "x": 841.8548278808594,
+            "y": 218.1123046875
+        },
+        {
+            "bottom": 521.6113891601562,
+            "id": "arasb_pr4",
+            "left": 721.9014282226562,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 737.2676391601562,
+            "sensor": "arasb:pr4",
+            "top": 512.599609375,
+            "x": 729.5845336914062,
+            "y": 517.1054992675781
+        },
+        {
+            "bottom": 90.62124633789062,
+            "id": "arasb_pr5",
+            "left": 82.41603088378906,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 97.78225708007812,
+            "sensor": "arasb:pr5",
+            "top": 81.60940551757812,
+            "x": 90.0991439819336,
+            "y": 86.11532592773438
+        },
+        {
+            "bottom": 282.6168518066406,
+            "id": "arasb_di2",
+            "left": 860.3983154296875,
+            "ref": "cose:MotionDetector",
+            "right": 875.3397216796875,
+            "sensor": "arasb:di2",
+            "top": 273.6050109863281,
+            "x": 867.8690185546875,
+            "y": 278.1109313964844
+        },
+        {
+            "bottom": 462.5761413574219,
+            "id": "arasb_ph2",
+            "left": 449.44647216796875,
+            "ref": "cose:MotionDetector",
+            "right": 466.55718994140625,
+            "sensor": "arasb:ph2",
+            "top": 453.5643310546875,
+            "x": 458.0018310546875,
+            "y": 458.0702362060547
+        },
+        {
+            "bottom": 270.9749450683594,
+            "id": "arasb_pr1",
+            "left": 71.05008697509766,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 86.41631317138672,
+            "sensor": "arasb:pr1",
+            "top": 261.9631042480469,
+            "x": 78.73320007324219,
+            "y": 266.4690246582031
+        },
+        {
+            "bottom": 272.0927734375,
+            "id": "arasb_pr2",
+            "left": 154.34332275390625,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 169.7095489501953,
+            "sensor": "arasb:pr2",
+            "top": 263.0809326171875,
+            "x": 162.02643585205078,
+            "y": 267.58685302734375
+        },
+        {
+            "bottom": 475.6124572753906,
+            "id": "arasb_pr3",
+            "left": 721.9014282226562,
+            "ref": "cose:BinaryPressureSensor",
+            "right": 737.2676391601562,
+            "sensor": "arasb:pr3",
+            "top": 466.6006164550781,
+            "x": 729.5845336914062,
+            "y": 471.1065368652344
+        },
+        {
+            "bottom": 248.61764526367188,
+            "id": "arasb_so1",
+            "left": 772.4002685546875,
+            "ref": "cose:MotionDetector",
+            "right": 789.2037353515625,
+            "sensor": "arasb:so1",
+            "top": 239.60580444335938,
+            "x": 780.802001953125,
+            "y": 244.11172485351562
+        },
+        {
+            "bottom": 542.4257202148438,
+            "id": "arasb_so2",
+            "left": 276.2633056640625,
+            "ref": "cose:MotionDetector",
+            "right": 293.0667419433594,
+            "sensor": "arasb:so2",
+            "top": 533.4138793945312,
+            "x": 284.66502380371094,
+            "y": 537.9197998046875
+        },
+        {
+            "bottom": 173.14630126953125,
+            "id": "arasb_so3",
+            "left": 777.399658203125,
+            "ref": "cose:MotionDetector",
+            "right": 794.203125,
+            "sensor": "arasb:so3",
+            "top": 164.13446044921875,
+            "x": 785.8013916015625,
+            "y": 168.640380859375
+        }
+    ]
+}

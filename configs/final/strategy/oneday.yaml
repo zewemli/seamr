@@ -1,0 +1,10 @@
+k: 3
+store: "/phd/data/store"
+results: "./results"
+eval_for: 31
+eval_mode: "one-day"
+validate_for: 30
+max_steps: 20
+step_by: 15
+invert_eval: false
+eval_batch: 10000

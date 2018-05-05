@@ -1,0 +1,7 @@
+classifier:
+    seamr.learn.reasoning.Sequencer:
+        point_estimator: sklearn.tree.DecisionTreeClassifier
+        point_args:
+            criterion: gini
+            max_features: null
+            max_leaf_nodes: 8192

@@ -1,0 +1,10 @@
+classifier:
+    seamr.learn.seq.HMMClassifier:
+        key: "hmm-kmeans"
+        seqlen: 30
+        seqstep: 10
+        clusterer:
+            sklearn.tree.DecisionTreeClassifier:
+                criterion: gini
+                max_features: null
+                max_leaf_nodes: 128

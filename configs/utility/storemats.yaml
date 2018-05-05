@@ -1,0 +1,8 @@
+k: 5
+store: "/phd/store"
+eval_for: 31
+validate_for: 30
+max_steps: 20
+step_by: 15
+qSeconds: 180
+gridSize: 10

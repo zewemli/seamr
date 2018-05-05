@@ -1,0 +1,19 @@
+classifier:
+    seamr.learn.ace.ACE:
+        cutlevel: 0.000001
+        acceptor:
+            sklearn.linear_model.LogisticRegression:
+                solver: "lbfgs"
+                penalty: "l2"
+                
+        expert:    
+            sklearn.tree.DecisionTreeClassifier:
+                criterion: gini
+                max_features: null
+                max_leaf_nodes: 256
+
+        generalist:
+            sklearn.tree.DecisionTreeClassifier:
+                criterion: gini
+                max_features: null
+                max_leaf_nodes: 1024

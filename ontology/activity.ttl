@@ -1,0 +1,1828 @@
+@prefix : <http://serc.wsu.edu/owl/activity.owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix cose: <http://serc.wsu.edu/owl/cose.owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://serc.wsu.edu/owl/activity.owl> .
+
+<http://serc.wsu.edu/owl/activity.owl> rdf:type owl:Ontology ;
+                                        owl:imports <http://serc.wsu.edu/owl/cose.owl> .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://serc.wsu.edu/owl/activity.owl#commonTerm
+:commonTerm rdf:type owl:AnnotationProperty .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wordnetSynset
+:wordnetSynset rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://serc.wsu.edu/owl/activity.owl#activityProperty
+:activityProperty rdf:type owl:ObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#envHasLightLevel
+:envHasLightLevel rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf :stateProperty ;
+                  rdfs:domain cose:FunctionalSpace ;
+                  rdfs:range cose:LightLevel .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#envHasTemperature
+:envHasTemperature rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf :stateProperty ;
+                   rdfs:domain cose:FunctionalSpace ;
+                   rdfs:range cose:Temperature .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#inLocation
+:inLocation rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf :transientPersonProperty ;
+            rdfs:range cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#involvesObject
+:involvesObject rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf :activityProperty ;
+                rdfs:domain :Activity ;
+                rdfs:range cose:HouseholdItem .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#normalTime
+:normalTime rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf :activityProperty ;
+            rdfs:range cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#objHasTemperature
+:objHasTemperature rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf :stateProperty ;
+                   rdfs:domain cose:HouseholdItem ;
+                   rdfs:range cose:Temperature .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#occursIn
+:occursIn rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf :activityProperty ;
+          rdfs:domain :Activity ;
+          rdfs:range cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#stateProperty
+:stateProperty rdf:type owl:ObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#transientPersonProperty
+:transientPersonProperty rdf:type owl:ObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#usingObject
+:usingObject rdf:type owl:ObjectProperty ;
+             rdfs:subPropertyOf :transientPersonProperty ;
+             rdfs:range cose:HouseholdItem .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://serc.wsu.edu/owl/activity.owl#Activity
+:Activity rdf:type owl:Class .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#ActivityItensity
+:ActivityItensity rdf:type owl:Class ;
+                  rdfs:subClassOf cose:InformationalThing .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Bathing
+:Bathing rdf:type owl:Class ;
+         rdfs:subClassOf :Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Bed_To_Toilet
+:Bed_To_Toilet rdf:type owl:Class ;
+               rdfs:subClassOf :Toileting .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Breakfast
+:Breakfast rdf:type owl:Class ;
+           rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Brushing_Teeth
+:Brushing_Teeth rdf:type owl:Class ;
+                rdfs:subClassOf :Personal_Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Changing_Clothes
+:Changing_Clothes rdf:type owl:Class ;
+                  rdfs:subClassOf :PersonalCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Chores
+:Chores rdf:type owl:Class ;
+        rdfs:subClassOf :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Cooking
+:Cooking rdf:type owl:Class ;
+         rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#CookingAndEating
+:CookingAndEating rdf:type owl:Class ;
+                  rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Desk_Activity
+:Desk_Activity rdf:type owl:Class ;
+               rdfs:subClassOf :WorkRelated .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Dinner
+:Dinner rdf:type owl:Class ;
+        rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Drink
+:Drink rdf:type owl:Class ;
+       rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Drug_Management
+:Drug_Management rdf:type owl:Class ;
+                 rdfs:subClassOf :PersonalCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Eating
+:Eating rdf:type owl:Class ;
+        rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#EnterExitAction
+:EnterExitAction rdf:type owl:Class ;
+                 rdfs:subClassOf :EnterExitRelated .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#EnterExitRelated
+:EnterExitRelated rdf:type owl:Class ;
+                  rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Enter_Home
+:Enter_Home rdf:type owl:Class ;
+            rdfs:subClassOf :EnterExitAction .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Exercise
+:Exercise rdf:type owl:Class ;
+          rdfs:subClassOf :LeisureAndExercise .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Grooming
+:Grooming rdf:type owl:Class ;
+          rdfs:subClassOf :Personal_Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Breakfast
+:Having_Breakfast rdf:type owl:Class ;
+                  rdfs:subClassOf :Breakfast ,
+                                  :Eating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Dinner
+:Having_Dinner rdf:type owl:Class ;
+               rdfs:subClassOf :Dinner ,
+                               :Eating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Guest
+:Having_Guest rdf:type owl:Class ;
+              rdfs:subClassOf :Social .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Lunch
+:Having_Lunch rdf:type owl:Class ;
+              rdfs:subClassOf :Eating ,
+                              :Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Snack
+:Having_Snack rdf:type owl:Class ;
+              rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#HighIntensity
+:HighIntensity rdf:type owl:Class ;
+               rdfs:subClassOf :ActivityItensity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#HomeCare
+:HomeCare rdf:type owl:Class ;
+          rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Housekeeping
+:Housekeeping rdf:type owl:Class ;
+              rdfs:subClassOf :HomeCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Hygiene
+:Hygiene rdf:type owl:Class ;
+         rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Laundry
+:Laundry rdf:type owl:Class ;
+         rdfs:subClassOf :HomeCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Leave_Home
+:Leave_Home rdf:type owl:Class ;
+            rdfs:subClassOf :EnterExitAction .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#LeisureAndExercise
+:LeisureAndExercise rdf:type owl:Class ;
+                    rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Listening_To_Music
+:Listening_To_Music rdf:type owl:Class ;
+                    rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#LowIntensity
+:LowIntensity rdf:type owl:Class ;
+              rdfs:subClassOf :ActivityItensity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Lunch
+:Lunch rdf:type owl:Class ;
+       rdfs:subClassOf :CookingAndEating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Making_Bed
+:Making_Bed rdf:type owl:Class ;
+            rdfs:subClassOf :HomeCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Meditate
+:Meditate rdf:type owl:Class ;
+          rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#MinimalIntensity
+:MinimalIntensity rdf:type owl:Class ;
+                  rdfs:subClassOf :ActivityItensity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#ModerateIntensity
+:ModerateIntensity rdf:type owl:Class ;
+                   rdfs:subClassOf :ActivityItensity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Napping
+:Napping rdf:type owl:Class ;
+         rdfs:subClassOf :SleepWakeCycle .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Other
+:Other rdf:type owl:Class ;
+       rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Out_Of_Home
+:Out_Of_Home rdf:type owl:Class ;
+             rdfs:subClassOf :EnterExitRelated .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Personal
+:Personal rdf:type owl:Class ;
+          rdfs:subClassOf :LeisureAndExercise .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#PersonalCare
+:PersonalCare rdf:type owl:Class ;
+              rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Personal_Hygiene
+:Personal_Hygiene rdf:type owl:Class ;
+                  rdfs:subClassOf :Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Playing_Piano
+:Playing_Piano rdf:type owl:Class ;
+               rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Preparing_Breakfast
+:Preparing_Breakfast rdf:type owl:Class ;
+                     rdfs:subClassOf :Breakfast ,
+                                     :Cooking .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Preparing_Dinner
+:Preparing_Dinner rdf:type owl:Class ;
+                  rdfs:subClassOf :Cooking ,
+                                  :Dinner .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Preparing_Lunch
+:Preparing_Lunch rdf:type owl:Class ;
+                 rdfs:subClassOf :Cooking ,
+                                 :Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Read
+:Read rdf:type owl:Class ;
+      rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Relax
+:Relax rdf:type owl:Class ;
+       rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Resperate
+:Resperate rdf:type owl:Class ;
+           rdfs:subClassOf :LeisureAndExercise .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Shaving
+:Shaving rdf:type owl:Class ;
+         rdfs:subClassOf :Personal_Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Shower
+:Shower rdf:type owl:Class ;
+        rdfs:subClassOf :Bathing .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#SleepWakeCycle
+:SleepWakeCycle rdf:type owl:Class ;
+                rdfs:subClassOf :Activity .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Sleeping
+:Sleeping rdf:type owl:Class ;
+          rdfs:subClassOf :SleepWakeCycle .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Social
+:Social rdf:type owl:Class ;
+        rdfs:subClassOf :LeisureAndExercise .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Store_Groceries
+:Store_Groceries rdf:type owl:Class ;
+                 rdfs:subClassOf :HomeCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Study
+:Study rdf:type owl:Class ;
+       rdfs:subClassOf :WorkRelated .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Take_Medicine
+:Take_Medicine rdf:type owl:Class ;
+               rdfs:subClassOf :Drug_Management .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Talking_On_The_Phone
+:Talking_On_The_Phone rdf:type owl:Class ;
+                      rdfs:subClassOf :Social .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Toileting
+:Toileting rdf:type owl:Class ;
+           rdfs:subClassOf :Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Using_Internet
+:Using_Internet rdf:type owl:Class ;
+                rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wake
+:Wake rdf:type owl:Class ;
+      rdfs:subClassOf :SleepWakeCycle .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wandering
+:Wandering rdf:type owl:Class ;
+           rdfs:subClassOf :SleepWakeCycle .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wash_Bathtub
+:Wash_Bathtub rdf:type owl:Class ;
+              rdfs:subClassOf :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wash_Dishes
+:Wash_Dishes rdf:type owl:Class ;
+             rdfs:subClassOf :HomeCare .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Watch_TV
+:Watch_TV rdf:type owl:Class ;
+          rdfs:subClassOf :Personal .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Work
+:Work rdf:type owl:Class ;
+      rdfs:subClassOf :WorkRelated .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#WorkRelated
+:WorkRelated rdf:type owl:Class ;
+             rdfs:subClassOf :Activity .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://serc.wsu.edu/owl/activity.owl#Bathing
+:Bathing rdf:type owl:NamedIndividual ;
+         :involvesObject cose:Bathtub ,
+                         cose:Shower ;
+         :normalTime cose:Evening ,
+                     cose:Morning ;
+         cose:commonTerm "take a bath" ;
+         cose:wordnetSynset "bathe.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Bed_To_Toilet
+:Bed_To_Toilet rdf:type owl:NamedIndividual ;
+               :involvesObject cose:Bed ,
+                               cose:Toilet ;
+               :normalTime cose:Morning ,
+                           cose:Night ;
+               :occursIn cose:Bathroom ,
+                         cose:Bedroom .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Breakfast
+:Breakfast rdf:type owl:NamedIndividual ;
+           :normalTime cose:Morning ;
+           cose:commonTerm "breakfast" ;
+           cose:wordnetSynset "breakfast.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Brushing_Teeth
+:Brushing_Teeth rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Changing_Clothes
+:Changing_Clothes rdf:type owl:NamedIndividual ;
+                  :involvesObject cose:Clothing ;
+                  :normalTime cose:Evening ,
+                              cose:Morning ;
+                  :occursIn cose:Bedroom ,
+                            cose:Closet ,
+                            cose:Dresser ,
+                            cose:Wardrobe ;
+                  cose:commonTerm "changing clothes" ;
+                  cose:wordnetSynset "clothing.n.01" ,
+                                     "dress.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Chores
+:Chores rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Clean
+:Clean rdf:type owl:NamedIndividual ;
+       :involvesObject cose:CleaningProduct ;
+       :occursIn cose:Bedroom ,
+                 cose:LivingRoom ;
+       cose:commonTerm "cleaning" ;
+       cose:wordnetSynset "clean.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Cooking
+:Cooking rdf:type owl:NamedIndividual ;
+         :involvesObject cose:CookingRange ,
+                         cose:Freezer ,
+                         cose:Oven ,
+                         cose:Refrigerator ;
+         :normalTime cose:Afternoon ,
+                     cose:Evening ,
+                     cose:MidMorning ,
+                     cose:Midday ,
+                     cose:Morning ;
+         cose:commonTerm "cooking" ;
+         cose:wordnetSynset "cook.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#CookingAndEating
+:CookingAndEating rdf:type owl:NamedIndividual ;
+                  :occursIn cose:Kitchen .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Dinner
+:Dinner rdf:type owl:NamedIndividual ;
+        :normalTime cose:Evening ,
+                    cose:Twilight ;
+        cose:commonTerm "dinner" ;
+        cose:wordnetSynset "dinner.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Dishes
+:Dishes rdf:type owl:NamedIndividual ;
+        :normalTime cose:Afternoon ,
+                    cose:Evening ,
+                    cose:MidMorning ,
+                    cose:Midday ,
+                    cose:Morning ,
+                    cose:Twilight ;
+        cose:commonTerm "washing dishes" ;
+        cose:wordnetSynset "dishwashing.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Drink
+:Drink rdf:type owl:NamedIndividual ;
+       cose:commonTerm "drinking" ;
+       cose:wordnetSynset "drink.n.01" ,
+                          "drink.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Drug_Management
+:Drug_Management rdf:type owl:NamedIndividual ;
+                 :involvesObject cose:Cabinet ,
+                                 cose:Medicine ;
+                 :occursIn cose:Bathroom ,
+                           cose:Kitchen .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Eating
+:Eating rdf:type owl:NamedIndividual ;
+        :involvesObject cose:KitchenChair ,
+                        cose:Table ;
+        :normalTime cose:Afternoon ,
+                    cose:Evening ,
+                    cose:MidMorning ,
+                    cose:Midday ,
+                    cose:Morning ,
+                    cose:Twilight ;
+        :occursIn cose:DiningRoom ,
+                  cose:LivingRoom ;
+        cose:commonTerm "eating" ;
+        cose:wordnetSynset "eat.v.01" ,
+                           "food.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#EnterExitAction
+:EnterExitAction rdf:type owl:NamedIndividual ;
+                 :involvesObject cose:ExteriorDoor ;
+                 :occursIn cose:Foyer .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#EnterExitRelated
+:EnterExitRelated rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Enter_Home
+:Enter_Home rdf:type owl:NamedIndividual ;
+            :normalTime cose:Afternoon ,
+                        cose:Twilight ;
+            cose:commonTerm "entering" ;
+            cose:wordnetSynset "door.n.01" ,
+                               "enter.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Evening_Meds
+:Evening_Meds rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Exercise
+:Exercise rdf:type owl:NamedIndividual ;
+          cose:commonTerm "exercising" ;
+          cose:wordnetSynset "exercise.v.04" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Grooming
+:Grooming rdf:type owl:NamedIndividual ;
+          :normalTime cose:MidMorning ,
+                      cose:Morning ;
+          cose:commonTerm "grooming" ;
+          cose:wordnetSynset "bathroom.n.01" ,
+                             "groom.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Group_Meeting
+:Group_Meeting rdf:type owl:NamedIndividual ;
+               cose:commonTerm "meeting" ;
+               cose:wordnetSynset "meet.v.02" ,
+                                  "socialize.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Guest_Bathroom
+:Guest_Bathroom rdf:type owl:NamedIndividual ;
+                :occursIn cose:Bathroom .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Breakfast
+:Having_Breakfast rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Conversation
+:Having_Conversation rdf:type owl:NamedIndividual ;
+                     :normalTime cose:Afternoon ,
+                                 cose:MidMorning ,
+                                 cose:Midday ,
+                                 cose:Twilight ;
+                     cose:commonTerm "conversation" ;
+                     cose:wordnetSynset "converse.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Dinner
+:Having_Dinner rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Guest
+:Having_Guest rdf:type owl:NamedIndividual ;
+              :involvesObject cose:Couch ,
+                              cose:Sofa ;
+              :occursIn cose:LivingRoom .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Lunch
+:Having_Lunch rdf:type owl:NamedIndividual ;
+              cose:commonTerm "lunching" ;
+              cose:wordnetSynset "lunch.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Having_Snack
+:Having_Snack rdf:type owl:NamedIndividual ;
+              :involvesObject cose:MicrowaveOven ;
+              :occursIn cose:Kitchen ,
+                        cose:LivingRoom ;
+              cose:commonTerm "snacking" ;
+              cose:wordnetSynset "food.n.01" ,
+                                 "nosh.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Housekeeping
+:Housekeeping rdf:type owl:NamedIndividual ;
+              cose:commonTerm "housekeeping" ;
+              cose:wordnetSynset "housekeep.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Hygiene
+:Hygiene rdf:type owl:NamedIndividual ;
+         :involvesObject cose:BathroomDoor ;
+         :occursIn cose:Bathroom ;
+         cose:commonTerm "brushing teeth" ;
+         cose:wordnetSynset "groom.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Laundry
+:Laundry rdf:type owl:NamedIndividual ;
+         :involvesObject cose:ClothesDryer ,
+                         cose:ClothesWasher ;
+         :occursIn cose:Bedroom ,
+                   cose:LaundryRoom ,
+                   cose:LivingRoom ;
+         cose:commonTerm "doing laundry" ;
+         cose:wordnetSynset "wash.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Leave_Home
+:Leave_Home rdf:type owl:NamedIndividual ;
+            :normalTime cose:MidMorning ,
+                        cose:Morning ;
+            cose:commonTerm "leaving" ;
+            cose:wordnetSynset "door.n.01" ,
+                               "exit.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#LeisureAndExercise
+:LeisureAndExercise rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Listening_To_Music
+:Listening_To_Music rdf:type owl:NamedIndividual ;
+                    cose:commonTerm "listening to music" ;
+                    cose:wordnetSynset "listen.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#LowIntensity
+:LowIntensity rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Lunch
+:Lunch rdf:type owl:NamedIndividual ;
+       cose:commonTerm "lunching" ;
+       cose:wordnetSynset "lunch.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Making_Bed
+:Making_Bed rdf:type owl:NamedIndividual ;
+            :involvesObject cose:Bed ;
+            :normalTime cose:Morning ;
+            :occursIn cose:Bedroom ;
+            cose:commonTerm "making bed" ;
+            cose:wordnetSynset "bed.n.01" ,
+                               "make.v.27" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Meal_Preparation
+:Meal_Preparation rdf:type owl:NamedIndividual ;
+                  :involvesObject cose:Cookware ,
+                                  cose:Food ,
+                                  cose:KitchenSink ,
+                                  cose:Refrigerator ;
+                  :occursIn cose:Kitchen .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Meditate
+:Meditate rdf:type owl:NamedIndividual ;
+          cose:commonTerm "meditating" ;
+          cose:wordnetSynset "chew_over.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#MinimalIntensity
+:MinimalIntensity rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#ModerateIntensity
+:ModerateIntensity rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Morning_Meds
+:Morning_Meds rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Napping
+:Napping rdf:type owl:NamedIndividual ;
+         :involvesObject cose:Couch ,
+                         cose:Sofa ;
+         :normalTime cose:Afternoon ,
+                     cose:MidMorning ,
+                     cose:Midday ;
+         cose:commonTerm "napping" ;
+         cose:wordnetSynset "nap.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Night_Wandering
+:Night_Wandering rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#OfficeActivity
+:OfficeActivity rdf:type owl:NamedIndividual ;
+                :occursIn cose:Office .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Out_Of_Home
+:Out_Of_Home rdf:type owl:NamedIndividual ;
+             :normalTime cose:Afternoon ,
+                         cose:MidMorning ,
+                         cose:Midday ,
+                         cose:Twilight ;
+             cose:commonTerm "exiting" ;
+             cose:wordnetSynset "exit.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Personal
+:Personal rdf:type owl:NamedIndividual ;
+          :occursIn cose:Bedroom ,
+                    cose:LivingRoom .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Personal_Hygiene
+:Personal_Hygiene rdf:type owl:NamedIndividual ;
+                  :involvesObject cose:BathroomCabinet ;
+                  :involvesObject cose:BathroomSink ;
+                  cose:commonTerm "hygiene" ;
+                  cose:wordnetSynset "groom.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Playing_Piano
+:Playing_Piano rdf:type owl:NamedIndividual ;
+               :involvesObject cose:Piano ;
+               cose:commonTerm "playing piano" ;
+               cose:wordnetSynset "piano.n.01" ,
+                                  "play.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Preparing_Breakfast
+:Preparing_Breakfast rdf:type owl:NamedIndividual ;
+                     :involvesObject cose:MicrowaveOven ,
+                                     cose:Oven .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Preparing_Dinner
+:Preparing_Dinner rdf:type owl:NamedIndividual ;
+                  :involvesObject cose:MicrowaveOven ,
+                                  cose:Oven .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Preparing_Lunch
+:Preparing_Lunch rdf:type owl:NamedIndividual ;
+                 :involvesObject cose:MicrowaveOven ,
+                                 cose:Oven .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Read
+:Read rdf:type owl:NamedIndividual ;
+      :involvesObject cose:ArmChair ,
+                      cose:Couch ,
+                      cose:Sofa ;
+      cose:commonTerm "reading" ;
+      cose:wordnetSynset "read.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Relax
+:Relax rdf:type owl:NamedIndividual ;
+       :involvesObject cose:Couch ,
+                       cose:Sofa ;
+       cose:commonTerm "relaxing" ;
+       cose:wordnetSynset "relax.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Resperate
+:Resperate rdf:type owl:NamedIndividual ;
+           cose:commonTerm "breathing" ;
+           cose:wordnetSynset "breathe.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Shaving
+:Shaving rdf:type owl:NamedIndividual ;
+         :normalTime cose:Morning ;
+         cose:commonTerm "shaving" ;
+         cose:wordnetSynset "shave.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Shower
+:Shower rdf:type owl:NamedIndividual ;
+        :involvesObject cose:Bathtub ;
+        :normalTime cose:Evening ,
+                    cose:Morning ;
+        :occursIn cose:Bathroom ;
+        cose:commonTerm "taking a bath" ;
+        cose:wordnetSynset "shower.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#SleepWakeCycle
+:SleepWakeCycle rdf:type owl:NamedIndividual ;
+                :involvesObject cose:Bed ;
+                :occursIn cose:Bedroom .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Sleeping
+:Sleeping rdf:type owl:NamedIndividual ;
+          :involvesObject cose:BedroomDoor ;
+          :normalTime cose:Evening ,
+                      cose:Morning ,
+                      cose:Night ;
+          cose:commonTerm "sleeping" ;
+          cose:wordnetSynset "sleep.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Social
+:Social rdf:type owl:NamedIndividual ;
+        :occursIn cose:LivingRoom ;
+        cose:commonTerm "socializing" ;
+        cose:wordnetSynset "socialize.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Store_Groceries
+:Store_Groceries rdf:type owl:NamedIndividual ;
+                 :involvesObject cose:Cabinet ,
+                                 cose:Refrigerator ;
+                 :occursIn cose:Kitchen ;
+                 cose:commonTerm "puting away groceries" ;
+                 cose:wordnetSynset "grocery.n.02" ,
+                                    "pantry.n.01" ,
+                                    "refrigerator.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Study
+:Study rdf:type owl:NamedIndividual ;
+       :involvesObject cose:ArmChair ,
+                       cose:Desk ,
+                       cose:Table ;
+       :occursIn cose:Bedroom ,
+                 cose:LivingRoom ;
+       cose:commonTerm "studing" ;
+       cose:wordnetSynset "study.v.02" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Take_Medicine
+:Take_Medicine rdf:type owl:NamedIndividual ;
+                 :involvesObject cose:KitchenCabinet ;
+               :normalTime cose:Evening ,
+                           cose:MidMorning ,
+                           cose:Morning ,
+                           cose:Twilight ;
+               cose:commonTerm "taking medicine" ;
+               cose:wordnetSynset "medicate.v.02" ,
+                                  "medicine.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Talking_On_The_Phone
+:Talking_On_The_Phone rdf:type owl:NamedIndividual ;
+                      :involvesObject cose:Telephone ;
+                      cose:commonTerm "talking on phone" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Toileting
+:Toileting rdf:type owl:NamedIndividual ;
+           :involvesObject cose:BathroomSink ,
+                           cose:Toilet,
+                           cose:InteriorDoor ;
+           :normalTime cose:Afternoon ,
+                       cose:Evening ,
+                       cose:MidMorning ,
+                       cose:Midday ,
+                       cose:Morning ,
+                       cose:Twilight ;
+           cose:commonTerm "toileting" ;
+           cose:wordnetSynset "evacuate.v.05" ,
+                              "toilet.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Using_Internet
+:Using_Internet rdf:type owl:NamedIndividual ;
+                :involvesObject cose:Bed ,
+                                cose:Computer ,
+                                cose:Couch ,
+                                cose:Sofa ;
+                :normalTime cose:Afternoon ,
+                            cose:Night ,
+                            cose:Twilight ;
+                cose:commonTerm "browsing" ;
+                cose:wordnetSynset "browse.v.03" ,
+                                   "computer.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wake
+:Wake rdf:type owl:NamedIndividual ;
+      :normalTime cose:Morning ;
+      cose:commonTerm "waking up" ;
+      cose:wordnetSynset "wake_up.v.02" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wandering
+:Wandering rdf:type owl:NamedIndividual ;
+           :occursIn cose:LivingRoom ;
+           cose:commonTerm "wandering" ;
+           cose:wordnetSynset "wander.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wandering_In_Room
+:Wandering_In_Room rdf:type owl:NamedIndividual ;
+                   :occursIn cose:Bedroom .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wash_Bathtub
+:Wash_Bathtub rdf:type owl:NamedIndividual ;
+              :involvesObject cose:Bathtub ;
+              :occursIn cose:Bathroom ;
+              cose:commonTerm "cleaning bathtub" ;
+              cose:wordnetSynset "bathtub.n.01" ,
+                                 "clean.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Wash_Dishes
+:Wash_Dishes rdf:type owl:NamedIndividual ;
+             :involvesObject cose:Dishwasher ,
+                             cose:KitchenSink ;
+             :occursIn cose:Kitchen ;
+             cose:commonTerm "washing dishes" ;
+             cose:wordnetSynset "clean.v.01" ,
+                                "dish.n.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Watch_TV
+:Watch_TV rdf:type owl:NamedIndividual ;
+          :involvesObject cose:ArmChair ,
+                          cose:Couch ,
+                          cose:Sofa ,
+                          cose:Television ;
+          :normalTime cose:Afternoon ,
+                      cose:Evening ,
+                      cose:MidMorning ,
+                      cose:Midday ,
+                      cose:Twilight ;
+          cose:commonTerm "watching tv" ;
+          cose:wordnetSynset "television_receiver.n.01" ,
+                             "watch.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Work
+:Work rdf:type owl:NamedIndividual ;
+      :involvesObject cose:Computer ,
+                      cose:Desk ,
+                      cose:OfficeChair ;
+      :normalTime cose:Afternoon ,
+                  cose:Evening ,
+                  cose:MidMorning ,
+                  cose:Midday ,
+                  cose:Twilight ;
+      :occursIn cose:Office ;
+      cose:commonTerm "working" ;
+      cose:wordnetSynset "work.v.01" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#WorkRelated
+:WorkRelated rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#Yoga
+:Yoga rdf:type owl:NamedIndividual ;
+      cose:commonTerm "yoga" ;
+      cose:wordnetSynset "exercise.v.03" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#activityIntensity
+:activityIntensity rdf:type owl:NamedIndividual ;
+                   cose:commonTerm "intensity" ;
+                   cose:wordnetSynset "intensity.n.02" .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#bathe
+:bathe rdf:type owl:NamedIndividual ,
+                :Bathing .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#bathing
+:bathing rdf:type owl:NamedIndividual ,
+                  :Bathing .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#bed_to_toilet
+:bed_to_toilet rdf:type owl:NamedIndividual ,
+                        :Bed_To_Toilet .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#bed_toilet_transition
+:bed_toilet_transition rdf:type owl:NamedIndividual ,
+                                :Bed_To_Toilet .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#breakfast
+:breakfast rdf:type owl:NamedIndividual ,
+                    :Breakfast .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#brushing_teeth
+:brushing_teeth rdf:type owl:NamedIndividual ,
+                         :Brushing_Teeth .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#caregiver
+:caregiver rdf:type owl:NamedIndividual ,
+                    :Having_Guest .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#changing_clothes
+:changing_clothes rdf:type owl:NamedIndividual ,
+                           :Changing_Clothes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#chores
+:chores rdf:type owl:NamedIndividual ,
+                 :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#clean
+:clean rdf:type owl:NamedIndividual ,
+                :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#cleaning
+:cleaning rdf:type owl:NamedIndividual ,
+                   :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#cook
+:cook rdf:type owl:NamedIndividual ,
+               :Cooking .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#cook_breakfast
+:cook_breakfast rdf:type owl:NamedIndividual ,
+                         :Preparing_Breakfast .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#cook_dinner
+:cook_dinner rdf:type owl:NamedIndividual ,
+                      :Preparing_Dinner .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#cook_lunch
+:cook_lunch rdf:type owl:NamedIndividual ,
+                     :Preparing_Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#cooking
+:cooking rdf:type owl:NamedIndividual ,
+                  :Cooking .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#desk_activity
+:desk_activity rdf:type owl:NamedIndividual ,
+                        :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#dinner
+:dinner rdf:type owl:NamedIndividual ,
+                 :Dinner .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#dishes
+:dishes rdf:type owl:NamedIndividual ,
+                 :Wash_Dishes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#door_ajar
+:door_ajar rdf:type owl:NamedIndividual ,
+                    :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#dress
+:dress rdf:type owl:NamedIndividual ,
+                :Changing_Clothes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#drink
+:drink rdf:type owl:NamedIndividual ,
+                :Drink .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#drug_management
+:drug_management rdf:type owl:NamedIndividual ,
+                          :Take_Medicine .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#eat
+:eat rdf:type owl:NamedIndividual ,
+              :Eating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#eat_breakfast
+:eat_breakfast rdf:type owl:NamedIndividual ,
+                        :Having_Breakfast .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#eat_dinner
+:eat_dinner rdf:type owl:NamedIndividual ,
+                     :Having_Dinner .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#eat_lunch
+:eat_lunch rdf:type owl:NamedIndividual ,
+                    :Having_Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#eating
+:eating rdf:type owl:NamedIndividual ,
+                 :Eating .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#enter_home
+:enter_home rdf:type owl:NamedIndividual ,
+                     :Enter_Home .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#entertain_guests
+:entertain_guests rdf:type owl:NamedIndividual ,
+                           :Having_Guest .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#eve_meds
+:eve_meds rdf:type owl:NamedIndividual ,
+                   :Take_Medicine .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#evening_meds
+:evening_meds rdf:type owl:NamedIndividual ,
+                       :Take_Medicine .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#exercise
+:exercise rdf:type owl:NamedIndividual ,
+                   :Exercise .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#going_out
+:going_out rdf:type owl:NamedIndividual ,
+                    :EnterExitAction .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#groceries
+:groceries rdf:type owl:NamedIndividual ,
+                    :Store_Groceries .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#groom
+:groom rdf:type owl:NamedIndividual ,
+                :Personal_Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#grooming
+:grooming rdf:type owl:NamedIndividual ,
+                   :Personal_Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#group_meeting
+:group_meeting rdf:type owl:NamedIndividual ,
+                        :Having_Guest .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#guest_bathroom
+:guest_bathroom rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_breakfast
+:having_breakfast rdf:type owl:NamedIndividual ,
+                           :Having_Breakfast .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_conversation
+:having_conversation rdf:type owl:NamedIndividual ,
+                              :Having_Guest .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_dinner
+:having_dinner rdf:type owl:NamedIndividual ,
+                        :Having_Dinner .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_guest
+:having_guest rdf:type owl:NamedIndividual ,
+                       :Having_Guest .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_lunch
+:having_lunch rdf:type owl:NamedIndividual ,
+                       :Having_Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_shower
+:having_shower rdf:type owl:NamedIndividual ,
+                        :Bathing .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#having_snack
+:having_snack rdf:type owl:NamedIndividual ,
+                       :Having_Snack .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#housekeeping
+:housekeeping rdf:type owl:NamedIndividual ,
+                       :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#inspection
+:inspection rdf:type owl:NamedIndividual ,
+                     :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#laundry
+:laundry rdf:type owl:NamedIndividual ,
+                  :Laundry .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#leave_home
+:leave_home rdf:type owl:NamedIndividual ,
+                     :Leave_Home .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#listening
+:listening rdf:type owl:NamedIndividual ,
+                    :Listening_To_Music .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#listening_to_music
+:listening_to_music rdf:type owl:NamedIndividual ,
+                             :Listening_To_Music .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#loose_connection
+:loose_connection rdf:type owl:NamedIndividual ,
+                           :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#lunch
+:lunch rdf:type owl:NamedIndividual ,
+                :Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#maintenance
+:maintenance rdf:type owl:NamedIndividual ,
+                      :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#make_bed
+:make_bed rdf:type owl:NamedIndividual ,
+                   :Making_Bed .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#meal_preparation
+:meal_preparation rdf:type owl:NamedIndividual ,
+                           :Cooking .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#meditate
+:meditate rdf:type owl:NamedIndividual ,
+                   :Meditate .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#morning_meds
+:morning_meds rdf:type owl:NamedIndividual ,
+                       :Take_Medicine .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#movers
+:movers rdf:type owl:NamedIndividual ,
+                 :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#napping
+:napping rdf:type owl:NamedIndividual ,
+                  :Napping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#night_wandering
+:night_wandering rdf:type owl:NamedIndividual ,
+                          :Wandering .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#other
+:other rdf:type owl:NamedIndividual ,
+                :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#paramedics
+:paramedics rdf:type owl:NamedIndividual ,
+                     :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#personal_hygiene
+:personal_hygiene rdf:type owl:NamedIndividual ,
+                           :Personal_Hygiene .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#phone
+:phone rdf:type owl:NamedIndividual ,
+                :Talking_On_The_Phone .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#piano
+:piano rdf:type owl:NamedIndividual ,
+                :Playing_Piano .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#preparing_breakfast
+:preparing_breakfast rdf:type owl:NamedIndividual ,
+                              :Preparing_Breakfast .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#preparing_dinner
+:preparing_dinner rdf:type owl:NamedIndividual ,
+                           :Preparing_Dinner .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#preparing_lunch
+:preparing_lunch rdf:type owl:NamedIndividual ,
+                          :Preparing_Lunch .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#read
+:read rdf:type owl:NamedIndividual ,
+               :Read .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#reading
+:reading rdf:type owl:NamedIndividual ,
+                  :Read .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#reading_book
+:reading_book rdf:type owl:NamedIndividual ,
+                       :Read .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#relax
+:relax rdf:type owl:NamedIndividual ,
+                :Relax .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#resperate
+:resperate rdf:type owl:NamedIndividual ,
+                    :Resperate .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#shaving
+:shaving rdf:type owl:NamedIndividual ,
+                  :Shaving .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#shower
+:shower rdf:type owl:NamedIndividual ,
+                 :Bathing .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#sleep
+:sleep rdf:type owl:NamedIndividual ,
+                :Sleeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#sleep_out_of_bed
+:sleep_out_of_bed rdf:type owl:NamedIndividual ,
+                           :Napping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#sleeping
+:sleeping rdf:type owl:NamedIndividual ,
+                   :Sleeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#sleeping_in_bed
+:sleeping_in_bed rdf:type owl:NamedIndividual ,
+                          :Sleeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#sleeping_not_in_bed
+:sleeping_not_in_bed rdf:type owl:NamedIndividual ,
+                              :Napping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#snack
+:snack rdf:type owl:NamedIndividual ,
+                :Having_Snack .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#step_out
+:step_out rdf:type owl:NamedIndividual ,
+                   :Leave_Home .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#study
+:study rdf:type owl:NamedIndividual ,
+                :Study .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#studying
+:studying rdf:type owl:NamedIndividual ,
+                   :Study .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#system_technicians
+:system_technicians rdf:type owl:NamedIndividual ,
+                             :Other .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#take_medicine
+:take_medicine rdf:type owl:NamedIndividual ,
+                        :Take_Medicine .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#talking_on_the_phone
+:talking_on_the_phone rdf:type owl:NamedIndividual ,
+                               :Talking_On_The_Phone .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#toilet
+:toilet rdf:type owl:NamedIndividual ,
+                 :Toileting .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#toileting
+:toileting rdf:type owl:NamedIndividual ,
+                    :Toileting .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#using_internet
+:using_internet rdf:type owl:NamedIndividual ,
+                         :Using_Internet .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wake
+:wake rdf:type owl:NamedIndividual ,
+               :Wake .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wakeup
+:wakeup rdf:type owl:NamedIndividual ,
+                 :Wake .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wandering_in_room
+:wandering_in_room rdf:type owl:NamedIndividual ,
+                            :Wandering .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wash_bathtub
+:wash_bathtub rdf:type owl:NamedIndividual ,
+                       :Housekeeping .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wash_breakfast_dishes
+:wash_breakfast_dishes rdf:type owl:NamedIndividual ,
+                                :Wash_Dishes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wash_dinner_dishes
+:wash_dinner_dishes rdf:type owl:NamedIndividual ,
+                             :Wash_Dishes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wash_dishes
+:wash_dishes rdf:type owl:NamedIndividual ,
+                      :Wash_Dishes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#wash_lunch_dishes
+:wash_lunch_dishes rdf:type owl:NamedIndividual ,
+                            :Wash_Dishes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#washing_dishes
+:washing_dishes rdf:type owl:NamedIndividual ,
+                         :Wash_Dishes .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#watch_tv
+:watch_tv rdf:type owl:NamedIndividual ,
+                   :Watch_TV .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#watching_tv
+:watching_tv rdf:type owl:NamedIndividual ,
+                      :Watch_TV .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work
+:work rdf:type owl:NamedIndividual ,
+               :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_at_table
+:work_at_table rdf:type owl:NamedIndividual ,
+                        :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_bedroom_1
+:work_bedroom_1 rdf:type owl:NamedIndividual ,
+                         :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_bedroom_2
+:work_bedroom_2 rdf:type owl:NamedIndividual ,
+                         :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_in_office
+:work_in_office rdf:type owl:NamedIndividual ,
+                         :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_livingrm
+:work_livingrm rdf:type owl:NamedIndividual ,
+                        :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_on_computer
+:work_on_computer rdf:type owl:NamedIndividual ,
+                           :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#work_table
+:work_table rdf:type owl:NamedIndividual ,
+                     :Work .
+
+
+###  http://serc.wsu.edu/owl/activity.owl#yoga
+:yoga rdf:type owl:NamedIndividual ,
+               :Exercise .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ArmChair
+cose:ArmChair rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathroom
+cose:Bathroom rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomDoor
+cose:BathroomDoor rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomSink
+cose:BathroomSink rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathtub
+cose:Bathtub rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bed
+cose:Bed rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bedroom
+cose:Bedroom rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BedroomDoor
+cose:BedroomDoor rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Book
+cose:Book rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CleaningProduct
+cose:CleaningProduct rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesDryer
+cose:ClothesDryer rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesWasher
+cose:ClothesWasher rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Clothing
+cose:Clothing rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Computer
+cose:Computer rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Cookware
+cose:Cookware rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Desk
+cose:Desk rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DiningRoom
+cose:DiningRoom rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EdibleFood
+cose:EdibleFood rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Evening
+cose:Evening rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ExteriorDoor
+cose:ExteriorDoor rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Food
+cose:Food rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Foyer
+cose:Foyer rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#GroomingProduct
+cose:GroomingProduct rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Guest
+cose:Guest rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Kitchen
+cose:Kitchen rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenSink
+cose:KitchenSink rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LaundryRoom
+cose:LaundryRoom rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LivingRoom
+cose:LivingRoom rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LowLightLevel
+cose:LowLightLevel rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Medicine
+cose:Medicine rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Midday
+cose:Midday rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Morning
+cose:Morning rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MusicPlayer
+cose:MusicPlayer rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Night
+cose:Night rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Office
+cose:Office rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#OfficeChair
+cose:OfficeChair rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Oven
+cose:Oven rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#RawFood
+cose:RawFood rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Refrigerator
+cose:Refrigerator rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Shaver
+cose:Shaver rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Shower
+cose:Shower rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Sofa
+cose:Sofa rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Table
+cose:Table rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Telephone
+cose:Telephone rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Television
+cose:Television rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Toilet
+cose:Toilet rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ToothBrush
+cose:ToothBrush rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Twilight
+cose:Twilight rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Wardrobe
+cose:Wardrobe rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#YogaMat
+cose:YogaMat rdf:type owl:NamedIndividual .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+:Bed_To_Toilet :commonTerm "bed to toilet" ;
+               :wordnetSynset "bed.n.01" .
+
+
+:WorkRelated rdfs:comment "The work related activities here generally consist of either computer work or studying." .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi

@@ -1,0 +1,20 @@
+k: 5
+store: "/phd/store"
+results: "./results"
+eval_for: 31
+eval_mode: "one-day"
+validate_for: 30
+max_steps: 20
+step_by: 15
+qSize: 120
+gridSize: 10
+dRadius: 16
+gridMu: 30
+gridSigma: 60
+
+passiveDecay: time #120
+decayRate: 120
+freqWeight: true
+
+invert_eval: false
+eval_batch: 10000

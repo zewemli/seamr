@@ -1,0 +1,2043 @@
+@prefix : <http://serc.wsu.edu/owl/cose.owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix cose: <http://serc.wsu.edu/owl/cose.owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix owl2xml: <http://www.w3.org/2006/12/owl2-xml#> .
+@base <http://serc.wsu.edu/owl/cose.owl> .
+
+<http://serc.wsu.edu/owl/cose.owl> rdf:type owl:Ontology .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/elements/1.1/source
+dc:source rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#comment
+rdfs:comment rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://serc.wsu.edu/owl/cose.owl#attachedTo
+cose:attachedTo rdf:type owl:ObjectProperty ,
+                         owl:SymmetricProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#connectsTo
+cose:connectsTo rdf:type owl:ObjectProperty ,
+                         owl:SymmetricProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#containedObject
+cose:containedObject rdf:type owl:ObjectProperty ;
+                     rdfs:subPropertyOf owl:topObjectProperty ;
+                     rdf:type owl:InverseFunctionalProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#doorwayToSpace
+cose:doorwayToSpace rdf:type owl:ObjectProperty ;
+                    rdfs:subPropertyOf owl:topObjectProperty ;
+                    owl:inverseOf cose:spaceDoorway .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#environmentContains
+cose:environmentContains rdf:type owl:ObjectProperty ;
+                         rdfs:subPropertyOf owl:topObjectProperty ;
+                         owl:inverseOf cose:inEnvironment ;
+                         rdf:type owl:InverseFunctionalProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#fromMeasurement
+cose:fromMeasurement rdf:type owl:ObjectProperty ;
+                     rdfs:subPropertyOf cose:modelingElementlProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#hasIndicator
+cose:hasIndicator rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf cose:modelingElementlProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#inEnvironment
+cose:inEnvironment rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf owl:topObjectProperty ;
+                   rdf:type owl:FunctionalProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#levelContainsSpace
+cose:levelContainsSpace rdf:type owl:ObjectProperty ;
+                        owl:inverseOf cose:spaceIsOnLevel ;
+                        rdf:type owl:InverseFunctionalProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#modelingElementlProperty
+cose:modelingElementlProperty rdf:type owl:ObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#objectPossibleSpace
+cose:objectPossibleSpace rdf:type owl:ObjectProperty ;
+                         rdfs:domain cose:HouseholdItem ;
+                         rdfs:range cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#partOf
+cose:partOf rdf:type owl:ObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#relatedToEnvironment
+cose:relatedToEnvironment rdf:type owl:ObjectProperty ;
+                          rdfs:range cose:SmartEnvironment .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#sensorMeasurementType
+cose:sensorMeasurementType rdf:type owl:ObjectProperty ;
+                           rdfs:subPropertyOf owl:topObjectProperty ;
+                           rdf:type owl:FunctionalProperty ;
+                           rdfs:domain cose:Sensor ;
+                           rdfs:range cose:Phenomenon .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#sensorRelatesToObject
+cose:sensorRelatesToObject rdf:type owl:ObjectProperty ;
+                           rdfs:subPropertyOf owl:topObjectProperty ;
+                           rdfs:domain cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#sensorSignalOutput
+cose:sensorSignalOutput rdf:type owl:ObjectProperty ;
+                        rdfs:range cose:SensorSignalType .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#spaceContainsObject
+cose:spaceContainsObject rdf:type owl:ObjectProperty ;
+                         rdfs:subPropertyOf owl:topObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#spaceDoorway
+cose:spaceDoorway rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf owl:topObjectProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#spaceIsOnLevel
+cose:spaceIsOnLevel rdf:type owl:ObjectProperty ;
+                    rdfs:subPropertyOf owl:topObjectProperty ;
+                    rdf:type owl:FunctionalProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#stairwayLowerLevel
+cose:stairwayLowerLevel rdf:type owl:ObjectProperty ;
+                        rdfs:subPropertyOf owl:topObjectProperty ;
+                        rdf:type owl:FunctionalProperty ;
+                        rdfs:domain cose:Stairway .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#stairwayUpperLevel
+cose:stairwayUpperLevel rdf:type owl:ObjectProperty ;
+                        rdfs:subPropertyOf owl:topObjectProperty ;
+                        rdf:type owl:FunctionalProperty ;
+                        rdfs:domain cose:Stairway .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#useAggregator
+cose:useAggregator rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf cose:modelingElementlProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#withDistribution
+cose:withDistribution rdf:type owl:ObjectProperty ;
+                      rdfs:subPropertyOf cose:modelingElementlProperty .
+
+
+###  http://www.w3.org/2002/07/owl#topObjectProperty
+owl:topObjectProperty rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://serc.wsu.edu/owl/cose.owl#activityEndTime
+cose:activityEndTime rdf:type owl:DatatypeProperty ;
+                     rdfs:subPropertyOf owl:topDataProperty ;
+                     rdf:type owl:FunctionalProperty ;
+                     rdfs:range xsd:decimal .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#activityHasError
+cose:activityHasError rdf:type owl:DatatypeProperty ;
+                      rdfs:subPropertyOf owl:topDataProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#activityStartTime
+cose:activityStartTime rdf:type owl:DatatypeProperty ;
+                       rdfs:subPropertyOf owl:topDataProperty ;
+                       rdf:type owl:FunctionalProperty ;
+                       rdfs:range xsd:decimal .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#beginTime
+cose:beginTime rdf:type owl:DatatypeProperty ;
+               rdfs:domain cose:PartOfDay ;
+               rdfs:range xsd:positiveInteger ;
+               rdfs:comment "Integer values reflect military 24hr clock" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#commonTerm
+cose:commonTerm rdf:type owl:DatatypeProperty .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#duration
+cose:duration rdf:type owl:DatatypeProperty ;
+              rdfs:range xsd:decimal .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#endTime
+cose:endTime rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdfs:domain cose:PartOfDay ;
+             rdfs:range xsd:positiveInteger ;
+             rdfs:comment "Integer values reflect military 24hr clock" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#timestamp
+cose:timestamp rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdf:type owl:FunctionalProperty ;
+               rdfs:range xsd:dateTimeStamp .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#wordnetSynset
+cose:wordnetSynset rdf:type owl:DatatypeProperty .
+
+
+###  http://www.w3.org/2002/07/owl#topDataProperty
+owl:topDataProperty rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://serc.wsu.edu/owl/cose.owl#Accelerometer
+cose:Accelerometer rdf:type owl:Class ;
+                   rdfs:subClassOf cose:DirectInteractionSensor ,
+                                   cose:PhysicalMovementMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ActivitySignal
+cose:ActivitySignal rdf:type owl:Class ;
+                    rdfs:subClassOf cose:SensorSignalType .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Afternoon
+cose:Afternoon rdf:type owl:Class ;
+               rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#AirFlowMeter
+cose:AirFlowMeter rdf:type owl:Class ;
+                  rdfs:subClassOf cose:FlowMeter .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#AmbientObject
+cose:AmbientObject rdf:type owl:Class ;
+                   rdfs:subClassOf cose:HouseholdItem ;
+                   rdfs:comment "AmbientObject within a smart home generally are fixed objects which provide a context around which individuals perform their daily activities." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#AreaMotionDetector
+cose:AreaMotionDetector rdf:type owl:Class ;
+                        rdfs:subClassOf cose:WideAreaMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ArmChair
+cose:ArmChair rdf:type owl:Class ;
+              rdfs:subClassOf cose:Chair ,
+                              cose:LivingRoomObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BarometricPressureSensor
+cose:BarometricPressureSensor rdf:type owl:Class ;
+                              rdfs:subClassOf cose:EnvironmentStateSensor ,
+                                              cose:PressureSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathingFixture
+cose:BathingFixture rdf:type owl:Class ;
+                    rdfs:subClassOf cose:BathroomPlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathroom
+cose:Bathroom rdf:type owl:Class ;
+              rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomCabinet
+cose:BathroomCabinet rdf:type owl:Class ;
+                     rdfs:subClassOf cose:BathroomObject ,
+                                     cose:Cabinet .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomDoor
+cose:BathroomDoor rdf:type owl:Class ;
+                  rdfs:subClassOf cose:BathroomObject ,
+                                  cose:InteriorDoor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomObject
+cose:BathroomObject rdf:type owl:Class ;
+                    rdfs:subClassOf cose:SpaceObjects .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomPlumbingFixture
+cose:BathroomPlumbingFixture rdf:type owl:Class ;
+                             rdfs:subClassOf cose:BathroomObject ,
+                                             cose:PlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomSink
+cose:BathroomSink rdf:type owl:Class ;
+                  rdfs:subClassOf cose:BathroomPlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathtub
+cose:Bathtub rdf:type owl:Class ;
+             rdfs:subClassOf cose:BathingFixture ,
+                             cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BatteryLevelSensor
+cose:BatteryLevelSensor rdf:type owl:Class ;
+                        rdfs:subClassOf cose:DiagnosticSensor ,
+                                        cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bed
+cose:Bed rdf:type owl:Class ;
+         rdfs:subClassOf cose:BedroomObject ,
+                         cose:FurniturePiece ,
+                         cose:PlaceToSit .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bedroom
+cose:Bedroom rdf:type owl:Class ;
+             rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BedroomDoor
+cose:BedroomDoor rdf:type owl:Class ;
+                 rdfs:subClassOf cose:BedroomObject ,
+                                 cose:InteriorDoor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BedroomObject
+cose:BedroomObject rdf:type owl:Class ;
+                   rdfs:subClassOf cose:SpaceObjects .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BinaryPhotocell
+cose:BinaryPhotocell rdf:type owl:Class ;
+                     rdfs:subClassOf cose:DirectInteractionSensor ,
+                                     cose:Photocell .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BinaryPressureSensor
+cose:BinaryPressureSensor rdf:type owl:Class ;
+                          rdfs:subClassOf cose:DirectInteractionSensor ,
+                                          cose:PressureSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BinaryTemperatureSensor
+cose:BinaryTemperatureSensor rdf:type owl:Class ;
+                             rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                             cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Book
+cose:Book rdf:type owl:Class ;
+          rdfs:subClassOf cose:HouseholdItem .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bowl-Generic
+cose:Bowl-Generic rdf:type owl:Class ;
+                  rdfs:subClassOf cose:FoodVessel .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Cabinet
+cose:Cabinet rdf:type owl:Class ;
+             rdfs:subClassOf cose:FurniturePiece ,
+                             cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Cat
+cose:Cat rdf:type owl:Class ;
+         rdfs:subClassOf cose:Pet .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Chair
+cose:Chair rdf:type owl:Class ;
+           rdfs:subClassOf cose:FurniturePiece ,
+                           cose:PlaceToSit .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Closet
+cose:Closet rdf:type owl:Class ;
+            rdfs:subClassOf cose:StorageSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesDryer
+cose:ClothesDryer rdf:type owl:Class ;
+                  rdfs:subClassOf cose:LaundryAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesWasher
+cose:ClothesWasher rdf:type owl:Class ;
+                   rdfs:subClassOf cose:LaundryAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Computer
+cose:Computer rdf:type owl:Class ;
+              rdfs:subClassOf cose:HumanInternetInterfaceDevice ,
+                              cose:LivingRoomObject ,
+                              cose:OfficeObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ConnectingSpace
+cose:ConnectingSpace rdf:type owl:Class ;
+                     rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Contact
+cose:Contact rdf:type owl:Class ;
+             rdfs:subClassOf cose:Phenomenon .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ContactSensor
+cose:ContactSensor rdf:type owl:Class ;
+                   rdfs:subClassOf cose:DirectInteractionSensor ,
+                                   cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ControlDevice
+cose:ControlDevice rdf:type owl:Class ;
+                   rdfs:subClassOf cose:AmbientObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CookedFood
+cose:CookedFood rdf:type owl:Class ;
+                rdfs:subClassOf cose:EdibleFood .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CookingRange
+cose:CookingRange rdf:type owl:Class ;
+                  rdfs:subClassOf cose:FoodPreperationAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CookingVessel
+cose:CookingVessel rdf:type owl:Class ;
+                   rdfs:subClassOf cose:FoodVessel .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Cookware
+cose:Cookware rdf:type owl:Class ;
+              rdfs:subClassOf cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Couch
+cose:Couch rdf:type owl:Class ;
+           rdfs:subClassOf cose:FurniturePiece ,
+                           cose:LivingRoomObject ,
+                           cose:PlaceToSit .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CounterTop
+cose:CounterTop rdf:type owl:Class ;
+                rdfs:subClassOf cose:Surface .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Desk
+cose:Desk rdf:type owl:Class ;
+          rdfs:subClassOf cose:FurniturePiece ,
+                          cose:OfficeObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DesktopComputer
+cose:DesktopComputer rdf:type owl:Class ;
+                     rdfs:subClassOf cose:Computer ,
+                                     cose:OfficeObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DeviceActivitySensor
+cose:DeviceActivitySensor rdf:type owl:Class ;
+                          rdfs:subClassOf cose:DirectInteractionSensor ,
+                                          cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DiagnosticSensor
+cose:DiagnosticSensor rdf:type owl:Class ;
+                      rdfs:subClassOf cose:SensorInformationType .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DiningRoom
+cose:DiningRoom rdf:type owl:Class ;
+                rdfs:subClassOf cose:LivingArea .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dinnerware
+cose:Dinnerware rdf:type owl:Class ;
+                rdfs:subClassOf cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DirectInteractionSensor
+cose:DirectInteractionSensor rdf:type owl:Class ;
+                             rdfs:subClassOf cose:SensorInformationType .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dishwasher
+cose:Dishwasher rdf:type owl:Class ;
+                rdfs:subClassOf cose:KitchenApplience .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dog
+cose:Dog rdf:type owl:Class ;
+         rdfs:subClassOf cose:Pet .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Door
+cose:Door rdf:type owl:Class ;
+          rdfs:subClassOf cose:AmbientObject ,
+                          cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DoorSensor
+cose:DoorSensor rdf:type owl:Class ;
+                rdfs:subClassOf cose:ContactSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DoubleBed
+cose:DoubleBed rdf:type owl:Class ;
+               rdfs:subClassOf cose:Bed .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dresser
+cose:Dresser rdf:type owl:Class ;
+             rdfs:subClassOf cose:BedroomObject ,
+                             cose:FurniturePiece ,
+                             cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Drinkware
+cose:Drinkware rdf:type owl:Class ;
+               rdfs:subClassOf cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EdibleFood
+cose:EdibleFood rdf:type owl:Class ;
+                rdfs:subClassOf cose:Food .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ElectricalToaster
+cose:ElectricalToaster rdf:type owl:Class ;
+                       rdfs:subClassOf cose:FoodPreperationAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ElectronicDevice
+cose:ElectronicDevice rdf:type owl:Class ;
+                      rdfs:subClassOf cose:HouseholdItem .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EnvironmentStateSensor
+cose:EnvironmentStateSensor rdf:type owl:Class ;
+                            rdfs:subClassOf cose:SensorInformationType ;
+                            rdfs:comment "Enviornment state sensors provide contextual information about the environment which may or may not be related to human activity." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EnvironmentTemperatureSensor
+cose:EnvironmentTemperatureSensor rdf:type owl:Class ;
+                                  rdfs:subClassOf cose:TemperatureSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Evening
+cose:Evening rdf:type owl:Class ;
+             rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EventInfersHumanActionSensor
+cose:EventInfersHumanActionSensor rdf:type owl:Class ;
+                                  rdfs:subClassOf cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ExteriorDoor
+cose:ExteriorDoor rdf:type owl:Class ;
+                  rdfs:subClassOf cose:Door ,
+                                  cose:FoyerObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Fan-ElectricalAppliance
+cose:Fan-ElectricalAppliance rdf:type owl:Class ;
+                             rdfs:subClassOf cose:HouseholdAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Faucet
+cose:Faucet rdf:type owl:Class ;
+            rdfs:subClassOf cose:PlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FaucetHandle
+cose:FaucetHandle rdf:type owl:Class ;
+                  rdfs:subClassOf cose:PlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FaucetHandleCold
+cose:FaucetHandleCold rdf:type owl:Class ;
+                      rdfs:subClassOf cose:FaucetHandle .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FaucetHandleHot
+cose:FaucetHandleHot rdf:type owl:Class ;
+                     rdfs:subClassOf cose:FaucetHandle ;
+                     rdfs:comment "A Faucet handle which controls the waterflow from a water heating system" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Floor
+cose:Floor rdf:type owl:Class ;
+           rdfs:subClassOf cose:Surface .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FlowMeter
+cose:FlowMeter rdf:type owl:Class ;
+               rdfs:subClassOf cose:IndirectInteractionSensor ,
+                               cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FlowSensor
+cose:FlowSensor rdf:type owl:Class ;
+                rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Food
+cose:Food rdf:type owl:Class ;
+          rdfs:subClassOf cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FoodIngredientOnly
+cose:FoodIngredientOnly rdf:type owl:Class ;
+                        rdfs:subClassOf cose:Food .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FoodPreperationAppliance
+cose:FoodPreperationAppliance rdf:type owl:Class ;
+                              rdfs:subClassOf cose:KitchenApplience .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FoodStorageAppliance
+cose:FoodStorageAppliance rdf:type owl:Class ;
+                          rdfs:subClassOf cose:KitchenApplience ,
+                                          cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FoodVessel
+cose:FoodVessel rdf:type owl:Class ;
+                rdfs:subClassOf cose:KitchenObject ;
+                owl:disjointWith cose:MedicineContainer .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Foyer
+cose:Foyer rdf:type owl:Class ;
+           rdfs:subClassOf cose:ConnectingSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FoyerObject
+cose:FoyerObject rdf:type owl:Class ;
+                 rdfs:subClassOf cose:SpaceObjects .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Freezer
+cose:Freezer rdf:type owl:Class ;
+             rdfs:subClassOf cose:FoodStorageAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FunctionalSpace
+cose:FunctionalSpace rdf:type owl:Class ;
+                     rdfs:subClassOf cose:MayHaveLightSource ,
+                                     cose:PhysicalThing ;
+                     rdfs:comment "A functional space is an area in a home which generally used for a similar set of activities. For example a Kitchen is generally used for food related purposes." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FurniturePiece
+cose:FurniturePiece rdf:type owl:Class ;
+                    rdfs:subClassOf cose:AmbientObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Garage-Household
+cose:Garage-Household rdf:type owl:Class ;
+                      rdfs:subClassOf cose:StorageSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#GasFlowMeter
+cose:GasFlowMeter rdf:type owl:Class ;
+                  rdfs:subClassOf cose:FlowMeter .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Guest
+cose:Guest rdf:type owl:Class ;
+           rdfs:subClassOf cose:Human .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Gyroscope
+cose:Gyroscope rdf:type owl:Class ;
+               rdfs:subClassOf cose:DirectInteractionSensor ,
+                               cose:PhysicalMovementMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Hallway
+cose:Hallway rdf:type owl:Class ;
+             rdfs:subClassOf cose:ConnectingSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HighLightLevel
+cose:HighLightLevel rdf:type owl:Class ;
+                    rdfs:subClassOf cose:LightLevel .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HighTemperature
+cose:HighTemperature rdf:type owl:Class ;
+                     rdfs:subClassOf cose:Temperature .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HouseholdAppliance
+cose:HouseholdAppliance rdf:type owl:Class ;
+                        rdfs:subClassOf cose:AmbientObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HouseholdItem
+cose:HouseholdItem rdf:type owl:Class ;
+                   rdfs:subClassOf cose:PhysicalThing ;
+                   rdfs:comment "HouseholdItem are the objects in an environment with which a user interacts. " .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Human
+cose:Human rdf:type owl:Class ;
+           rdfs:subClassOf cose:Resident .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HumanActions
+cose:HumanActions rdf:type owl:Class .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HumanInternetInterfaceDevice
+cose:HumanInternetInterfaceDevice rdf:type owl:Class ;
+                                  rdfs:subClassOf cose:ElectronicDevice ;
+                                  rdfs:comment "A HumanInternetInterfaceDevice is a device which can be used by a person to access the internet." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#IndirectInteractionSensor
+cose:IndirectInteractionSensor rdf:type owl:Class ;
+                               rdfs:subClassOf cose:SensorInformationType ;
+                               rdfs:comment "Activity by an indirect activity sensor does not necessarily guarantee that associated objects are in fact being interacted with." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#InformationalThing
+cose:InformationalThing rdf:type owl:Class .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#InteriorDoor
+cose:InteriorDoor rdf:type owl:Class ;
+                  rdfs:subClassOf cose:Door .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Kitchen
+cose:Kitchen rdf:type owl:Class ;
+             rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenApplience
+cose:KitchenApplience rdf:type owl:Class ;
+                      rdfs:subClassOf cose:HouseholdAppliance ,
+                                      cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenCabinet
+cose:KitchenCabinet rdf:type owl:Class ;
+                    rdfs:subClassOf cose:Cabinet ,
+                                    cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenChair
+cose:KitchenChair rdf:type owl:Class ;
+                  rdfs:subClassOf cose:Chair ,
+                                  cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenDoor
+cose:KitchenDoor rdf:type owl:Class ;
+                 rdfs:subClassOf cose:InteriorDoor ,
+                                 cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenObject
+cose:KitchenObject rdf:type owl:Class ;
+                   rdfs:subClassOf cose:SpaceObjects .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenPlumbingFixture
+cose:KitchenPlumbingFixture rdf:type owl:Class ;
+                            rdfs:subClassOf cose:PlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenSink
+cose:KitchenSink rdf:type owl:Class ;
+                 rdfs:subClassOf cose:KitchenObject ,
+                                 cose:KitchenPlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LaptopComputer
+cose:LaptopComputer rdf:type owl:Class ;
+                    rdfs:subClassOf cose:Computer .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LaundryAppliance
+cose:LaundryAppliance rdf:type owl:Class ;
+                      rdfs:subClassOf cose:HouseholdAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LaundryRoom
+cose:LaundryRoom rdf:type owl:Class ;
+                 rdfs:subClassOf cose:StorageSpace ;
+                 rdfs:comment """A laundry room is a space which is used to store a washing machine and dryer.
+"""@en .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LieDown
+cose:LieDown rdf:type owl:Class ;
+             rdfs:subClassOf cose:HumanActions .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Light
+cose:Light rdf:type owl:Class ;
+           rdfs:subClassOf cose:Phenomenon .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightFixture
+cose:LightFixture rdf:type owl:Class ;
+                  rdfs:subClassOf cose:AmbientObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightLevel
+cose:LightLevel rdf:type owl:Class ;
+                rdfs:subClassOf cose:PhysicalPhenomenonMeasurement .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightLevelSensor
+cose:LightLevelSensor rdf:type owl:Class ;
+                      rdfs:subClassOf cose:EnvironmentStateSensor ,
+                                      cose:Photocell .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightSwitchOnWall
+cose:LightSwitchOnWall rdf:type owl:Class ;
+                       rdfs:subClassOf cose:ControlDevice .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightSwitchSensor
+cose:LightSwitchSensor rdf:type owl:Class ;
+                       rdfs:subClassOf cose:DeviceActivitySensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LivingArea
+cose:LivingArea rdf:type owl:Class ;
+                rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LivingRoom
+cose:LivingRoom rdf:type owl:Class ;
+                rdfs:subClassOf cose:LivingArea .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LivingRoomObject
+cose:LivingRoomObject rdf:type owl:Class ;
+                      rdfs:subClassOf cose:SpaceObjects .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Loveseat
+cose:Loveseat rdf:type owl:Class ;
+              rdfs:subClassOf cose:Couch .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LowLightLevel
+cose:LowLightLevel rdf:type owl:Class ;
+                   rdfs:subClassOf cose:LightLevel .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LowTemperature
+cose:LowTemperature rdf:type owl:Class ;
+                    rdfs:subClassOf cose:Temperature .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MayHaveDoorSensor
+cose:MayHaveDoorSensor rdf:type owl:Class ;
+                       rdfs:subClassOf cose:ObjectAttributes .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MayHaveLightSource
+cose:MayHaveLightSource rdf:type owl:Class ;
+                        rdfs:subClassOf cose:ObjectAttributes .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MedicalProduct
+cose:MedicalProduct rdf:type owl:Class ;
+                    rdfs:subClassOf cose:HouseholdItem .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Medication
+cose:Medication rdf:type owl:Class ;
+                rdfs:subClassOf cose:MedicalProduct .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MedicineContainer
+cose:MedicineContainer rdf:type owl:Class ;
+                       rdfs:subClassOf cose:MedicalProduct .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Microphone
+cose:Microphone rdf:type owl:Class ;
+                rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MicrowaveOven
+cose:MicrowaveOven rdf:type owl:Class ;
+                   rdfs:subClassOf cose:FoodPreperationAppliance ,
+                                   cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MidMorning
+cose:MidMorning rdf:type owl:Class ;
+                rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Midday
+cose:Midday rdf:type owl:Class ;
+            rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Morning
+cose:Morning rdf:type owl:Class ;
+             rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MotionDetector
+cose:MotionDetector rdf:type owl:Class ;
+                    rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                    cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Movement
+cose:Movement rdf:type owl:Class ;
+              rdfs:subClassOf cose:Phenomenon .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MusicPlayer
+cose:MusicPlayer rdf:type owl:Class ;
+                 rdfs:subClassOf cose:ElectronicDevice .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#NarrowAreaMotionDetector
+cose:NarrowAreaMotionDetector rdf:type owl:Class ;
+                              rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                              cose:MotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Night
+cose:Night rdf:type owl:Class ;
+           rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Nightstand
+cose:Nightstand rdf:type owl:Class ;
+                rdfs:subClassOf cose:BedroomObject ,
+                                cose:FurniturePiece .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#NormalLightLevel
+cose:NormalLightLevel rdf:type owl:Class ;
+                      rdfs:subClassOf cose:LightLevel .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#NormalTemperature
+cose:NormalTemperature rdf:type owl:Class ;
+                       rdfs:subClassOf cose:Temperature .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Nothing
+cose:Nothing rdf:type owl:Class ;
+             rdfs:subClassOf cose:InformationalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ObjectAttributes
+cose:ObjectAttributes rdf:type owl:Class .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ObjectTemperatureSensor
+cose:ObjectTemperatureSensor rdf:type owl:Class ;
+                             rdfs:subClassOf cose:TemperatureSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Office
+cose:Office rdf:type owl:Class ;
+            rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#OfficeChair
+cose:OfficeChair rdf:type owl:Class ;
+                 rdfs:subClassOf cose:Chair ,
+                                 cose:OfficeObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#OfficeDoor
+cose:OfficeDoor rdf:type owl:Class ;
+                rdfs:subClassOf cose:InteriorDoor ,
+                                cose:OfficeObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#OfficeObject
+cose:OfficeObject rdf:type owl:Class ;
+                  rdfs:subClassOf cose:SpaceObjects .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Ottoman
+cose:Ottoman rdf:type owl:Class ;
+             rdfs:subClassOf cose:FurniturePiece ,
+                             cose:LivingRoomObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Oven
+cose:Oven rdf:type owl:Class ;
+          rdfs:subClassOf cose:FoodPreperationAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Pantry
+cose:Pantry rdf:type owl:Class ;
+            rdfs:subClassOf cose:StorageSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PartOfDay
+cose:PartOfDay rdf:type owl:Class ;
+               rdfs:subClassOf cose:InformationalThing ;
+               rdfs:comment "The parts of a day are general labels used for indicating a range of times during the day. Exact limits on these times are not provided as their use is not intended to be that precise." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PassiveInfraredSensor
+cose:PassiveInfraredSensor rdf:type owl:Class ;
+                           rdfs:subClassOf cose:NarrowAreaMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Pet
+cose:Pet rdf:type owl:Class ;
+         rdfs:subClassOf cose:Resident .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Phenomenon
+cose:Phenomenon rdf:type owl:Class ;
+                rdfs:subClassOf cose:InformationalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Photocell
+cose:Photocell rdf:type owl:Class ;
+               rdfs:subClassOf cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PhysicalMovementMotionDetector
+cose:PhysicalMovementMotionDetector rdf:type owl:Class ;
+                                    rdfs:subClassOf cose:MotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PhysicalPhenomenonMeasurement
+cose:PhysicalPhenomenonMeasurement rdf:type owl:Class ;
+                                   rdfs:subClassOf cose:InformationalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PhysicalThing
+cose:PhysicalThing rdf:type owl:Class .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PlaceToSit
+cose:PlaceToSit rdf:type owl:Class ;
+                rdfs:subClassOf cose:ObjectAttributes .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PlumbingFixture
+cose:PlumbingFixture rdf:type owl:Class ;
+                     rdfs:subClassOf cose:AmbientObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PowerSwitchSensor
+cose:PowerSwitchSensor rdf:type owl:Class ;
+                       rdfs:subClassOf cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PowerUsageSensor
+cose:PowerUsageSensor rdf:type owl:Class ;
+                      rdfs:subClassOf cose:EnvironmentStateSensor ,
+                                      cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PressureSensor
+cose:PressureSensor rdf:type owl:Class ;
+                    rdfs:subClassOf cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ProximitySensor
+cose:ProximitySensor rdf:type owl:Class ;
+                     rdfs:subClassOf cose:NarrowAreaMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#RawFood
+cose:RawFood rdf:type owl:Class ;
+             rdfs:subClassOf cose:EdibleFood .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Refrigerator
+cose:Refrigerator rdf:type owl:Class ;
+                  rdfs:subClassOf cose:FoodStorageAppliance .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Resident
+cose:Resident rdf:type owl:Class ;
+              rdfs:subClassOf cose:PhysicalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SafetySwitch
+cose:SafetySwitch rdf:type owl:Class ;
+                  rdfs:subClassOf cose:ControlDevice .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Sensor
+cose:Sensor rdf:type owl:Class ;
+            rdfs:subClassOf cose:PhysicalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SensorInformationType
+cose:SensorInformationType rdf:type owl:Class ;
+                           rdfs:subClassOf cose:InformationalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SensorSignalType
+cose:SensorSignalType rdf:type owl:Class ;
+                      rdfs:subClassOf cose:InformationalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ShakeSensor
+cose:ShakeSensor rdf:type owl:Class ;
+                 rdfs:subClassOf cose:DirectInteractionSensor ,
+                                 cose:PhysicalMovementMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Shower
+cose:Shower rdf:type owl:Class ;
+            rdfs:subClassOf cose:BathingFixture ,
+                            cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SingleBed
+cose:SingleBed rdf:type owl:Class ;
+               rdfs:subClassOf cose:Bed .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Sit
+cose:Sit rdf:type owl:Class ;
+         rdfs:subClassOf cose:HumanActions .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SmartEnvironment
+cose:SmartEnvironment rdf:type owl:Class ;
+                      rdfs:subClassOf cose:PhysicalThing ;
+                      rdfs:comment """Defined as &quot;a physical world that is richly and invisibly interwoven with sensors, actuators, displays, and computational elements, embedded seamlessly in the everyday objects of our lives, and connected through a continuous network&quot;
+
+Weiser, M. and Brown, J.S., The coming age of calm technology, Xerox PARC, 1996.""" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Smartphone
+cose:Smartphone rdf:type owl:Class ;
+                rdfs:subClassOf cose:HumanInternetInterfaceDevice ,
+                                cose:Telephone .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SmokeAlarm
+cose:SmokeAlarm rdf:type owl:Class ;
+                rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Sofa
+cose:Sofa rdf:type owl:Class ;
+          rdfs:subClassOf cose:Couch .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SonarMotionDetector
+cose:SonarMotionDetector rdf:type owl:Class ;
+                         rdfs:subClassOf cose:TightAreaMotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SonarSensor
+cose:SonarSensor rdf:type owl:Class ;
+                 rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                 cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SpaceObjects
+cose:SpaceObjects rdf:type owl:Class ;
+                  rdfs:subClassOf cose:PhysicalThing .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Stairway
+cose:Stairway rdf:type owl:Class ;
+              rdfs:subClassOf cose:ConnectingSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Stand
+cose:Stand rdf:type owl:Class ;
+           rdfs:subClassOf cose:HumanActions .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#StateSignal
+cose:StateSignal rdf:type owl:Class ;
+                 rdfs:subClassOf cose:SensorSignalType .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#StorageSpace
+cose:StorageSpace rdf:type owl:Class ;
+                  rdfs:subClassOf cose:FunctionalSpace .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#StoveTopCookingPot
+cose:StoveTopCookingPot rdf:type owl:Class ;
+                        rdfs:subClassOf cose:CookingVessel .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Surface
+cose:Surface rdf:type owl:Class ;
+             rdfs:subClassOf cose:AmbientObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Table
+cose:Table rdf:type owl:Class ;
+           rdfs:subClassOf cose:FurniturePiece ,
+                           cose:KitchenObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Telephone
+cose:Telephone rdf:type owl:Class ;
+               rdfs:subClassOf cose:ElectronicDevice ,
+                               cose:KitchenObject ,
+                               cose:LivingRoomObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TelephoneActivitySensor
+cose:TelephoneActivitySensor rdf:type owl:Class ;
+                             rdfs:subClassOf cose:DeviceActivitySensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TelephoneDirectory
+cose:TelephoneDirectory rdf:type owl:Class ;
+                        rdfs:subClassOf cose:Book ;
+                        rdfs:comment "A book with telephone numbers." .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Television
+cose:Television rdf:type owl:Class ;
+                rdfs:subClassOf cose:BedroomObject ,
+                                cose:ElectronicDevice ,
+                                cose:LivingRoomObject .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TelevisionActivitySensor
+cose:TelevisionActivitySensor rdf:type owl:Class ;
+                              rdfs:subClassOf cose:DeviceActivitySensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Temperature
+cose:Temperature rdf:type owl:Class ;
+                 rdfs:subClassOf cose:PhysicalPhenomenonMeasurement .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TemperatureSensor
+cose:TemperatureSensor rdf:type owl:Class ;
+                       rdfs:subClassOf cose:EnvironmentStateSensor ,
+                                       cose:Sensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Textbook
+cose:Textbook rdf:type owl:Class ;
+              rdfs:subClassOf cose:Book .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TightAreaMotionDetector
+cose:TightAreaMotionDetector rdf:type owl:Class ;
+                             rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                             cose:MotionDetector .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Toilet
+cose:Toilet rdf:type owl:Class ;
+            rdfs:subClassOf cose:BathroomPlumbingFixture .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Twilight
+cose:Twilight rdf:type owl:Class ;
+              rdfs:subClassOf cose:PartOfDay .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Walk
+cose:Walk rdf:type owl:Class ;
+          rdfs:subClassOf cose:HumanActions .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Wardrobe
+cose:Wardrobe rdf:type owl:Class ;
+              rdfs:subClassOf cose:FurniturePiece ,
+                              cose:MayHaveDoorSensor .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#WaterFlowMeter
+cose:WaterFlowMeter rdf:type owl:Class ;
+                    rdfs:subClassOf cose:FlowMeter .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#WideAreaMotionDetector
+cose:WideAreaMotionDetector rdf:type owl:Class ;
+                            rdfs:subClassOf cose:IndirectInteractionSensor ,
+                                            cose:MotionDetector .
+
+
+###  http://www.w3.org/2002/07/owl#Thing
+owl:Thing rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://serc.wsu.edu/owl/cose.owl#Afternoon
+cose:Afternoon rdf:type owl:NamedIndividual ;
+               cose:beginTime "1200"^^xsd:positiveInteger ;
+               cose:commonTerm "afternoon" ;
+               cose:endTime "1700"^^xsd:positiveInteger ;
+               cose:wordnetSynset "afternoon.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathmat
+cose:Bathmat rdf:type owl:NamedIndividual ;
+             cose:objectPossibleSpace cose:Bathroom ;
+             cose:commonTerm "bathmat" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathroom
+cose:Bathroom rdf:type owl:NamedIndividual ;
+              cose:commonTerm "bathroom" ;
+              cose:wordnetSynset "bathroom.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#BathroomSink
+cose:BathroomSink rdf:type owl:NamedIndividual ;
+                  cose:commonTerm "sink" ;
+                  cose:wordnetSynset "sink.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bathtub
+cose:Bathtub rdf:type owl:NamedIndividual ;
+             cose:objectPossibleSpace cose:Bathroom ;
+             cose:commonTerm "bathtub" ;
+             cose:wordnetSynset "bathtub.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bed
+cose:Bed rdf:type owl:NamedIndividual ;
+         cose:objectPossibleSpace cose:Bedroom ;
+         cose:commonTerm "bed" ;
+         cose:wordnetSynset "bed.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bedroom
+cose:Bedroom rdf:type owl:NamedIndividual ;
+             cose:commonTerm "bedroom" ;
+             cose:wordnetSynset "bedroom.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Book
+cose:Book rdf:type owl:NamedIndividual ;
+          cose:wordnetSynset "book.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Bowl-Generic
+cose:Bowl-Generic rdf:type owl:NamedIndividual ;
+                  cose:wordnetSynset "bowl.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Broom
+cose:Broom rdf:type owl:NamedIndividual ;
+           cose:wordnetSynset "broom.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Cabinet
+cose:Cabinet rdf:type owl:NamedIndividual ;
+             cose:commonTerm "cabinet" ;
+             cose:wordnetSynset "cabinet.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Chair
+cose:Chair rdf:type owl:NamedIndividual ;
+           cose:objectPossibleSpace cose:LivingArea ;
+           cose:commonTerm "chair" ;
+           cose:wordnetSynset "chair.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ChemicalCleaningProduct
+cose:ChemicalCleaningProduct rdf:type owl:NamedIndividual ;
+                             cose:wordnetSynset "cleansing_agent.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CleaningProduct
+cose:CleaningProduct rdf:type owl:NamedIndividual ;
+                     cose:wordnetSynset "cleansing_agent.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Closet
+cose:Closet rdf:type owl:NamedIndividual ;
+            cose:commonTerm "closet" ;
+            cose:wordnetSynset "cupboard.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesDryer
+cose:ClothesDryer rdf:type owl:NamedIndividual ;
+                  cose:wordnetSynset "clothes_dryer.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesWasher
+cose:ClothesWasher rdf:type owl:NamedIndividual ;
+                   cose:commonTerm "clothes washer" ;
+                   cose:wordnetSynset "washer.n.03" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ClothesWasherDetergent
+cose:ClothesWasherDetergent rdf:type owl:NamedIndividual ;
+                            cose:wordnetSynset "detergent.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Clothing
+cose:Clothing rdf:type owl:NamedIndividual ;
+              cose:wordnetSynset "clothing.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Computer
+cose:Computer rdf:type owl:NamedIndividual ;
+              cose:commonTerm "computer" ;
+              cose:wordnetSynset "computer.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Contact
+cose:Contact rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CookedFood
+cose:CookedFood rdf:type owl:NamedIndividual ;
+                cose:commonTerm "food" ;
+                cose:wordnetSynset "food.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CookingRange
+cose:CookingRange rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#CookingVessel
+cose:CookingVessel rdf:type owl:NamedIndividual ;
+                   cose:wordnetSynset "cooking_utensil.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Cookware
+cose:Cookware rdf:type owl:NamedIndividual ;
+              cose:wordnetSynset "cooking_utensil.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Couch
+cose:Couch rdf:type owl:NamedIndividual ;
+           cose:objectPossibleSpace cose:LivingArea ;
+           cose:commonTerm "sofa" ;
+           cose:wordnetSynset "sofa.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Desk
+cose:Desk rdf:type owl:NamedIndividual ;
+          cose:objectPossibleSpace cose:LivingArea ,
+                                   cose:Office ;
+          cose:commonTerm "desk" ;
+          cose:wordnetSynset "desk.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DesktopComputer
+cose:DesktopComputer rdf:type owl:NamedIndividual ;
+                     cose:commonTerm "computer" ;
+                     cose:wordnetSynset "personal_computer.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DiningRoom
+cose:DiningRoom rdf:type owl:NamedIndividual ;
+                cose:commonTerm "dining room" ;
+                cose:wordnetSynset "dining_room.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dinnerware
+cose:Dinnerware rdf:type owl:NamedIndividual ;
+                cose:wordnetSynset "dinnerware.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DirectInteractionSensor
+cose:DirectInteractionSensor rdf:type owl:NamedIndividual ;
+                             cose:sensorMeasurementType cose:Contact .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DishSoap
+cose:DishSoap rdf:type owl:NamedIndividual ;
+              cose:wordnetSynset "soap.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dishwasher
+cose:Dishwasher rdf:type owl:NamedIndividual ;
+                cose:objectPossibleSpace cose:Kitchen ;
+                cose:commonTerm "dishwasher" ;
+                cose:wordnetSynset "dishwasher.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Door
+cose:Door rdf:type owl:NamedIndividual ;
+          cose:commonTerm "door" ;
+          cose:wordnetSynset "door.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#DoubleBed
+cose:DoubleBed rdf:type owl:NamedIndividual ;
+               cose:commonTerm "bed" ;
+               cose:wordnetSynset "double_bed.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Dresser
+cose:Dresser rdf:type owl:NamedIndividual ;
+             cose:objectPossibleSpace cose:Bedroom ,
+                                      cose:Closet ;
+             cose:commonTerm "dresser" ;
+             cose:wordnetSynset "chest_of_drawers.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EdibleFood
+cose:EdibleFood rdf:type owl:NamedIndividual ;
+                cose:commonTerm "food" ;
+                cose:wordnetSynset "food.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ElectricShaver
+cose:ElectricShaver rdf:type owl:NamedIndividual ;
+                    cose:wordnetSynset "shaver.n.03" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ElectricalToaster
+cose:ElectricalToaster rdf:type owl:NamedIndividual ;
+                       cose:wordnetSynset "toaster.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#EnvironmentTemperatureSensor
+cose:EnvironmentTemperatureSensor rdf:type owl:NamedIndividual ;
+                                  cose:wordnetSynset "thermometer.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Evening
+cose:Evening rdf:type owl:NamedIndividual ;
+             cose:beginTime "1700"^^xsd:positiveInteger ;
+             cose:commonTerm "evening" ;
+             cose:endTime "2200"^^xsd:positiveInteger ;
+             cose:wordnetSynset "evening.n.03" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ExteriorDoor
+cose:ExteriorDoor rdf:type owl:NamedIndividual ;
+                  cose:objectPossibleSpace cose:Foyer ;
+                  cose:commonTerm "door" ;
+                  cose:wordnetSynset "door.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Fan-ElectricalAppliance
+cose:Fan-ElectricalAppliance rdf:type owl:NamedIndividual ;
+                             cose:wordnetSynset "fan.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Faucet
+cose:Faucet rdf:type owl:NamedIndividual ;
+            cose:wordnetSynset "faucet.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FaucetHandle
+cose:FaucetHandle rdf:type owl:NamedIndividual ;
+                  cose:wordnetSynset "handle.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Floor
+cose:Floor rdf:type owl:NamedIndividual ;
+           cose:commonTerm "floor" ;
+           cose:wordnetSynset "floor.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Food
+cose:Food rdf:type owl:NamedIndividual ;
+          cose:commonTerm "food" ;
+          cose:wordnetSynset "food.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Foyer
+cose:Foyer rdf:type owl:NamedIndividual ;
+           cose:commonTerm "foyer" ;
+           cose:wordnetSynset "anteroom.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Freezer
+cose:Freezer rdf:type owl:NamedIndividual ;
+             cose:wordnetSynset "deep-freeze.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#FurniturePiece
+cose:FurniturePiece rdf:type owl:NamedIndividual ;
+                    cose:commonTerm "furniture" ;
+                    cose:wordnetSynset "furniture.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Garage-Household
+cose:Garage-Household rdf:type owl:NamedIndividual ;
+                      cose:commonTerm "garage" ;
+                      cose:wordnetSynset "garage.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Guest
+cose:Guest rdf:type owl:NamedIndividual ;
+           cose:wordnetSynset "guest.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Gyroscope
+cose:Gyroscope rdf:type owl:NamedIndividual ;
+               cose:wordnetSynset "gyroscope.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HairBrush
+cose:HairBrush rdf:type owl:NamedIndividual ;
+               cose:wordnetSynset "hairbrush.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Hallway
+cose:Hallway rdf:type owl:NamedIndividual ;
+             cose:commonTerm "hallway" ;
+             cose:wordnetSynset "hallway.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#HouseholdAppliance
+cose:HouseholdAppliance rdf:type owl:NamedIndividual ;
+                        cose:wordnetSynset "appliance.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Human
+cose:Human rdf:type owl:NamedIndividual ;
+           cose:commonTerm "human" ;
+           cose:wordnetSynset "homo.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#InteriorDoor
+cose:InteriorDoor rdf:type owl:NamedIndividual ;
+                  cose:wordnetSynset "doorway.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Kitchen
+cose:Kitchen rdf:type owl:NamedIndividual ;
+             cose:commonTerm "kitchen" ;
+             cose:wordnetSynset "kitchen.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenChair
+cose:KitchenChair rdf:type owl:NamedIndividual ;
+                  cose:commonTerm "chair" ;
+                  cose:wordnetSynset "chair.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#KitchenSink
+cose:KitchenSink rdf:type owl:NamedIndividual ;
+                 cose:commonTerm "sink" ;
+                 cose:wordnetSynset "sink.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LaptopComputer
+cose:LaptopComputer rdf:type owl:NamedIndividual ;
+                    cose:wordnetSynset "laptop.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Light
+cose:Light rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightFixture
+cose:LightFixture rdf:type owl:NamedIndividual ;
+                  cose:wordnetSynset "lamp.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightLevelSensor
+cose:LightLevelSensor rdf:type owl:NamedIndividual ;
+                      cose:sensorMeasurementType cose:Light .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LightSwitchSensor
+cose:LightSwitchSensor rdf:type owl:NamedIndividual ;
+                       cose:sensorMeasurementType cose:Light .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LivingArea
+cose:LivingArea rdf:type owl:NamedIndividual ;
+                cose:commonTerm "livingroom" ;
+                cose:wordnetSynset "living_room.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#LivingRoom
+cose:LivingRoom rdf:type owl:NamedIndividual ;
+                cose:commonTerm "livingroom" ;
+                cose:wordnetSynset "living_room.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Medication
+cose:Medication rdf:type owl:NamedIndividual ;
+                cose:commonTerm "medicine" ;
+                cose:wordnetSynset "medicine.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Microphone
+cose:Microphone rdf:type owl:NamedIndividual ;
+                cose:wordnetSynset "microphone.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MicrowaveOven
+cose:MicrowaveOven rdf:type owl:NamedIndividual ;
+                   cose:objectPossibleSpace cose:Kitchen ;
+                   cose:commonTerm "microwave" ;
+                   cose:wordnetSynset "microwave.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MidMorning
+cose:MidMorning rdf:type owl:NamedIndividual ;
+                cose:commonTerm "midmorning" ;
+                cose:wordnetSynset "morning.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Midday
+cose:Midday rdf:type owl:NamedIndividual ;
+            cose:commonTerm "noon" ;
+            cose:wordnetSynset "noon.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Mop
+cose:Mop rdf:type owl:NamedIndividual ;
+         cose:wordnetSynset "swab.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Morning
+cose:Morning rdf:type owl:NamedIndividual ;
+             cose:beginTime "0600"^^xsd:positiveInteger ;
+             cose:commonTerm "morning" ;
+             cose:endTime "1200"^^xsd:positiveInteger ;
+             cose:wordnetSynset "dawn.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MotionDetector
+cose:MotionDetector rdf:type owl:NamedIndividual ;
+                    cose:sensorMeasurementType cose:Movement .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Movement
+cose:Movement rdf:type owl:NamedIndividual .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MusicPlayer
+cose:MusicPlayer rdf:type owl:NamedIndividual ;
+                 cose:wordnetSynset "cd_player.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#MusicalInstrument
+cose:MusicalInstrument rdf:type owl:NamedIndividual ;
+                       cose:commonTerm "musical instrument" ;
+                       cose:wordnetSynset "musical_instrument.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Night
+cose:Night rdf:type owl:NamedIndividual ;
+           cose:beginTime "2200"^^xsd:positiveInteger ;
+           cose:commonTerm "nighttime" ;
+           cose:endTime "600"^^xsd:positiveInteger ;
+           cose:wordnetSynset "night.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Office
+cose:Office rdf:type owl:NamedIndividual ;
+            cose:commonTerm "office" ;
+            cose:wordnetSynset "office.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Organ
+cose:Organ rdf:type owl:NamedIndividual ;
+           cose:wordnetSynset "organ.n.05" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Ottoman
+cose:Ottoman rdf:type owl:NamedIndividual ;
+             cose:commonTerm "coffee table" ;
+             cose:wordnetSynset "coffee_table.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Oven
+cose:Oven rdf:type owl:NamedIndividual ;
+          cose:objectPossibleSpace cose:Kitchen ;
+          cose:commonTerm "oven" ;
+          cose:wordnetSynset "oven.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Pantry
+cose:Pantry rdf:type owl:NamedIndividual ;
+            cose:commonTerm "pantry" ;
+            cose:wordnetSynset "pantry.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Pet
+cose:Pet rdf:type owl:NamedIndividual ;
+         cose:commonTerm "pet" ;
+         cose:wordnetSynset "pet.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Piano
+cose:Piano rdf:type owl:NamedIndividual ;
+           cose:objectPossibleSpace cose:Bedroom ,
+                                    cose:LivingArea ;
+           cose:commonTerm "piano" ;
+           cose:wordnetSynset "piano.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PowerConsumptionState
+cose:PowerConsumptionState rdf:type owl:NamedIndividual ,
+                                    cose:StateSignal .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Printer
+cose:Printer rdf:type owl:NamedIndividual ;
+             cose:wordnetSynset "printer.n.03" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#PulseEdgeSignal
+cose:PulseEdgeSignal rdf:type owl:NamedIndividual ,
+                              cose:ActivitySignal .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#RawFood
+cose:RawFood rdf:type owl:NamedIndividual ;
+             cose:commonTerm "food" ;
+             cose:wordnetSynset "comestible.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Refrigerator
+cose:Refrigerator rdf:type owl:NamedIndividual ;
+                  cose:objectPossibleSpace cose:Kitchen ;
+                  cose:commonTerm "refrigerator" ;
+                  cose:wordnetSynset "refrigerator.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Resident
+cose:Resident rdf:type owl:NamedIndividual ;
+              cose:commonTerm "resident" ;
+              cose:wordnetSynset "person.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Sensor
+cose:Sensor rdf:type owl:NamedIndividual ;
+            cose:wordnetSynset "detector.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Shaver
+cose:Shaver rdf:type owl:NamedIndividual ;
+            cose:wordnetSynset "shaver.n.03" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ShavingRazor
+cose:ShavingRazor rdf:type owl:NamedIndividual ;
+                  cose:wordnetSynset "razor.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Shower
+cose:Shower rdf:type owl:NamedIndividual ;
+            cose:objectPossibleSpace cose:Bathroom ;
+            cose:commonTerm "shower" ;
+            cose:wordnetSynset "shower.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SingleBed
+cose:SingleBed rdf:type owl:NamedIndividual ;
+               cose:commonTerm "bed" ;
+               cose:wordnetSynset "single_bed.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Sink
+cose:Sink rdf:type owl:NamedIndividual ;
+          cose:commonTerm "sink" ;
+          cose:wordnetSynset "sink.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#SmokeAlarm
+cose:SmokeAlarm rdf:type owl:NamedIndividual ;
+                cose:wordnetSynset "fire_alarm.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Stairway
+cose:Stairway rdf:type owl:NamedIndividual ;
+              cose:commonTerm "stairway" ;
+              cose:wordnetSynset "stairway.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#StoveTopCookingPot
+cose:StoveTopCookingPot rdf:type owl:NamedIndividual ;
+                        cose:wordnetSynset "pot.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Table
+cose:Table rdf:type owl:NamedIndividual ;
+           cose:commonTerm "table" ;
+           cose:wordnetSynset "table.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Telephone
+cose:Telephone rdf:type owl:NamedIndividual ;
+               cose:commonTerm "telephone" ;
+               cose:wordnetSynset "telephone.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Television
+cose:Television rdf:type owl:NamedIndividual ;
+                cose:objectPossibleSpace cose:Bedroom ,
+                                         cose:LivingArea ;
+                cose:commonTerm "tv" ;
+                cose:wordnetSynset "television_receiver.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TelevisionRemoteControl
+cose:TelevisionRemoteControl rdf:type owl:NamedIndividual ;
+                             cose:commonTerm "remote control" ;
+                             cose:wordnetSynset "remote_control.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#TemperatureState
+cose:TemperatureState rdf:type owl:NamedIndividual ,
+                               cose:StateSignal .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Textbook
+cose:Textbook rdf:type owl:NamedIndividual ;
+              cose:wordnetSynset "textbook.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Toilet
+cose:Toilet rdf:type owl:NamedIndividual ;
+            cose:objectPossibleSpace cose:Bathroom ;
+            cose:commonTerm "toilet" ;
+            cose:wordnetSynset "toilet.n.02" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#ToothBrush
+cose:ToothBrush rdf:type owl:NamedIndividual ;
+                cose:objectPossibleSpace cose:Bathroom ;
+                cose:wordnetSynset "toothbrush.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#Twilight
+cose:Twilight rdf:type owl:NamedIndividual ;
+              cose:commonTerm "twilight" ;
+              cose:wordnetSynset "twilight.n.01" .
+
+
+###  http://serc.wsu.edu/owl/cose.owl#YogaMat
+cose:YogaMat rdf:type owl:NamedIndividual ;
+             cose:commonTerm "yoga mat" ;
+             cose:wordnetSynset "mat.n.03" .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+cose:Afternoon rdfs:comment "Period of the day after midday and before evening." .
+
+
+cose:Cabinet rdfs:comment "A cabinet is an enclosed storage space used for many purposes, often in a kitchen or bathroom."@en .
+
+
+cose:Closet rdfs:comment "A closet is an enclosed space, usually connected to a bedroom, which is used to store clothing and other personal items."@en .
+
+
+cose:DiningRoom rdfs:comment "A DiningRoom is a space primarily used for eating. It is usually occupied by a table and chairs."@en .
+
+
+cose:DirectInteractionSensor rdfs:comment "When a direct interaction sensor is associated with an object, activity by that sensor can be seen as a resident interacting with that object." .
+
+
+cose:Evening rdfs:comment "Time of the day after a typical work day, but before nighttime. Depending on the time of year and latitude may or may not be light." .
+
+
+cose:Foyer rdfs:comment "A foyer is an entry area to a home."@en .
+
+
+cose:Garage-Household rdfs:comment "A garage is a place used to store vehicles."@en .
+
+
+cose:Hallway rdfs:comment "Typically a long narrow space in a home to which there are multiple entrances and exits" .
+
+
+cose:HouseholdAppliance rdfs:comment "A HouseholdAppliance is an object in a home which is essentially a stationary fixture. It is generally a powered machine which performs a function which is intregral to activities of daily living." .
+
+
+cose:LivingRoom rdfs:comment "A LivingRoom is a space used for various daily activities including relaxing and entertaining."@en .
+
+
+cose:Midday rdfs:comment "Portion of the day near noon. Defined defined as 11am - 1pm." .
+
+
+cose:Morning rdfs:comment "Period of the day after nighttime and before midday." .
+
+
+cose:Pantry rdfs:comment "A pantry is a large storage space used to store food and other kitchen related items."@en .
+
+
+cose:Stairway rdfs:comment "A stairway is a collection of steps used to move between different levels of a home."@en .
+
+
+cose:Twilight rdfs:comment "The portion of the day in which the sun is 6 degrees of the horizon. This includes both morning and evening twilight." .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( cose:Contact
+                cose:Light
+                cose:Movement
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi

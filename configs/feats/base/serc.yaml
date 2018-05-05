@@ -1,0 +1,5 @@
+features:
+    seamr.features.casas.SERCFeatures:
+        qlen: 30
+        clip: 43200
+        sensors: null

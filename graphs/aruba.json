@@ -1,0 +1,3339 @@
+{
+    "edges": [
+        [
+            "OfficeChair-1",
+            "Desk-1"
+        ],
+        [
+            "OfficeChair-1",
+            "aruba_m026"
+        ],
+        [
+            "OfficeChair-1",
+            "aruba_m027"
+        ],
+        [
+            "OfficeChair-1",
+            "aruba_m025"
+        ],
+        [
+            "OfficeChair-1",
+            "aruba_m021"
+        ],
+        [
+            "OfficeChair-1",
+            "aruba_t005"
+        ],
+        [
+            "OfficeChair-1",
+            "aruba_m028"
+        ],
+        [
+            "Desk-1",
+            "aruba_m026"
+        ],
+        [
+            "Desk-1",
+            "aruba_m027"
+        ],
+        [
+            "Desk-1",
+            "aruba_m025"
+        ],
+        [
+            "Desk-1",
+            "aruba_d004"
+        ],
+        [
+            "Desk-1",
+            "aruba_m029"
+        ],
+        [
+            "Desk-1",
+            "aruba_t005"
+        ],
+        [
+            "Desk-1",
+            "aruba_m028"
+        ],
+        [
+            "SingleBed-1",
+            "Nightstand-1"
+        ],
+        [
+            "SingleBed-1",
+            "DoubleBed-1"
+        ],
+        [
+            "SingleBed-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "SingleBed-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "SingleBed-1",
+            "InteriorDoor-3"
+        ],
+        [
+            "SingleBed-1",
+            "aruba_m005"
+        ],
+        [
+            "SingleBed-1",
+            "aruba_m024"
+        ],
+        [
+            "SingleBed-1",
+            "aruba_m023"
+        ],
+        [
+            "SingleBed-1",
+            "Bathtub-2"
+        ],
+        [
+            "Nightstand-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Nightstand-1",
+            "aruba_t004"
+        ],
+        [
+            "Nightstand-1",
+            "aruba_m009"
+        ],
+        [
+            "Nightstand-1",
+            "aruba_m005"
+        ],
+        [
+            "Nightstand-1",
+            "aruba_m006"
+        ],
+        [
+            "Nightstand-1",
+            "aruba_m024"
+        ],
+        [
+            "Nightstand-1",
+            "aruba_m023"
+        ],
+        [
+            "Nightstand-1",
+            "BathroomSink-2"
+        ],
+        [
+            "Freezer-1",
+            "Oven-1"
+        ],
+        [
+            "Freezer-1",
+            "Nightstand-3"
+        ],
+        [
+            "Freezer-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "Freezer-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Freezer-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "Freezer-1",
+            "aruba_t004"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m008"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m003"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m021"
+        ],
+        [
+            "Freezer-1",
+            "aruba_d002"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m019"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m018"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m017"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m016"
+        ],
+        [
+            "Freezer-1",
+            "aruba_m015"
+        ],
+        [
+            "Oven-1",
+            "KitchenSink-1"
+        ],
+        [
+            "Oven-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "Oven-1",
+            "aruba_d002"
+        ],
+        [
+            "Oven-1",
+            "aruba_m019"
+        ],
+        [
+            "Oven-1",
+            "aruba_m018"
+        ],
+        [
+            "Oven-1",
+            "aruba_m017"
+        ],
+        [
+            "Oven-1",
+            "aruba_m016"
+        ],
+        [
+            "Oven-1",
+            "aruba_m015"
+        ],
+        [
+            "Oven-1",
+            "BathroomSink-1"
+        ],
+        [
+            "KitchenChair-1",
+            "KitchenChair-2"
+        ],
+        [
+            "KitchenChair-1",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-1",
+            "Nightstand-2"
+        ],
+        [
+            "KitchenChair-1",
+            "Television-1"
+        ],
+        [
+            "KitchenChair-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "KitchenChair-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "KitchenChair-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "KitchenChair-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "KitchenChair-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_t004"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m013"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_t002"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m011"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m008"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m009"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m001"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m003"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m006"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m022"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m023"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m020"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m021"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_d004"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_d002"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_d001"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m019"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m018"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m017"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m016"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m014"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m012"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_t001"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m010"
+        ],
+        [
+            "KitchenChair-1",
+            "aruba_m031"
+        ],
+        [
+            "KitchenChair-2",
+            "Table-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Sofa-1"
+        ],
+        [
+            "KitchenChair-2",
+            "Nightstand-2"
+        ],
+        [
+            "KitchenChair-2",
+            "Television-1"
+        ],
+        [
+            "KitchenChair-2",
+            "InteriorDoor-1"
+        ],
+        [
+            "KitchenChair-2",
+            "InteriorDoor-2"
+        ],
+        [
+            "KitchenChair-2",
+            "ClothesDryer-1"
+        ],
+        [
+            "KitchenChair-2",
+            "ExteriorDoor-1"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_t004"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m013"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_t002"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m011"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m008"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m009"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m006"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m022"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m023"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m020"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m021"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_d001"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m018"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m014"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m012"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_t001"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m010"
+        ],
+        [
+            "KitchenChair-2",
+            "aruba_m031"
+        ],
+        [
+            "Table-1",
+            "Sofa-1"
+        ],
+        [
+            "Table-1",
+            "Nightstand-2"
+        ],
+        [
+            "Table-1",
+            "Television-1"
+        ],
+        [
+            "Table-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "Table-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "Table-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Table-1",
+            "aruba_t004"
+        ],
+        [
+            "Table-1",
+            "aruba_m013"
+        ],
+        [
+            "Table-1",
+            "aruba_t002"
+        ],
+        [
+            "Table-1",
+            "aruba_m011"
+        ],
+        [
+            "Table-1",
+            "aruba_m008"
+        ],
+        [
+            "Table-1",
+            "aruba_m009"
+        ],
+        [
+            "Table-1",
+            "aruba_m001"
+        ],
+        [
+            "Table-1",
+            "aruba_m006"
+        ],
+        [
+            "Table-1",
+            "aruba_m022"
+        ],
+        [
+            "Table-1",
+            "aruba_m023"
+        ],
+        [
+            "Table-1",
+            "aruba_m020"
+        ],
+        [
+            "Table-1",
+            "aruba_m021"
+        ],
+        [
+            "Table-1",
+            "aruba_d001"
+        ],
+        [
+            "Table-1",
+            "aruba_m014"
+        ],
+        [
+            "Table-1",
+            "aruba_m012"
+        ],
+        [
+            "Table-1",
+            "aruba_t001"
+        ],
+        [
+            "Table-1",
+            "aruba_m010"
+        ],
+        [
+            "Table-1",
+            "aruba_m031"
+        ],
+        [
+            "Sofa-1",
+            "Nightstand-2"
+        ],
+        [
+            "Sofa-1",
+            "Television-1"
+        ],
+        [
+            "Sofa-1",
+            "Dresser-2"
+        ],
+        [
+            "Sofa-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "Sofa-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "Sofa-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "Sofa-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Sofa-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "Sofa-1",
+            "aruba_t004"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m013"
+        ],
+        [
+            "Sofa-1",
+            "aruba_t002"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m011"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m008"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m009"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m022"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m020"
+        ],
+        [
+            "Sofa-1",
+            "aruba_d002"
+        ],
+        [
+            "Sofa-1",
+            "aruba_d001"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m019"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m018"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m017"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m016"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m014"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m012"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m010"
+        ],
+        [
+            "Sofa-1",
+            "aruba_m031"
+        ],
+        [
+            "Sofa-1",
+            "Toilet-1"
+        ],
+        [
+            "Nightstand-2",
+            "Television-1"
+        ],
+        [
+            "Nightstand-2",
+            "InteriorDoor-1"
+        ],
+        [
+            "Nightstand-2",
+            "ClothesWasher-1"
+        ],
+        [
+            "Nightstand-2",
+            "ClothesDryer-1"
+        ],
+        [
+            "Nightstand-2",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Nightstand-2",
+            "ExteriorDoor-3"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m013"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_t002"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m011"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m008"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m009"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m020"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_d002"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_d001"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m019"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m018"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m017"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m016"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m014"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m012"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m010"
+        ],
+        [
+            "Nightstand-2",
+            "aruba_m031"
+        ],
+        [
+            "Television-1",
+            "Dresser-1"
+        ],
+        [
+            "Television-1",
+            "Dresser-2"
+        ],
+        [
+            "Television-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "Television-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "Television-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "Television-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "Television-1",
+            "aruba_t004"
+        ],
+        [
+            "Television-1",
+            "aruba_m013"
+        ],
+        [
+            "Television-1",
+            "aruba_t002"
+        ],
+        [
+            "Television-1",
+            "aruba_m011"
+        ],
+        [
+            "Television-1",
+            "aruba_m008"
+        ],
+        [
+            "Television-1",
+            "aruba_m009"
+        ],
+        [
+            "Television-1",
+            "aruba_m004"
+        ],
+        [
+            "Television-1",
+            "aruba_m006"
+        ],
+        [
+            "Television-1",
+            "aruba_m020"
+        ],
+        [
+            "Television-1",
+            "aruba_m021"
+        ],
+        [
+            "Television-1",
+            "aruba_d002"
+        ],
+        [
+            "Television-1",
+            "aruba_d001"
+        ],
+        [
+            "Television-1",
+            "aruba_m018"
+        ],
+        [
+            "Television-1",
+            "aruba_m017"
+        ],
+        [
+            "Television-1",
+            "aruba_m016"
+        ],
+        [
+            "Television-1",
+            "aruba_m014"
+        ],
+        [
+            "Television-1",
+            "aruba_m012"
+        ],
+        [
+            "Television-1",
+            "aruba_m010"
+        ],
+        [
+            "Television-1",
+            "aruba_m031"
+        ],
+        [
+            "Dresser-1",
+            "Dresser-2"
+        ],
+        [
+            "Dresser-1",
+            "DoubleBed-1"
+        ],
+        [
+            "Dresser-1",
+            "Nightstand-3"
+        ],
+        [
+            "Dresser-1",
+            "Nightstand-4"
+        ],
+        [
+            "Dresser-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "Dresser-1",
+            "InteriorDoor-2"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m009"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m001"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m002"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m003"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m004"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m005"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m006"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m007"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m023"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m020"
+        ],
+        [
+            "Dresser-1",
+            "aruba_m029"
+        ],
+        [
+            "Dresser-1",
+            "aruba_t001"
+        ],
+        [
+            "Dresser-1",
+            "Toilet-2"
+        ],
+        [
+            "Dresser-1",
+            "BathroomSink-2"
+        ],
+        [
+            "Dresser-2",
+            "DoubleBed-1"
+        ],
+        [
+            "Dresser-2",
+            "Nightstand-3"
+        ],
+        [
+            "Dresser-2",
+            "Nightstand-4"
+        ],
+        [
+            "Dresser-2",
+            "InteriorDoor-1"
+        ],
+        [
+            "Dresser-2",
+            "InteriorDoor-2"
+        ],
+        [
+            "Dresser-2",
+            "aruba_t002"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m009"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m001"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m002"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m003"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m004"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m005"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m006"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m007"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m020"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m018"
+        ],
+        [
+            "Dresser-2",
+            "aruba_m012"
+        ],
+        [
+            "Dresser-2",
+            "aruba_t001"
+        ],
+        [
+            "Dresser-2",
+            "Toilet-2"
+        ],
+        [
+            "DoubleBed-1",
+            "Nightstand-3"
+        ],
+        [
+            "DoubleBed-1",
+            "Nightstand-4"
+        ],
+        [
+            "DoubleBed-1",
+            "InteriorDoor-1"
+        ],
+        [
+            "DoubleBed-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "DoubleBed-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m008"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m001"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m002"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m003"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m004"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m005"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m006"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m007"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m018"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_m017"
+        ],
+        [
+            "DoubleBed-1",
+            "aruba_t001"
+        ],
+        [
+            "Nightstand-3",
+            "Nightstand-4"
+        ],
+        [
+            "Nightstand-3",
+            "InteriorDoor-1"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m008"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m001"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m002"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m003"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m004"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m005"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m006"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m007"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m019"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m014"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_t001"
+        ],
+        [
+            "Nightstand-3",
+            "aruba_m015"
+        ],
+        [
+            "Nightstand-3",
+            "Toilet-2"
+        ],
+        [
+            "Nightstand-3",
+            "BathroomSink-2"
+        ],
+        [
+            "Nightstand-4",
+            "InteriorDoor-1"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m001"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m002"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m003"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m004"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m005"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m006"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_m007"
+        ],
+        [
+            "Nightstand-4",
+            "aruba_t001"
+        ],
+        [
+            "Nightstand-4",
+            "BathroomSink-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_t004"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m013"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_t002"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m008"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m009"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m001"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m002"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m003"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m004"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m005"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m006"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m007"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m020"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m029"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m019"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m014"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m012"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_t001"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m010"
+        ],
+        [
+            "InteriorDoor-1",
+            "aruba_m015"
+        ],
+        [
+            "InteriorDoor-1",
+            "Toilet-2"
+        ],
+        [
+            "InteriorDoor-1",
+            "BathroomSink-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "ExteriorDoor-2"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_t004"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_m013"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_m004"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_m024"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_m023"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_m021"
+        ],
+        [
+            "InteriorDoor-2",
+            "aruba_m014"
+        ],
+        [
+            "InteriorDoor-3",
+            "ExteriorDoor-2"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_t002"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_m026"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_m027"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_m025"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_m021"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_m029"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_t005"
+        ],
+        [
+            "InteriorDoor-3",
+            "aruba_m028"
+        ],
+        [
+            "KitchenSink-1",
+            "ClothesWasher-1"
+        ],
+        [
+            "KitchenSink-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_t004"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m022"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m021"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_d002"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m019"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m018"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m017"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m016"
+        ],
+        [
+            "KitchenSink-1",
+            "aruba_m015"
+        ],
+        [
+            "ClothesWasher-1",
+            "ClothesDryer-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_t004"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m013"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_t002"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m011"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m008"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m009"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m022"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m020"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m021"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_d001"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m019"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m014"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m012"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m010"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m031"
+        ],
+        [
+            "ClothesWasher-1",
+            "aruba_m015"
+        ],
+        [
+            "ClothesDryer-1",
+            "ExteriorDoor-1"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_t004"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m013"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_t002"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m008"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m009"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m020"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m021"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m014"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m012"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m010"
+        ],
+        [
+            "ClothesDryer-1",
+            "aruba_m031"
+        ],
+        [
+            "ExteriorDoor-1",
+            "ExteriorDoor-3"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m013"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_t002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m011"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m008"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m009"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m020"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_d002"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_d001"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m019"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m018"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m017"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m016"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m014"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m012"
+        ],
+        [
+            "ExteriorDoor-1",
+            "aruba_m010"
+        ],
+        [
+            "ExteriorDoor-2",
+            "aruba_m030"
+        ],
+        [
+            "ExteriorDoor-2",
+            "aruba_m022"
+        ],
+        [
+            "ExteriorDoor-2",
+            "aruba_d004"
+        ],
+        [
+            "ExteriorDoor-2",
+            "aruba_m029"
+        ],
+        [
+            "ExteriorDoor-2",
+            "aruba_m012"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m013"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_t002"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m011"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m030"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m008"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m009"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m020"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_d004"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_d002"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_d001"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m029"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m019"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m018"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m017"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m016"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m014"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m012"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m010"
+        ],
+        [
+            "ExteriorDoor-3",
+            "aruba_m015"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m013"
+        ],
+        [
+            "aruba_t004",
+            "aruba_t002"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m022"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m023"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m020"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m021"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m014"
+        ],
+        [
+            "aruba_t004",
+            "aruba_m012"
+        ],
+        [
+            "aruba_t004",
+            "BathroomSink-1"
+        ],
+        [
+            "aruba_m013",
+            "aruba_t002"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m011"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m008"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m009"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m021"
+        ],
+        [
+            "aruba_m013",
+            "aruba_d002"
+        ],
+        [
+            "aruba_m013",
+            "aruba_d001"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m016"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m013",
+            "aruba_m031"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m011"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m008"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m009"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m020"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m021"
+        ],
+        [
+            "aruba_t002",
+            "aruba_d002"
+        ],
+        [
+            "aruba_t002",
+            "aruba_d001"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m019"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m018"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m017"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m016"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m014"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m012"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m010"
+        ],
+        [
+            "aruba_t002",
+            "aruba_m031"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m008"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m009"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m011",
+            "aruba_d002"
+        ],
+        [
+            "aruba_m011",
+            "aruba_d001"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m011",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m030",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m030",
+            "aruba_m022"
+        ],
+        [
+            "aruba_m030",
+            "aruba_d004"
+        ],
+        [
+            "aruba_m030",
+            "aruba_m029"
+        ],
+        [
+            "aruba_m030",
+            "Bathtub-1"
+        ],
+        [
+            "aruba_m030",
+            "Toilet-1"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m009"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m001"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m002"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m003"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m004"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m008",
+            "aruba_d001"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m008",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m008",
+            "aruba_m015"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m004"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m009",
+            "aruba_d002"
+        ],
+        [
+            "aruba_m009",
+            "aruba_d001"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m009",
+            "aruba_m031"
+        ],
+        [
+            "aruba_m009",
+            "Toilet-2"
+        ],
+        [
+            "aruba_m001",
+            "aruba_m002"
+        ],
+        [
+            "aruba_m001",
+            "aruba_m003"
+        ],
+        [
+            "aruba_m001",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m001",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m001",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m001",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m002",
+            "aruba_m003"
+        ],
+        [
+            "aruba_m002",
+            "aruba_m004"
+        ],
+        [
+            "aruba_m002",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m002",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m002",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m002",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m002",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m002",
+            "BathroomSink-2"
+        ],
+        [
+            "aruba_m003",
+            "aruba_m004"
+        ],
+        [
+            "aruba_m003",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m003",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m003",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m003",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m003",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m003",
+            "aruba_m015"
+        ],
+        [
+            "aruba_m003",
+            "BathroomSink-2"
+        ],
+        [
+            "aruba_m004",
+            "aruba_m005"
+        ],
+        [
+            "aruba_m004",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m004",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m004",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m004",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m004",
+            "Toilet-2"
+        ],
+        [
+            "aruba_m004",
+            "BathroomSink-2"
+        ],
+        [
+            "aruba_m004",
+            "Bathtub-2"
+        ],
+        [
+            "aruba_m005",
+            "aruba_m006"
+        ],
+        [
+            "aruba_m005",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m005",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m005",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m005",
+            "Toilet-2"
+        ],
+        [
+            "aruba_m006",
+            "aruba_m007"
+        ],
+        [
+            "aruba_m006",
+            "aruba_m020"
+        ],
+        [
+            "aruba_m006",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m006",
+            "Toilet-2"
+        ],
+        [
+            "aruba_m007",
+            "aruba_t001"
+        ],
+        [
+            "aruba_m007",
+            "Toilet-2"
+        ],
+        [
+            "aruba_m026",
+            "aruba_m027"
+        ],
+        [
+            "aruba_m026",
+            "aruba_m025"
+        ],
+        [
+            "aruba_m026",
+            "aruba_t005"
+        ],
+        [
+            "aruba_m026",
+            "aruba_m028"
+        ],
+        [
+            "aruba_m027",
+            "aruba_m025"
+        ],
+        [
+            "aruba_m027",
+            "aruba_t005"
+        ],
+        [
+            "aruba_m027",
+            "aruba_m028"
+        ],
+        [
+            "aruba_m024",
+            "aruba_m023"
+        ],
+        [
+            "aruba_m025",
+            "aruba_t005"
+        ],
+        [
+            "aruba_m025",
+            "aruba_m028"
+        ],
+        [
+            "aruba_m022",
+            "aruba_m021"
+        ],
+        [
+            "aruba_m022",
+            "aruba_d004"
+        ],
+        [
+            "aruba_m022",
+            "aruba_m029"
+        ],
+        [
+            "aruba_m022",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m022",
+            "BathroomSink-1"
+        ],
+        [
+            "aruba_m023",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m021"
+        ],
+        [
+            "aruba_m020",
+            "aruba_d002"
+        ],
+        [
+            "aruba_m020",
+            "aruba_d001"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m016"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m020",
+            "aruba_m031"
+        ],
+        [
+            "aruba_m020",
+            "Toilet-2"
+        ],
+        [
+            "aruba_m021",
+            "aruba_m019"
+        ],
+        [
+            "aruba_m021",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m021",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m021",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m021",
+            "aruba_m015"
+        ],
+        [
+            "aruba_m021",
+            "BathroomSink-1"
+        ],
+        [
+            "aruba_d004",
+            "aruba_m029"
+        ],
+        [
+            "aruba_d004",
+            "Bathtub-1"
+        ],
+        [
+            "aruba_d004",
+            "Toilet-1"
+        ],
+        [
+            "aruba_d002",
+            "aruba_d001"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m019"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m018"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m017"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m016"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m014"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m012"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m010"
+        ],
+        [
+            "aruba_d002",
+            "aruba_m015"
+        ],
+        [
+            "aruba_d001",
+            "aruba_m019"
+        ],
+        [
+            "aruba_d001",
+            "aruba_m018"
+        ],
+        [
+            "aruba_d001",
+            "aruba_m017"
+        ],
+        [
+            "aruba_d001",
+            "aruba_m014"
+        ],
+        [
+            "aruba_d001",
+            "aruba_m012"
+        ],
+        [
+            "aruba_d001",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m029",
+            "Toilet-1"
+        ],
+        [
+            "aruba_m029",
+            "BathroomSink-1"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m018"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m016"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m019",
+            "aruba_m015"
+        ],
+        [
+            "aruba_m018",
+            "aruba_m017"
+        ],
+        [
+            "aruba_m018",
+            "aruba_m016"
+        ],
+        [
+            "aruba_m018",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m018",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m018",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m018",
+            "aruba_m015"
+        ],
+        [
+            "aruba_m017",
+            "aruba_m016"
+        ],
+        [
+            "aruba_m017",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m017",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m017",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m017",
+            "aruba_m015"
+        ],
+        [
+            "aruba_m016",
+            "aruba_m014"
+        ],
+        [
+            "aruba_m016",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m016",
+            "aruba_m015"
+        ],
+        [
+            "aruba_t005",
+            "aruba_m028"
+        ],
+        [
+            "aruba_m014",
+            "aruba_m012"
+        ],
+        [
+            "aruba_m014",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m014",
+            "aruba_m031"
+        ],
+        [
+            "aruba_m012",
+            "aruba_m010"
+        ],
+        [
+            "aruba_m012",
+            "aruba_m031"
+        ],
+        [
+            "aruba_t001",
+            "BathroomSink-2"
+        ],
+        [
+            "aruba_m010",
+            "aruba_m031"
+        ],
+        [
+            "Bathtub-1",
+            "Toilet-1"
+        ],
+        [
+            "Bathtub-1",
+            "BathroomSink-1"
+        ],
+        [
+            "Toilet-1",
+            "BathroomSink-1"
+        ],
+        [
+            "BathroomSink-1",
+            "Toilet-2"
+        ],
+        [
+            "Toilet-2",
+            "BathroomSink-2"
+        ],
+        [
+            "Toilet-2",
+            "Bathtub-2"
+        ],
+        [
+            "BathroomSink-2",
+            "Bathtub-2"
+        ]
+    ],
+    "nodes": [
+        {
+            "bottom": 111.29707010771472,
+            "id": "OfficeChair-1",
+            "left": 1024.9792556296889,
+            "ref": "cose:OfficeChair",
+            "right": 1073.8867532610893,
+            "sensor": "",
+            "top": 94.80738791014392,
+            "x": 1049.433004445389,
+            "y": 103.05222900892932
+        },
+        {
+            "bottom": 127.95782707311719,
+            "id": "Desk-1",
+            "left": 986.7044896749678,
+            "ref": "cose:Desk",
+            "right": 1105.7089242694103,
+            "sensor": "",
+            "top": 47.074125197073286,
+            "x": 1036.3434348398944,
+            "y": 89.48894547433792
+        },
+        {
+            "bottom": 488.3827410491217,
+            "id": "SingleBed-1",
+            "left": 999.2557130860091,
+            "ref": "cose:SingleBed",
+            "right": 1150.0117743136157,
+            "sensor": "",
+            "top": 399.4046448555225,
+            "x": 1112.5676245208704,
+            "y": 437.97121054280314
+        },
+        {
+            "bottom": 476.98983216285706,
+            "id": "Nightstand-1",
+            "left": 949.611270904541,
+            "ref": "cose:Nightstand",
+            "right": 987.644775390625,
+            "sensor": "",
+            "top": 426.09918427467346,
+            "x": 968.3792233467102,
+            "y": 455.6499069929123
+        },
+        {
+            "bottom": 115.46574359266359,
+            "id": "Freezer-1",
+            "left": 7.6657055461950705,
+            "ref": "cose:Freezer",
+            "right": 83.47850705490691,
+            "sensor": "",
+            "top": 44.86206303030647,
+            "x": 69.56485588813365,
+            "y": 79.31117684502331
+        },
+        {
+            "bottom": 257.0953502804041,
+            "id": "Oven-1",
+            "left": 10.30829830812781,
+            "ref": "cose:Oven",
+            "right": 75.62761189763478,
+            "sensor": "",
+            "top": 197.79710318148136,
+            "x": 56.493573917774796,
+            "y": 227.4462403032344
+        },
+        {
+            "bottom": 415.6181400095368,
+            "id": "KitchenChair-1",
+            "left": 175.32759294905387,
+            "ref": "cose:KitchenChair",
+            "right": 225.6689244797314,
+            "sensor": "",
+            "top": 371.3859145194292,
+            "x": 209.91545969314694,
+            "y": 393.50201063130703
+        },
+        {
+            "bottom": 415.6181138008833,
+            "id": "KitchenChair-2",
+            "left": 53.28298363184087,
+            "ref": "cose:KitchenChair",
+            "right": 103.6243151625184,
+            "sensor": "",
+            "top": 371.3858883107757,
+            "x": 69.03644841842532,
+            "y": 393.50201768900547
+        },
+        {
+            "bottom": 451.49057571965506,
+            "id": "Table-1",
+            "left": -64.08237738660318,
+            "ref": "cose:Table",
+            "right": 197.85589073575238,
+            "sensor": "",
+            "top": 235.40102016358196,
+            "x": 62.41073711022068,
+            "y": 338.9698234684294
+        },
+        {
+            "bottom": 765.9526368379593,
+            "id": "Sofa-1",
+            "left": 367.88710594177246,
+            "ref": "cose:Sofa",
+            "right": 462.89281964302063,
+            "sensor": "",
+            "top": 537.317138671875,
+            "x": 412.63518098990124,
+            "y": 651.7981434067091
+        },
+        {
+            "bottom": 813.4872398376465,
+            "id": "Nightstand-2",
+            "left": 382.1665060520172,
+            "ref": "cose:Nightstand",
+            "right": 433.0571539402008,
+            "sensor": "",
+            "top": 775.4537353515625,
+            "x": 411.71722877025604,
+            "y": 794.7192873954773
+        },
+        {
+            "bottom": 747.1409912109375,
+            "id": "Television-1",
+            "left": 28.157724857330322,
+            "ref": "cose:Television",
+            "right": 37.53272485733032,
+            "sensor": "",
+            "top": 597.1409912109375,
+            "x": 32.84522485733032,
+            "y": 672.1409912109375
+        },
+        {
+            "bottom": 545.189697265625,
+            "id": "Dresser-1",
+            "left": 807.1975250244141,
+            "ref": "cose:Dresser",
+            "right": 907.7498779296875,
+            "sensor": "",
+            "top": 513.2733182907104,
+            "x": 857.4737037022909,
+            "y": 537.1378954251608
+        },
+        {
+            "bottom": 545.189697265625,
+            "id": "Dresser-2",
+            "left": 642.5913238525391,
+            "ref": "cose:Dresser",
+            "right": 743.1436767578125,
+            "sensor": "",
+            "top": 513.2733182907104,
+            "x": 692.8675025304159,
+            "y": 537.1378954251608
+        },
+        {
+            "bottom": 773.3774586722918,
+            "id": "DoubleBed-1",
+            "left": 573.2949147683402,
+            "ref": "cose:DoubleBed",
+            "right": 806.929694712162,
+            "sensor": "",
+            "top": 653.8845286816359,
+            "x": 623.0753346109017,
+            "y": 734.1551185651961
+        },
+        {
+            "bottom": 644.018798828125,
+            "id": "Nightstand-3",
+            "left": 574.9221551418304,
+            "ref": "cose:Nightstand",
+            "right": 625.812803030014,
+            "sensor": "",
+            "top": 605.985294342041,
+            "x": 596.2620803117752,
+            "y": 624.7532467842102
+        },
+        {
+            "bottom": 810.018798828125,
+            "id": "Nightstand-4",
+            "left": 574.9221551418304,
+            "ref": "cose:Nightstand",
+            "right": 625.812803030014,
+            "sensor": "",
+            "top": 771.985294342041,
+            "x": 596.2620803117752,
+            "y": 790.7532467842102
+        },
+        {
+            "bottom": 599.9246461186183,
+            "id": "InteriorDoor-1",
+            "left": 557.1076169287455,
+            "ref": "cose:InteriorDoor",
+            "right": 590.3883618917571,
+            "sensor": "",
+            "top": 544.8440751060843,
+            "x": 573.7479894102513,
+            "y": 572.3843606123513
+        },
+        {
+            "bottom": 340.0763919763267,
+            "id": "InteriorDoor-2",
+            "left": 791.1789869640925,
+            "ref": "cose:InteriorDoor",
+            "right": 828.1804461471313,
+            "sensor": "",
+            "top": 278.8379395365073,
+            "x": 809.6797165556118,
+            "y": 309.457165756417
+        },
+        {
+            "bottom": 264.9679213836789,
+            "id": "InteriorDoor-3",
+            "left": 792.8918294816613,
+            "ref": "cose:InteriorDoor",
+            "right": 830.8959347428636,
+            "sensor": "",
+            "top": 202.07006059559308,
+            "x": 811.8938821122624,
+            "y": 233.518990989636
+        },
+        {
+            "bottom": 195.3589185830661,
+            "id": "KitchenSink-1",
+            "left": 17.303955638735673,
+            "ref": "cose:KitchenSink",
+            "right": 62.638044023310115,
+            "sensor": "",
+            "top": 120.25476183710002,
+            "x": 35.60198926812243,
+            "y": 166.0814648267564
+        },
+        {
+            "bottom": 310.9567627518336,
+            "id": "ClothesWasher-1",
+            "left": 505.33854347927866,
+            "ref": "cose:ClothesWasher",
+            "right": 548.2755337293324,
+            "sensor": "",
+            "top": 264.32733378662044,
+            "x": 526.8063164760412,
+            "y": 293.2943379794168
+        },
+        {
+            "bottom": 311.07757517966365,
+            "id": "ClothesDryer-1",
+            "left": 550.4771093271086,
+            "ref": "cose:ClothesDryer",
+            "right": 593.5228576096665,
+            "sensor": "",
+            "top": 264.33003535196303,
+            "x": 571.9999841194649,
+            "y": 297.2658152959579
+        },
+        {
+            "bottom": 830.4307449474418,
+            "id": "ExteriorDoor-1",
+            "left": 452.61837011724697,
+            "ref": "cose:ExteriorDoor",
+            "right": 551.9985441990643,
+            "sensor": "",
+            "top": 797.0662887354484,
+            "x": 474.81637971553045,
+            "y": 807.7787158244612
+        },
+        {
+            "bottom": 69.76355601834894,
+            "id": "ExteriorDoor-2",
+            "left": 704.282999238564,
+            "ref": "cose:ExteriorDoor",
+            "right": 795.8007861991529,
+            "sensor": "",
+            "top": 39.22261024666335,
+            "x": 724.6501259897539,
+            "y": 59.80374196556501
+        },
+        {
+            "bottom": 68.46741362281273,
+            "id": "ExteriorDoor-3",
+            "left": 316.4788099688869,
+            "ref": "cose:ExteriorDoor",
+            "right": 404.8597122874781,
+            "sensor": "",
+            "top": 38.97329768272553,
+            "x": 336.1478284009929,
+            "y": 58.84898464306994
+        },
+        {
+            "bottom": 361.0735168457031,
+            "id": "aruba_t004",
+            "left": 578.7636108398438,
+            "ref": "cose:TemperatureSensor",
+            "right": 617.5289916992188,
+            "sensor": "aruba:t004",
+            "top": 345.0423889160156,
+            "x": 598.1463012695312,
+            "y": 353.0579528808594
+        },
+        {
+            "bottom": 550.5767822265625,
+            "id": "aruba_m013",
+            "left": 243.59739685058594,
+            "ref": "cose:MotionDetector",
+            "right": 286.73773193359375,
+            "sensor": "aruba:m013",
+            "top": 534.5455932617188,
+            "x": 265.16756439208984,
+            "y": 542.5611877441406
+        },
+        {
+            "bottom": 718.8670043945312,
+            "id": "aruba_t002",
+            "left": 153.0884552001953,
+            "ref": "cose:TemperatureSensor",
+            "right": 191.8538055419922,
+            "sensor": "aruba:t002",
+            "top": 702.8358154296875,
+            "x": 172.47113037109375,
+            "y": 710.8514099121094
+        },
+        {
+            "bottom": 790.972412109375,
+            "id": "aruba_m011",
+            "left": 508.3109436035156,
+            "ref": "cose:MotionDetector",
+            "right": 551.4512329101562,
+            "sensor": "aruba:m011",
+            "top": 774.9412841796875,
+            "x": 529.8810882568359,
+            "y": 782.9568481445312
+        },
+        {
+            "bottom": 70.57876586914062,
+            "id": "aruba_m030",
+            "left": 757.7881469726562,
+            "ref": "cose:MotionDetector",
+            "right": 800.928466796875,
+            "sensor": "aruba:m030",
+            "top": 54.54762649536133,
+            "x": 779.3583068847656,
+            "y": 62.56319618225098
+        },
+        {
+            "bottom": 554.2010498046875,
+            "id": "aruba_m008",
+            "left": 512.7215576171875,
+            "ref": "cose:MotionDetector",
+            "right": 555.8618774414062,
+            "sensor": "aruba:m008",
+            "top": 538.169921875,
+            "x": 534.2917175292969,
+            "y": 546.1854858398438
+        },
+        {
+            "bottom": 617.0443725585938,
+            "id": "aruba_m009",
+            "left": 455.7279357910156,
+            "ref": "cose:MotionDetector",
+            "right": 498.86822509765625,
+            "sensor": "aruba:m009",
+            "top": 601.0132446289062,
+            "x": 477.29808044433594,
+            "y": 609.02880859375
+        },
+        {
+            "bottom": 776.8493041992188,
+            "id": "aruba_m001",
+            "left": 884.2315063476562,
+            "ref": "cose:MotionDetector",
+            "right": 927.371826171875,
+            "sensor": "aruba:m001",
+            "top": 760.8181762695312,
+            "x": 905.8016662597656,
+            "y": 768.833740234375
+        },
+        {
+            "bottom": 775.4351196289062,
+            "id": "aruba_m002",
+            "left": 673.5152587890625,
+            "ref": "cose:MotionDetector",
+            "right": 716.6555786132812,
+            "sensor": "aruba:m002",
+            "top": 759.4039916992188,
+            "x": 695.0854187011719,
+            "y": 767.4195556640625
+        },
+        {
+            "bottom": 689.168701171875,
+            "id": "aruba_m003",
+            "left": 673.5152587890625,
+            "ref": "cose:MotionDetector",
+            "right": 716.6555786132812,
+            "sensor": "aruba:m003",
+            "top": 673.1375732421875,
+            "x": 695.0854187011719,
+            "y": 681.1531372070312
+        },
+        {
+            "bottom": 547.041259765625,
+            "id": "aruba_m004",
+            "left": 995.2465209960938,
+            "ref": "cose:MotionDetector",
+            "right": 1038.3868408203125,
+            "sensor": "aruba:m004",
+            "top": 531.0101318359375,
+            "x": 1016.8166809082031,
+            "y": 539.0256958007812
+        },
+        {
+            "bottom": 604.3164672851562,
+            "id": "aruba_m005",
+            "left": 800.7935180664062,
+            "ref": "cose:MotionDetector",
+            "right": 843.933837890625,
+            "sensor": "aruba:m005",
+            "top": 588.2853393554688,
+            "x": 822.3636779785156,
+            "y": 596.3009033203125
+        },
+        {
+            "bottom": 597.2454833984375,
+            "id": "aruba_m006",
+            "left": 619.7755126953125,
+            "ref": "cose:MotionDetector",
+            "right": 662.9158325195312,
+            "sensor": "aruba:m006",
+            "top": 581.21435546875,
+            "x": 641.3456726074219,
+            "y": 589.2299194335938
+        },
+        {
+            "bottom": 654.7841796875,
+            "id": "aruba_m007",
+            "left": 902.905517578125,
+            "ref": "cose:MotionDetector",
+            "right": 946.0457763671875,
+            "sensor": "aruba:m007",
+            "top": 638.7530517578125,
+            "x": 924.4756469726562,
+            "y": 646.7686157226562
+        },
+        {
+            "bottom": 151.77145385742188,
+            "id": "aruba_m026",
+            "left": 1092.1195068359375,
+            "ref": "cose:MotionDetector",
+            "right": 1135.259765625,
+            "sensor": "aruba:m026",
+            "top": 135.7403106689453,
+            "x": 1113.6896362304688,
+            "y": 143.7558822631836
+        },
+        {
+            "bottom": 182.8839111328125,
+            "id": "aruba_m027",
+            "left": 1035.55126953125,
+            "ref": "cose:MotionDetector",
+            "right": 1078.6915283203125,
+            "sensor": "aruba:m027",
+            "top": 166.85276794433594,
+            "x": 1057.1213989257812,
+            "y": 174.86833953857422
+        },
+        {
+            "bottom": 403.4996337890625,
+            "id": "aruba_m024",
+            "left": 1059.5927734375,
+            "ref": "cose:MotionDetector",
+            "right": 1102.7330322265625,
+            "sensor": "aruba:m024",
+            "top": 387.468505859375,
+            "x": 1081.1629028320312,
+            "y": 395.48406982421875
+        },
+        {
+            "bottom": 247.0894317626953,
+            "id": "aruba_m025",
+            "left": 1102.3037109375,
+            "ref": "cose:MotionDetector",
+            "right": 1145.4439697265625,
+            "sensor": "aruba:m025",
+            "top": 231.0583038330078,
+            "x": 1123.8738403320312,
+            "y": 239.07386779785156
+        },
+        {
+            "bottom": 408.3102111816406,
+            "id": "aruba_m022",
+            "left": 743.3621826171875,
+            "ref": "cose:MotionDetector",
+            "right": 786.50244140625,
+            "sensor": "aruba:m022",
+            "top": 392.2790832519531,
+            "x": 764.9323120117188,
+            "y": 400.2946472167969
+        },
+        {
+            "bottom": 337.68206787109375,
+            "id": "aruba_m023",
+            "left": 885.4828491210938,
+            "ref": "cose:MotionDetector",
+            "right": 922.0687255859375,
+            "sensor": "aruba:m023",
+            "top": 321.4945373535156,
+            "x": 903.7757873535156,
+            "y": 329.5883026123047
+        },
+        {
+            "bottom": 614.2159423828125,
+            "id": "aruba_m020",
+            "left": 298.7513732910156,
+            "ref": "cose:MotionDetector",
+            "right": 341.8916931152344,
+            "sensor": "aruba:m020",
+            "top": 598.184814453125,
+            "x": 320.321533203125,
+            "y": 606.2003784179688
+        },
+        {
+            "bottom": 409.1564636230469,
+            "id": "aruba_m021",
+            "left": 554.72216796875,
+            "ref": "cose:MotionDetector",
+            "right": 597.8624877929688,
+            "sensor": "aruba:m021",
+            "top": 393.12530517578125,
+            "x": 576.2923278808594,
+            "y": 401.14088439941406
+        },
+        {
+            "bottom": 101.09573364257812,
+            "id": "aruba_d004",
+            "left": 738.901123046875,
+            "ref": "cose:ContactSensor",
+            "right": 779.7289428710938,
+            "sensor": "aruba:d004",
+            "top": 85.06460571289062,
+            "x": 759.3150329589844,
+            "y": 93.08016967773438
+        },
+        {
+            "bottom": 77.18110656738281,
+            "id": "aruba_d002",
+            "left": 369.5366516113281,
+            "ref": "cose:ContactSensor",
+            "right": 410.3644714355469,
+            "sensor": "aruba:d002",
+            "top": 61.14997100830078,
+            "x": 389.9505615234375,
+            "y": 69.1655387878418
+        },
+        {
+            "bottom": 821.7247314453125,
+            "id": "aruba_d001",
+            "left": 489.63232421875,
+            "ref": "cose:ContactSensor",
+            "right": 530.4601440429688,
+            "sensor": "aruba:d001",
+            "top": 805.693603515625,
+            "x": 510.0462341308594,
+            "y": 813.7091674804688
+        },
+        {
+            "bottom": 158.8424530029297,
+            "id": "aruba_m029",
+            "left": 747.0537719726562,
+            "ref": "cose:MotionDetector",
+            "right": 790.194091796875,
+            "sensor": "aruba:m029",
+            "top": 142.8113250732422,
+            "x": 768.6239318847656,
+            "y": 150.82688903808594
+        },
+        {
+            "bottom": 189.9549102783203,
+            "id": "aruba_m019",
+            "left": 266.2247314453125,
+            "ref": "cose:MotionDetector",
+            "right": 309.3650207519531,
+            "sensor": "aruba:m019",
+            "top": 173.9237823486328,
+            "x": 287.7948760986328,
+            "y": 181.93934631347656
+        },
+        {
+            "bottom": 262.07928466796875,
+            "id": "aruba_m018",
+            "left": 403.40240478515625,
+            "ref": "cose:MotionDetector",
+            "right": 446.542724609375,
+            "sensor": "aruba:m018",
+            "top": 246.04815673828125,
+            "x": 424.9725646972656,
+            "y": 254.063720703125
+        },
+        {
+            "bottom": 142.547119140625,
+            "id": "aruba_m017",
+            "left": 368.2889404296875,
+            "ref": "cose:MotionDetector",
+            "right": 411.42926025390625,
+            "sensor": "aruba:m017",
+            "top": 126.5159912109375,
+            "x": 389.8591003417969,
+            "y": 134.53155517578125
+        },
+        {
+            "bottom": 109.62606048583984,
+            "id": "aruba_m016",
+            "left": 387.3878173828125,
+            "ref": "cose:MotionDetector",
+            "right": 430.52813720703125,
+            "sensor": "aruba:m016",
+            "top": 93.59493255615234,
+            "x": 408.9579772949219,
+            "y": 101.6104965209961
+        },
+        {
+            "bottom": 215.41058349609375,
+            "id": "aruba_t005",
+            "left": 1120.403564453125,
+            "ref": "cose:TemperatureSensor",
+            "right": 1159.1689453125,
+            "sensor": "aruba:t005",
+            "top": 199.37945556640625,
+            "x": 1139.7862548828125,
+            "y": 207.39501953125
+        },
+        {
+            "bottom": 378.0439758300781,
+            "id": "aruba_m014",
+            "left": 286.02349853515625,
+            "ref": "cose:MotionDetector",
+            "right": 329.163818359375,
+            "sensor": "aruba:m014",
+            "top": 362.0128479003906,
+            "x": 307.5936584472656,
+            "y": 370.0284118652344
+        },
+        {
+            "bottom": 279.04974365234375,
+            "id": "aruba_t003",
+            "left": 113.49073791503906,
+            "ref": "cose:TemperatureSensor",
+            "right": 152.25607299804688,
+            "sensor": "aruba:t003",
+            "top": 263.01861572265625,
+            "x": 132.87340545654297,
+            "y": 271.0341796875
+        },
+        {
+            "bottom": 731.5947875976562,
+            "id": "aruba_m012",
+            "left": 266.2247314453125,
+            "ref": "cose:MotionDetector",
+            "right": 309.3650207519531,
+            "sensor": "aruba:m012",
+            "top": 715.5636596679688,
+            "x": 287.7948760986328,
+            "y": 723.5792236328125
+        },
+        {
+            "bottom": 649.5841064453125,
+            "id": "aruba_t001",
+            "left": 704.1659545898438,
+            "ref": "cose:TemperatureSensor",
+            "right": 742.9313354492188,
+            "sensor": "aruba:t001",
+            "top": 633.552978515625,
+            "x": 723.5486450195312,
+            "y": 641.5685424804688
+        },
+        {
+            "bottom": 727.58349609375,
+            "id": "aruba_m010",
+            "left": 457.167724609375,
+            "ref": "cose:MotionDetector",
+            "right": 500.30804443359375,
+            "sensor": "aruba:m010",
+            "top": 711.5523681640625,
+            "x": 478.7378845214844,
+            "y": 719.5679321289062
+        },
+        {
+            "bottom": 305.5865478515625,
+            "id": "aruba_m031",
+            "left": 567.1669921875,
+            "ref": "cose:MotionDetector",
+            "right": 610.3072509765625,
+            "sensor": "aruba:m031",
+            "top": 289.555419921875,
+            "x": 588.7371215820312,
+            "y": 297.57098388671875
+        },
+        {
+            "bottom": 254.58692932128906,
+            "id": "aruba_m028",
+            "left": 890.1646118164062,
+            "ref": "cose:MotionDetector",
+            "right": 933.304931640625,
+            "sensor": "aruba:m028",
+            "top": 238.5557861328125,
+            "x": 911.7347717285156,
+            "y": 246.57135772705078
+        },
+        {
+            "bottom": 176.58749389648438,
+            "id": "aruba_m015",
+            "left": 146.16998291015625,
+            "ref": "cose:MotionDetector",
+            "right": 189.310302734375,
+            "sensor": "aruba:m015",
+            "top": 160.5563507080078,
+            "x": 167.74014282226562,
+            "y": 168.5719223022461
+        },
+        {
+            "bottom": 253.70113506130133,
+            "id": "Bathtub-1",
+            "left": 507.95157973414007,
+            "ref": "cose:Bathtub",
+            "right": 661.2009121590563,
+            "sensor": "",
+            "top": 180.7231899730141,
+            "x": 561.3036443970304,
+            "y": 214.96098809217162
+        },
+        {
+            "bottom": 92.0870999544859,
+            "id": "Toilet-1",
+            "left": 505.91773720971213,
+            "ref": "cose:Toilet",
+            "right": 564.995476418515,
+            "sensor": "",
+            "top": 51.46035242025573,
+            "x": 526.9555479403856,
+            "y": 71.77389037147276
+        },
+        {
+            "bottom": 163.00601050411728,
+            "id": "BathroomSink-1",
+            "left": 508.19589837917465,
+            "ref": "cose:BathroomSink",
+            "right": 546.4064189308692,
+            "sensor": "",
+            "top": 128.40673268713158,
+            "x": 519.8583479352961,
+            "y": 145.61126665301242
+        },
+        {
+            "bottom": 550.6858954435138,
+            "id": "Toilet-2",
+            "left": 1105.6766732396882,
+            "ref": "cose:Toilet",
+            "right": 1164.754412448491,
+            "sensor": "",
+            "top": 510.05914790928364,
+            "x": 1143.7166017178174,
+            "y": 530.3723574922967
+        },
+        {
+            "bottom": 596.0690210970481,
+            "id": "BathroomSink-2",
+            "left": 1126.387068617959,
+            "ref": "cose:BathroomSink",
+            "right": 1164.5975891696535,
+            "sensor": "",
+            "top": 561.4697432800624,
+            "x": 1152.9351396135319,
+            "y": 578.8644871311672
+        },
+        {
+            "bottom": 667.8493792275124,
+            "id": "Bathtub-2",
+            "left": 1003.9017435395829,
+            "ref": "cose:Bathtub",
+            "right": 1136.554539449954,
+            "sensor": "",
+            "top": 604.6795872122822,
+            "x": 1090.3729317839577,
+            "y": 638.213102354683
+        }
+    ]
+}

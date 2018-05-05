@@ -1,0 +1,10 @@
+k: 3
+store: "/phd/data/store"
+results: "./results"
+eval_for: 31
+eval_mode: "round-robin"
+validate_for: 30
+max_steps: 0
+step_by: 0
+invert_eval: false
+eval_batch: 10000

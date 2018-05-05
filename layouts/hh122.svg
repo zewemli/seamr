@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg67922" viewBox="0 0 1042.2087 1896.3962" height="1896.3962" width="1042.2087" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs269">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <symbol id="cose_TemperatureSensor">
+    <path id="id_tag_path-1" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <circle style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.11969042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle19296" cx="16.330856" cy="26.456085" r="1.2874033"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.47725892;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 16.33086,25.697976 0,-14.704" id="path19298"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.85539544;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 19.856698,20.679176 -3.502891,0" id="path19300"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.85539544;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 19.856698,16.719376 -3.502891,0" id="path19302"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.85539544;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 19.856698,12.759676 -3.502891,0" id="path19304"/>
+  <title>cose_TemperatureSensor</title></symbol><symbol id="cose_FlowSensor">
+    <path id="id_tag_path-0" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 7.1989101,18.572294 c 0,0 4.9999999,5 9.9999989,0 5,-5 10,0 10,0" id="path19352"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 7.4489101,22.353594 c 0,0 4.9999999,5 9.9999989,0 5,-5 10,0 10,0" id="path19354"/>
+  <title>cose_FlowSensor</title></symbol><symbol id="cose_TelephoneActivitySensor">
+    <path id="id_tag_path-4" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path id="path21290" d="m 13.637876,25.562735 c 2.350988,4.07203 5.807264,6.943272 7.481365,5.976729 l 2.01186,-1.15943 -1.18795,-2.059494 -1.83451,-3.177466 -0.59225,0.341936 c -0.38093,0.21993 -0.814183,0.264304 -1.206261,0.159247 -0.392078,-0.105057 -0.742981,-0.359545 -0.962911,-0.740475 l -3.989247,-6.909577 c -0.21993,-0.380931 -0.265647,-0.813409 -0.16059,-1.205487 0.105057,-0.392079 0.360888,-0.743756 0.741818,-0.963687 l 0.59225,-0.341935 -1.834511,-3.177466 -1.176723,-2.044655 -2.2851757,1.29298 c -1.1297067,0.652236 -0.6182986,5.311869 1.6324817,9.210335 z" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75700003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(-0.50000001,-0.8660254,0.8660254,-0.50000001,0,0)" y="5.2475419" x="-37.858528" height="1.7737882" width="6.0176177" id="rect24193" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75700003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(-0.50000001,-0.8660254,0.8660254,-0.50000001,0,0)" y="5.2475419" x="-20.692572" height="1.7737882" width="6.0176177" id="rect24193-1" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75700003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_TelephoneActivitySensor</title></symbol><symbol id="cose_MotionDetector">
+    <path id="id_tag_path-7" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.56377184;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 12.885132,11.443394 c 4.981364,0 9.019557,4.0382 9.019557,9.0196 0,4.9814 -4.038194,9.0195 -9.019557,9.0195" id="path19336"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.56377184;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 12.885132,14.817494 c 3.117922,0 5.645499,2.5276 5.645498,5.6455 -2e-6,3.1179 -2.527577,5.6455 -5.645498,5.6455" id="path19338"/>
+    <circle style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56377184;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle19340" cx="12.885132" cy="20.46298" r="1.1141107"/>
+  <title>cose_MotionDetector</title></symbol><symbol id="cose_BatteryLevelSensor">
+    <g transform="translate(-0.16785802,-0.28171313)" id="id_tag-9">
+      <path d="m 18.036606,40.957605 -17.50488852,-10.1065 0,-20.212896 17.50488852,-10.10649973 17.7575,10.22599973 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="id_tag_path-3"/>
+    </g>
+    <rect style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8991" width="11.191217" height="18.107771" x="12.682829" y="12.216447" rx="1.19608" ry="1.19608"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8993" width="7.8505554" height="2.616852" x="14.353178" y="9.3211832" rx="1.4414297" ry="1.4414297"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8993-1" width="7.1824231" height="2.616852" x="14.687223" y="25.523453" rx="0.09148936"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8993-1-4" width="7.1824231" height="2.616852" x="14.687223" y="22.09926" rx="0.09148936"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8993-1-7" width="7.1824231" height="2.616852" x="14.687223" y="18.675066" rx="0.09148936"/>
+  <title>cose_BatteryLevelSensor</title></symbol><symbol id="cose_AreaMotionDetector">
+    <path id="id_tag_path-2" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 12.372356,12.58352 a 9.0987094,9.0987094 0 0 1 9.099564,-9e-5" id="path19276"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 9.0423196,25.012081 a 9.0987094,9.0987094 0 0 1 7.21e-5,-9.098329" id="path19278"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 21.471557,28.342676 A 9.0987094,9.0987094 0 0 1 12.37243,28.342404" id="path19280"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 24.801618,15.913118 a 9.0987094,9.0987094 0 0 1 3.66e-4,9.099054" id="path19282"/>
+    <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.38118756;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 17.415456,19.969673 a 0.6976051,0.6976051 0 0 1 -10e-7,0.986578 0.6976051,0.6976051 0 0 1 -0.986561,0 0.6976051,0.6976051 0 0 1 -1e-6,-0.986578 0.6976051,0.6976051 0 0 1 0.986563,0 z" id="path19284"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 14.049448,15.488449 a 5.74438,5.74438 0 0 1 5.745086,-1.81e-4" id="path19286"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 11.947324,23.335053 a 5.74438,5.74438 0 0 1 1.6e-4,-5.744454" id="path19288"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 19.794898,25.437385 a 5.74438,5.74438 0 0 1 -5.744565,5.44e-4" id="path19290"/>
+    <path style="fill:none;stroke:#000000;stroke-width:1.68073821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 21.897022,17.590871 a 5.74438,5.74438 0 0 1 1.67e-4,5.74382" id="path19292"/>
+  <title>cose_AreaMotionDetector</title></symbol><symbol id="cose_BinaryPressureSensor">
+    <path id="id_tag_path-5" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.2290287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 27.065291,12.327741 -19.8365425,0" id="path19308"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.2290287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 27.064592,16.533141 c 0,0 -3.388242,3.9571 -5.082363,3.9571 -1.619821,0 -3.239641,-3.9571 -4.859461,-3.9571 -1.650284,0 -3.209177,3.7378 -4.859461,3.7593 -1.707822,0.022 -5.0352569,-3.7593 -5.0352569,-3.7593" id="path19310"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.2290287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 27.064592,22.022741 c 0,0 -3.388242,3.9571 -5.082363,3.9571 -1.619821,0 -3.239641,-3.9571 -4.859461,-3.9571 -1.650284,0 -3.209177,3.7377 -4.859461,3.7592 -1.707822,0.022 -5.0352569,-3.7592 -5.0352569,-3.7592" id="path19312"/>
+  <title>cose_BinaryPressureSensor</title></symbol><symbol id="cose_ContactSensor">
+    <path id="id_tag_path" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <circle r="0.83236694" cy="23.355717" cx="13.321473" id="circle19316" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.66357446;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="0.83236694" cy="23.355717" cx="22.518311" id="circle19318" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.66357446;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19320" d="m 22.285451,22.854601 -8.66286,-8.6628" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.85539544;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19322" d="m 28.90578,23.355701 -5.6894,0" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.85539544;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19324" d="m 12.728681,23.355701 -5.6894101,0" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.85539544;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="0.83236694" cy="13.635746" cx="13.321473" id="circle19326" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.66357446;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_ContactSensor</title></symbol><symbol id="cose_TelevisionActivitySensor">
+    <path id="id_tag_path-0-1" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path id="path19344" d="m 25.526733,20.462944 -14.6087,0" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.92843616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 23.266533,20.462944 -8.2187,4.7451 0,-9.4902 z" id="path19346" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.09582794;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19348" d="m 25.441133,14.949544 0,10.9583" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.09582794px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <title>cose_TelevisionActivitySensor</title></symbol><symbol id="cose_PowerSwitchSensor">
+    <path id="id_tag_path-0-7" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.74439704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 21.21932,14.752414 a 7.3202377,7.3202377 0 0 1 4.10841,6.577965 l 0,0 a 7.3202377,7.3202377 0 0 1 -7.320238,7.320254 7.3202377,7.3202377 0 0 1 -7.320238,-7.320254 7.3202377,7.3202377 0 0 1 4.11008,-6.578821" id="path19330"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.74439704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 18.007492,12.287677 0,9.526405" id="path19332"/>
+  <title>cose_PowerSwitchSensor</title></symbol><symbol id="cose_PowerUsageSensor">
+    <path id="id_tag_path-0-9" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 12.396448,17.918847 a 4.6286958,5.5120293 0 0 0 -0.003,0.071 4.6286958,5.5120293 0 0 0 4.6286,5.5119 4.6286958,5.5120293 0 0 0 4.62884,-5.5122 4.6286958,5.5120293 0 0 0 -0.002,-0.071 l -9.25228,0 z" id="path8882"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8889" width="1.625342" height="4.5933576" x="16.209545" y="23.006964"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8889-8" width="1.6253418" height="6.5013671" x="13.766797" y="13.325566"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8889-9" width="1.6253418" height="6.5013671" x="18.572155" y="13.325566"/>
+  <title>cose_PowerUsageSensor</title></symbol><symbol id="cose_LightLevelSensor">
+    <path id="id_tag_path-0-4" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 17.754889,40.675892 0.25,30.569392 l 0,-20.212896 17.504889,-10.10649986 17.7575,10.22599986 46.2526,0.1195 c 1.108,0 2,0.892 2,2 l 0,15.999996 c 0,1.108 -0.892,2.0003 -2,2 l -46.2526,-0.013 z"/>
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 21.190082,10.625131 -9.64453,5.5684 0,2.0879 9.64453,-5.5684 0,-2.0879 m 0,3.4375 -9.64453,5.5684 0,2.0879 9.64453,-5.5684 0,-2.0879 m 0,3.4375 -9.64453,5.5684 0,2.0879 9.64453,-5.5684 0,-2.0879 m -9.64453,5.5684 0,-1.3496 m 0,-2.0879 0,-1.3496" id="rect8126"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8175" width="5.0945077" height="5.0945077" x="14.735919" y="26.906149" rx="1.1960779" ry="1.1960779"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 12.181732,23.730431 5.0835,1.3621 0,3.3459" id="path8181"/>
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 19.373602,8.9252314 -6.01157,3.4707996 0,1.3014 6.01157,-3.4708 0,-1.3013996" id="rect8126-9"/>
+  <title>cose_LightLevelSensor</title></symbol><symbol id="cose_MicrowaveOven">
+    <rect ry="2.4421053" y="1.5262791" x="1.5263158" height="30.526316" width="54.947369" id="rect19268" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.05263162;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19270" d="m 6.9226211,34.0884 30.5263149,0" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.6631577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19272" d="m 45.706389,34.0884 6.105263,0" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.6631577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_MicrowaveOven</title></symbol><symbol id="cose_KitchenChair">
+    <path id="path19150" d="m 6.05905,13.2881 c 1.9361,-10.5941 35.66419,-10.5873 37.65134,0 4.45716,23.7471 4.45716,15.6335 4.45717,31.4649 0,13.1928 -46.91756,13.1928 -46.91756,0 -1e-5,-15.8314 0.46917,-7.7178 4.80905,-31.4649 z" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19152" d="M 2.06853,10.5959 C 7.73164,-1.8692 41.63521,-1.8616 47.34896,10.5969" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_KitchenChair</title></symbol><symbol id="cose_CookingRange">
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19364" width="90" height="90" x="0.5" y="0.5"/>
+    <circle r="15" cy="23.523987" cx="23.593201" id="circle19366" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="15" cy="66.899048" cx="68.968201" id="circle19368" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="10" cy="23.523987" cx="68.599548" id="circle19370" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="10" cy="66.899048" cx="21.118347" id="circle19372" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_CookingRange</title></symbol><symbol id="cose_Oven">
+    <rect ry="4" rx="4" y="1.2500004" x="1.25" height="100" width="100" id="rect19240" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="15" cy="31.25" cx="29.987427" id="circle19242" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="15" cy="74.624939" cx="75.362427" id="circle19244" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="10" cy="31.25" cx="74.993774" id="circle19246" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="10" cy="74.624939" cx="27.512573" id="circle19248" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19250" d="m 86.249955,102.73017 0,4.9237 c -5,5 -65,5 -70,0 l 0,-5.0121" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Oven</title></symbol><symbol id="cose_ClothesDryer">
+    <rect y="1.5662168" x="1.566231" height="62.249226" width="63.05183" id="rect8138" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.13246202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <ellipse ry="24.899691" rx="25.220732" cy="32.690727" cx="33.092171" id="ellipse8140" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.13246202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path8142" d="m 1.5662379,63.8154 0,6.2249 63.0518301,0 0,-6.2249" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.13246202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_ClothesDryer</title></symbol><symbol id="cose_ClothesWasher">
+    <rect y="1.5662168" x="1.566231" height="62.249226" width="63.05183" id="rect18942" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.13246202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <ellipse ry="24.899691" rx="25.220732" cy="32.690727" cx="33.092171" id="ellipse18944" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.13246202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path18946" d="m 1.5662379,63.8154 0,6.2249 63.0518301,0 0,-6.2249" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.13246202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 34.625427,31.562 c 0.638044,0.442 0.446939,1.3758 -0.05238,1.8377 -0.845278,0.782 -2.189833,0.468 -2.860828,-0.3722 -0.961207,-1.2037 -0.504888,-2.9577 0.701806,-3.8112 1.586454,-1.1221 3.805459,-0.5307 4.859695,1.0135 1.314969,1.9262 0.571344,4.5583 -1.351284,5.7845 -2.314227,1.476 -5.429846,0.598 -6.858551,-1.6546 -1.676024,-2.6427 -0.64045,-6.1639 2.000751,-7.758 3.038699,-1.834 7.057236,-0.6668 8.857408,2.2959 2.039813,3.3571 0.710632,7.7713 -2.650219,9.7314 -3.761883,2.1939 -8.686021,0.7364 -10.856275,-2.9371 -1.869055,-3.1637 -1.354648,-7.2491 1.110152,-9.9551" id="path18948" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25298476px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <title>cose_ClothesWasher</title></symbol><symbol id="cose_BathroomSink">
+    <rect ry="2.3266952" rx="1.7995605" y="0.77963948" x="0.72701019" height="53.676571" width="48.603645" id="rect18912" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.70518601;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect rx="0.5792293" ry="0.5792293" y="13.973228" x="23.575457" height="18.981346" width="2.9067731" id="rect18914" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.03969669;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="17.376879" cy="35.019032" cx="25.028856" id="circle18916" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.77230573;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="3.8615286" cy="35.019032" cx="25.028856" id="circle18918" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.77230573;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 14.033151,11.143066 c -2.991524,0.04788 -2.987567,5.149889 -5.1369523,3.068679 C 6.7468135,12.130536 11.846048,11.970128 11.797847,8.978679 11.749648,5.9871526 6.6478916,5.9910914 8.7291119,3.8417645 10.810331,1.6923604 10.970738,6.7915863 13.962262,6.7433944 c 2.991447,-0.047883 2.987489,-5.1499664 5.136875,-3.0687569 2.149385,2.0812096 -2.949849,2.2416175 -2.901649,5.2331438 0.0482,2.9914487 5.149956,2.9875107 3.068736,5.1369147 -2.08122,2.149404 -2.241626,-2.949822 -5.233073,-2.90163 z" id="path18920" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.77230573;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 34.395788,8.5437936 c 0.110845,-2.9899045 -4.983911,-3.257045 -2.791415,-5.2927658 2.192495,-2.0357979 2.081702,3.0648182 5.071522,3.175644 2.98982,0.1108259 3.257005,-4.9839207 5.292744,-2.7914219 2.035746,2.1924988 -3.064815,2.081673 -3.17566,5.0715774 -0.110843,2.9897497 4.983922,3.2568907 2.791418,5.2926887 -2.192496,2.035721 -2.081703,-3.064818 -5.071522,-3.175644 -2.98982,-0.110903 -3.257006,4.983921 -5.292745,2.791422 -2.035738,-2.192576 3.064815,-2.08175 3.175658,-5.0715004 z" id="path18922" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.77230573;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_BathroomSink</title></symbol><symbol id="cose_Dresser_short">
+    <rect y="6.5698748" x="1.25" height="26.640644" width="48.991524" id="rect19262" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19264" d="m 20.745766,6 0,-5 10,0 0,5" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Dresser_short</title></symbol><symbol id="cose_Freezer">
+    <rect style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.45196104;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8958-4" width="100.54967" height="99.854683" x="1.2259805" y="1.2259804" rx="5" ry="5"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8964-3" width="7.3386035" height="8.47931" x="40.17038" y="100.71487" rx="2" ry="2"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 1.9704181,89.99312 99.2176519,0" id="path8966-6"/>
+    <path id="path8997" d="m 53.341938,91.11592 0,9.4488" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8964-3-0" width="7.3386035" height="8.47931" x="59.645111" y="100.71487" rx="2" ry="2"/>
+  <title>cose_Freezer</title></symbol><symbol id="cose_Toilet">
+    <path id="path18926" d="m 18.584525,17.1932 0.031,4.8649 c -6.7252,4.3191 -11.0617004,13.9803 -11.0617004,24.6441 0,14.8862 8.3239004,26.9539 18.5920004,26.9539 10.2681,0 18.592,-12.0677 18.592,-26.9539 l 0,0 c 0,-10.6662 -4.3385,-20.3291 -11.0659,-24.6468 l -0.1092,-5.3676" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <ellipse ry="21.931906" rx="15.047882" cy="47.030247" cx="26.14624" id="ellipse18928" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="3.6701884" rx="2.9875472" y="1.2499721" x="1.25" height="15.292451" width="49.79245" id="rect18930" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <ellipse ry="6.5563869" rx="4.9313869" cy="41.771214" cx="26.14624" id="ellipse18932" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Toilet</title></symbol><symbol id="cose_OfficeChair">
+    <circle r="22.5" cy="28.623501" cx="30.92157" id="circle18852" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="4.5985098" rx="3.9571099" y="19.028164" x="1.25" height="20" width="10" id="rect18854" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="4.5985098" rx="3.9571099" y="19.028164" x="50.568909" height="20" width="10" id="rect18856" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <ellipse ry="5" rx="25" cy="6.2499647" cx="30.92157" id="ellipse18858" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_OfficeChair</title></symbol><symbol id="cose_Desk">
+    <rect ry="4.5985107" rx="3.9571111" y="1.2500002" x="1.7668648" height="73.576172" width="159.86728" id="rect18860" style="opacity:1;fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(0.92068724,0.39030116,-0.39030116,0.92068724,0,0)" y="-33.830765" x="122.15001" height="20" width="12.36068" id="rect18862" style="opacity:1;fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(0.97317869,0.23005051,-0.23005051,0.97317869,0,0)" y="-15.184784" x="130.49585" height="20" width="12.36068" id="rect18864" style="opacity:1;fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <ellipse ry="5.2609196" rx="3.3408344" cy="21.067017" cx="93.522842" id="ellipse18866" style="opacity:1;fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="16.276794" x="46.227497" height="9.5803452" width="35.590752" id="rect18868" style="opacity:1;fill:#fffeff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="1" rx="1" y="55.396851" x="19.022846" height="7.5" width="90" id="rect18870" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Desk</title></symbol><symbol id="cose_Sofa">
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19154" width="53.555603" height="73.264992" x="29.437546" y="21.990725" rx="8" ry="8"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19156" width="59.348953" height="73.123695" x="86.252434" y="22.061464" rx="8.8653965" ry="7.9845719"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19158" width="53.555603" height="73.264992" x="148.86067" y="22.990725" rx="8" ry="8"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19160" width="32.106339" height="68.065727" x="1.25" y="24.590334" rx="12" ry="12"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19162" width="32.106339" height="68.065727" x="197.49747" y="24.590334" rx="12" ry="12"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19164" width="228.26801" height="27.359394" x="1.6174927" y="1.2500027" rx="10" ry="10"/>
+  <title>cose_Sofa</title></symbol><symbol id="cose_Loveseat">
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19168" width="53.555603" height="73.264992" x="29.841125" y="22.118961" rx="8" ry="8"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19170" width="53.555603" height="73.264992" x="86.469589" y="22.208256" rx="8" ry="8"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19172" width="32.106339" height="68.065727" x="4.6535797" y="24.718571" rx="12" ry="12"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19174" width="32.106339" height="68.065727" x="134.90105" y="24.718571" rx="12" ry="12"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19176" width="168.1673" height="27.615828" x="1.25" y="1.2500035" rx="8" ry="8"/>
+  <title>cose_Loveseat</title></symbol><symbol id="cose_DoubleBed">
+    <rect ry="8" rx="8" y="1.25" x="1.25" height="200" width="150" id="rect19198" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="1.25" x="1.25" height="50" width="150" id="rect19200" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <g transform="matrix(-0.42435786,1.1757637,1.1757637,0.42435786,16.5573,17.54574)" id="g19202" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path id="path19204" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0,0 13.031,4.725 c 2.819,1.025 4.278,4.148 3.255,6.967 L 6.109,39.735 c -1.024,2.819 -4.144,4.282 -6.966,3.262 l -13.031,-4.73 c -2.819,-1.027 -4.278,-4.143 -3.255,-6.968 L -6.966,3.256 C -5.942,0.437 -2.822,-1.02 0,0"/>
+    </g>
+    <g transform="matrix(-0.42435786,1.1757637,1.1757637,0.42435786,84.5573,17.54574)" id="g19206" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path id="path19208" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0,0 13.031,4.725 c 2.819,1.025 4.278,4.148 3.255,6.967 L 6.109,39.735 c -1.024,2.819 -4.144,4.282 -6.966,3.262 l -13.031,-4.73 c -2.819,-1.027 -4.278,-4.143 -3.255,-6.968 L -6.966,3.256 C -5.942,0.437 -2.822,-1.02 0,0"/>
+    </g>
+  <title>cose_DoubleBed</title></symbol><symbol id="cose_SingleBed">
+    <rect ry="8" rx="8" y="1.42908" x="1.4291077" height="200" width="100" id="rect19188" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="1.2500029" x="1.25" height="50.358234" width="100.35824" id="rect19190" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <g transform="matrix(-0.42435786,1.1757637,1.1757637,0.42435786,26.736412,17.72483)" id="g19192" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path id="path19194" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0,0 13.031,4.725 c 2.819,1.025 4.278,4.148 3.255,6.967 L 6.109,39.735 c -1.024,2.819 -4.144,4.282 -6.966,3.262 l -13.031,-4.73 c -2.819,-1.027 -4.278,-4.143 -3.255,-6.968 L -6.966,3.256 C -5.942,0.437 -2.822,-1.02 0,0"/>
+    </g>
+  <title>cose_SingleBed</title></symbol><symbol id="cose_CoffeeTable">
+    <ellipse ry="77.5" rx="38.75" cy="78.75" cx="40" id="ellipse19212" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(0.54772612,0.8366577,-0.8366577,0.54772612,0,0)" y="-25.224302" x="42.133537" height="30" width="20" id="rect19214" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(0.36819286,0.92974944,-0.92974944,0.36819286,0,0)" y="-32.426804" x="49.797417" height="30" width="20" id="rect19216" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect transform="matrix(0.12865171,0.99168984,-0.99168984,0.12865171,0,0)" y="-45.324017" x="54.11937" height="30" width="20" id="rect19218" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_CoffeeTable</title></symbol><symbol id="cose_ArmChair">
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19180" width="53.555603" height="73.264992" x="29.986359" y="22.264154" rx="8" ry="8"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19182" width="32.106339" height="68.065727" x="2.7988129" y="24.863764" rx="12" ry="12"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19184" width="32.106339" height="68.065727" x="79.04628" y="24.863764" rx="12" ry="12"/>
+    <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19186" width="111.67204" height="27.906288" x="1.25" y="1.2499952" rx="8" ry="8"/>
+  <title>cose_ArmChair</title></symbol><symbol id="cose_Refrigerator">
+    <rect style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.45196104;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8958" width="100.54967" height="99.854683" x="1.2259805" y="1.225976" rx="5" ry="5"/>
+    <rect style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect8964" width="7.3386035" height="8.47931" x="88.17038" y="100.64602" rx="2" ry="2"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 1.9704181,89.99319 99.2176519,0" id="path8966"/>
+  <title>cose_Refrigerator</title></symbol><symbol id="cose_Television">
+    <ellipse ry="10.815595" rx="17.5" cy="12.065616" cx="76.25" id="ellipse18936" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="1" rx="1" y="7.3781152" x="1.25" height="9.375" width="150" id="rect18938" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Television</title></symbol><symbol id="cose_Bathtub">
+    <rect ry="15.92169" rx="15.92169" y="1.273734" x="1.2737352" height="183.05446" width="86.354942" id="rect18876" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.54747033;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="14.01923" rx="14.01923" y="12.210196" x="6.4329438" height="161.18153" width="76.036507" id="rect18878" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.2430768;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <g transform="matrix(0.93461531,0,0,-0.93461531,44.449804,29.21673)" id="g18880" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <path id="path18882" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1" d="m 0,0 c 3.993,0 7.232,-3.243 7.232,-7.232 0,-3.991 -3.239,-7.233 -7.232,-7.233 -3.99,0 -7.229,3.242 -7.229,7.233 C -7.229,-3.243 -3.99,0 0,0"/>
+    </g>
+    <circle style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.80731213;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle18884" cx="44.38509" cy="143.92491" r="6.7276001"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.9815383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 44.56435,174.41836 -0.226289,-31.5045" id="path18886"/>
+    <path d="m 32.919487,179.13376 c -2.04428,-2.052 -5.596471,1.3798 -5.590971,-1.5167 0.0055,-2.8965 3.54463,0.5487 5.59667,-1.4955 2.052039,-2.0443 -1.379753,-5.5965 1.516762,-5.591 2.896521,0.01 -0.548764,3.5447 1.495517,5.5967 2.044228,2.052 5.596424,-1.3798 5.590919,1.5167 -0.0055,2.8966 -3.544631,-0.5487 -5.59667,1.4955 -2.052039,2.0443 1.379753,5.5965 -1.516763,5.591 -2.896515,-0.01 0.548765,-3.5446 -1.495464,-5.5967 z" id="path18888" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 54.349877,179.13376 c -2.04428,-2.052 -5.596471,1.3798 -5.590971,-1.5167 0.0055,-2.8965 3.54463,0.5487 5.59667,-1.4955 2.052039,-2.0443 -1.379753,-5.5965 1.516762,-5.591 2.896521,0.01 -0.548764,3.5447 1.495517,5.5967 2.044228,2.052 5.596424,-1.3798 5.590919,1.5167 -0.0055,2.8966 -3.544631,-0.5487 -5.59667,1.4955 -2.052039,2.0443 1.379753,5.5965 -1.516763,5.591 -2.896515,-0.01 0.548765,-3.5446 -1.495464,-5.5967 z" id="path18890" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Bathtub</title></symbol><symbol id="g18007">
+    <use height="100%" width="100%" id="g17983-1" transform="matrix(1, 0, 0, 1, 0, 0)" href="#g17983"/>
+  <title>g18007</title></symbol><symbol id="g18012">
+    <g id="use18010" transform="matrix(1, 0, 0, 1, 148.00555419921875, -222.56475830078125)">
+      <use height="100%" width="100%" transform="matrix(1, 0, 0, 1, 0, 0)" href="#g17983" id="g17983-2"/>
+    </g>
+  <title>g18012</title></symbol><symbol id="cose_KitchenSink">
+    <rect ry="2.6161244" rx="2.3070443" y="1.0236369" x="1.0236369" height="60.111988" width="99.586433" id="rect18894" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.04727387;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="0.86669773" rx="1.3907596" y="17.85951" x="7.3554006" height="39.158188" width="43.509094" id="rect18896" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.87018192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 15.962104,12.338983 c -3.370647,0.05395 -3.366189,5.802547 -5.787971,3.457581 -2.4217818,-2.344966 3.32369,-2.525703 3.269381,-5.8962659 C 13.389206,6.5296483 7.6408927,6.5340862 9.9858709,4.1123699 12.330848,1.6905666 12.511584,7.4360298 15.882231,7.3817304 c 3.37056,-0.053951 3.366101,-5.8026341 5.787883,-3.4576678 2.421782,2.3449662 -3.32369,2.525703 -3.269381,5.8963528 0.05431,3.3705626 5.802622,3.3661246 3.457643,5.7879276 -2.344977,2.421804 -2.525712,-3.323746 -5.896272,-3.26936 z" id="path18898" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.87018192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="M 38.905364,9.4102987 C 39.030257,6.0414762 33.28983,5.7404803 35.760186,3.4467678 c 2.470356,-2.2937996 2.345521,3.4532299 5.714249,3.578101 3.368726,0.1248711 3.669773,-5.615545 5.963505,-3.1451855 2.293741,2.4703594 -3.453225,2.3454883 -3.578118,5.7143108 -0.12489,3.3686479 5.615546,3.6696439 3.145181,5.9634439 -2.470356,2.293712 -2.345522,-3.45323 -5.714249,-3.578101 -3.368726,-0.124958 -3.669774,5.615545 -5.963506,3.145098 -2.293733,-2.470359 3.453226,-2.345488 3.578116,-5.7141363 z" id="path18900" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.87018192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect rx="0.65263641" ry="0.65263641" y="15.705832" x="27.472408" height="21.386898" width="3.2751555" id="rect18902" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.17145991;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect ry="0.86669773" rx="1.3907596" y="17.85951" x="50.973267" height="39.158188" width="43.509094" id="rect18904" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.87018192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="4.3509097" cy="37.438602" cx="72.727814" id="circle18906" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.87018192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="4.3509097" cy="37.438602" cx="29.109945" id="circle18908" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.87018192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_KitchenSink</title></symbol><symbol id="cose_Dresser_long">
+    <rect y="6.8640318" x="1.25" height="26.052347" width="100.55235" id="rect19230" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19232" d="m 22.735887,6 0,-5 10,0 0,5" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path19234" d="m 70.316457,6.2652 0,-5 10,0 0,5" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Dresser_long</title></symbol><symbol id="cose_Nightstand">
+    <rect ry="1.6963549" rx="1.2677835" y="1.249975" x="1.25" height="50.890648" width="38.033504" id="rect19222" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path d="m 28.327834,26.048 -0.9606,2.3184 -2.50955,2e-4 -1.77471,1.7744 -2.31862,-0.9601 -2.31862,0.9601 -1.77471,-1.7744 -2.50955,-2e-4 -0.9606,-2.3184 -2.31842,-0.9606 -2.6e-4,-2.5096 -1.7743404,-1.7747 0.9601204,-2.3186 -0.9601204,-2.3186 1.7743404,-1.7747 2.6e-4,-2.5096 2.31842,-0.9606 0.9606,-2.3184 2.50955,-3e-4 1.77471,-1.7743 2.31862,0.9601 2.31862,-0.9601 1.77471,1.7743 2.50955,3e-4 0.9606,2.3184 2.31842,0.9606 2.7e-4,2.5096 1.77433,1.7747 -0.96012,2.3186 0.96012,2.3186 -1.77433,1.7747 -2.7e-4,2.5096 z" id="path19226" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <circle r="2.506186" cy="18.484472" cx="20.764355" id="circle19228" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Nightstand</title></symbol><symbol id="placesetting">
+    <circle r="10" cy="196.15656" cx="134.01733" id="circle19376" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <g transform="translate(-903.78985,-347.97367)" id="g19378">
+      <ellipse style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="ellipse19380" cx="1055" cy="540.01843" rx="1.545085" ry="2.5"/>
+      <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.92897689px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1055,542.36215 0,8.62998" id="path19382"/>
+    </g>
+    <g transform="translate(-905.17943,-348.91017)" id="g19384">
+      <path id="path19386" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 1023.7522,537.77142 0,4.37569 0.8319,0 m 0,-4.37569 0,4.37569 0.8319,0 m 0,-4.37569 0,4.37569 0.8319,0 0,-4.37569"/>
+      <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 1025,552.36215 0,-10" id="path19388"/>
+    </g>
+    <path id="path19390" d="m 147.2162,188.65661 0,15" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <title>placesetting</title></symbol><symbol id="cose_Table_square">
+    <g transform="matrix(1.2935829,0,0,0.80761174,-0.03498096,-0.02184283)" id="cose_Table_square_transform">
+      <rect y="1.2500043" x="1.25" height="161.80341" width="100" id="rect19358-3" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.44591618;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+      <rect y="6.4146919" x="5.9784608" height="148.5491" width="90.543106" id="rect19360-7" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.96893632;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    </g>
+  <title>cose_Table_square</title></symbol><symbol id="cose_Table_round">
+    <g style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.25,0,0,-1.25,213.33089,1.9479526)" id="g19254">
+      <path id="path19256" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0,0 c 35.738,-8.04 58.22,-43.57 50.184,-79.309 -8.04,-35.738 -43.567,-58.221 -79.309,-50.185 -35.738,8.04 -58.22,43.568 -50.184,79.309 C -71.269,-14.447 -35.742,8.035 0,0"/>
+    </g>
+    <path d="m 233.02509,14.147713 c 37.93802,20.92022 51.75236,68.69007 30.83635,106.630537 -20.92022,37.938 -68.687,51.7545 -106.63088,30.8375 C 119.29254,130.69555 105.47755,82.927943 126.39421,44.985203 147.31443,7.0471826 195.08087,-6.7681474 233.02509,14.147713" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.18270063;stroke-opacity:1" id="path19260"/>
+  <title>cose_Table_round</title></symbol><symbol id="cose_Table_rect">
+    <rect y="1.2500043" x="1.25" height="161.80341" width="100" id="rect19358" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="6.4181561" x="5.9821777" height="151.4671" width="90.535675" id="rect19360" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_Table_rect</title></symbol><symbol id="placesetting_used">
+    <circle r="10" cy="196.15656" cx="134.01733" id="circle16344" style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <g style="fill:none;stroke:#7d7d7d;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="matrix(0.52889761,-0.84868564,0.84868564,0.52889761,-879.05725,810.03136)" id="g16346">
+      <ellipse style="opacity:1;fill:none;fill-opacity:1;stroke:#7d7d7d;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="ellipse16348" cx="1055" cy="540.01843" rx="1.545085" ry="2.5"/>
+      <path style="fill:none;fill-rule:evenodd;stroke:#7d7d7d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 1055,542.36215 0,8.62998" id="path16350"/>
+    </g>
+    <g style="fill:none;stroke:#7d7d7d;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="matrix(0.89597278,0.44410898,-0.44410898,0.89597278,-549.51397,-741.75082)" id="g16352">
+      <path id="path16354" style="fill:none;fill-rule:evenodd;stroke:#7d7d7d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 1023.7522,537.77142 0,4.37569 0.8319,0 m 0,-4.37569 0,4.37569 0.8319,0 m 0,-4.37569 0,4.37569 0.8319,0 0,-4.37569"/>
+      <path style="fill:none;fill-rule:evenodd;stroke:#7d7d7d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 1025,552.36215 0,-10" id="path16356"/>
+    </g>
+    <path id="path16358" d="m 137.42932,195.64906 11.18794,9.99148" style="fill:none;fill-rule:evenodd;stroke:#7d7d7d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>placesetting_used</title></symbol><symbol id="cose_Wardrobe">
+    <path style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 65.19685,51.91969 33.897637,64.085044 0.45217641,52.982682 l 0,-52.44839041 135.63087359,0 0,52.44839041 L 107.3622,64.085044 76.771653,52.155911" id="rect14309"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0,22.55907 135.35433,0" id="path14776"/>
+  <title>cose_Wardrobe</title></symbol><symbol id="cose_BathroomCabinet">
+    <path id="cose_BathroomCabinet_outline" d="m 57.939725,22.172606 -56.3385814,-5.07874 0,-15.5905517 56.3385814,0 0,13.2520887" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <title>cose_BathroomCabinet</title></symbol><symbol id="cose_Shower">
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0.09960937,0.09960937 0,90.86718763 90.86718763,0 0,-2.751953 -88.1152345,0 0,-85.3632815 88.1152345,0 0,-2.75195313 -90.86718763,0 z" id="rect9098"/>
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.23086387;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 0.11543193,0.11543193 16.63310507,0 C 10.82627,6.0376992 7.103701,9.7602679 0.11543193,16.748537 Z" id="rect10038"/>
+    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 42.802734,0.13085938 0,12.16910662 -0.621093,0.354331 c -1.564609,0.892603 -2,0.892 -2,2 l 0,0.283203 c 0.557578,0.557578 2.506744,0.555535 3.601562,0.564453 1.335749,0.03038 3.025598,0.01347 3.603516,-0.564453 l 0,-0.283203 c 0,-1.108 -0.435388,-1.107397 -2,-2 l -0.621094,-0.354331 0,-12.16910662 z" id="rect11450"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.1116215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 90.863221,0.19922003 0,49.80508597" id="path14747"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.03711987px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 88.988221,44.948142 0,43.352867" id="path14747-2"/>
+  <title>cose_Shower</title></symbol><symbol id="cose_ExteriorDoor">
+    <rect rx="0" y="95.243507" x="2.8566284" height="2.8769078" width="11.026686" id="rect8328" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7337479;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect ry="0" rx="1.909255" y="1.5124912" x="6.6600227" height="108.97503" width="4.3192983" id="rect8322" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.8651278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect ry="1.0229895" rx="1.1501706" y="91.755684" x="0.82565284" height="9.852562" width="2.4242473" id="rect8345" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.47940493;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect ry="1.0229895" rx="1.1501706" y="91.755684" x="14.168129" height="9.852562" width="2.4242473" id="rect8345-3" style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.47940493;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <title>cose_ExteriorDoor</title></symbol><symbol id="cose_InteriorDoor">
+    <rect rx="1.90926" y="0.625" x="0.625" height="107.87437" width="4.4512939" id="rect8368" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <title>cose_InteriorDoor</title></symbol><symbol id="cose_Stairs">
+    <rect y="0.39680439" x="0.39680439" height="24.45639" width="89.767868" id="rect13047" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79360878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect y="25.052073" x="0.39680439" height="24.45639" width="89.767868" id="rect13047-4" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79360878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect y="49.707245" x="0.39680439" height="24.45639" width="89.767868" id="rect13047-2" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79360878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect y="74.362534" x="0.39680439" height="24.45639" width="89.767868" id="rect13047-8" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79360878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+    <rect y="99.017723" x="0.39680439" height="24.45639" width="89.767868" id="rect13047-9" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79360878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <title>cose_Stairs</title></symbol><symbol id="cose_KitchenCabinet">
+  <path d="M 3.025 3.286 L 85.971 3.286 L 85.971 16.641 L 80.549 16.641 C 80.751 17.563 80.551 18.566 79.915 19.361 C 78.798 20.757 76.76 20.984 75.364 19.867 C 74.368 19.07 73.968 17.807 74.224 16.641 L 3.025 16.641 Z" style="stroke: rgb(0, 0, 0); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; fill: rgb(255, 255, 255);"/>
+  <title>cose_KitchenCabinet</title></symbol></defs>
+  <use id="OfficeChair-1" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 389.904296875, 1757.5511474609375)" href="#cose_OfficeChair"/>
+  <use id="Desk-1" width="100%" height="100%" transform="matrix(0.9572153687477112, 0, 0, 1.1565934419631958, 334.7098388671875, 1789.2923583984375)" href="#cose_Desk"/>
+  <use id="InteriorDoor-1" width="100%" height="100%" transform="matrix(0.7090444564819336, -0.48802465200424194, 0.4093669056892395, 0.8452834486961365, 386.6390686035156, 1136.8929443359375)" href="#cose_InteriorDoor"/>
+  <use id="InteriorDoor-2" width="100%" height="100%" transform="matrix(0.369854211807251, -1.3803143501281738, 0.9694101214408875, 0.25975263118743896, 404.11505126953125, 1353.2657470703125)" href="#cose_InteriorDoor"/>
+  <use id="InteriorDoor-3" width="100%" height="100%" transform="matrix(0.9282419681549072, -0.5359207391738892, 0.5359207391738892, 0.9282419681549072, 567.2278442382812, 258.94049072265625)" href="#cose_InteriorDoor"/>
+  <use id="InteriorDoor-4" width="100%" height="100%" transform="matrix(-0.28383392095565796, -1.0592823028564453, 1.0592823028564453, -0.28383392095565796, 572.91943359375, 739.2107543945312)" href="#cose_InteriorDoor"/>
+  <use id="ExteriorDoor-1" width="100%" height="100%" transform="matrix(0, 1.2779380083084106, -0.9963907599449158, 0, 151.69151306152344, 481.49322509765625)" href="#cose_ExteriorDoor"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect20041" width="79.903069" height="472.34732" x="716.85431" y="472.34668"/>
+  <g style="fill:#000000;stroke:none" id="g9556" transform="matrix(0.07153114,0,0,-0.07156212,-7.1530985,1899.4055)">
+    <path d="m 5925,20228 c -126,1 -224,-2 -217,-7 7,-4 70,-8 140,-9 70,-1 168,2 217,7 75,7 51,8 -140,9 z" id="path9558"/>
+  </g>
+  <path style="fill:#000000;stroke:none" d="m 1022.8953,257.05485 0,193.79022 -1.5737,0.42937 c -0.9299,0.21469 -8.9414,0.42937 -17.8828,0.42937 -14.02006,0 -16.30905,0.14313 -16.30905,1.07343 -97.21454,-0.45928 -186.46423,1.07344 -288.2705,1.07344 l 0,142.0508 c 0,125.80621 0.0123,139.75274 0.0123,141.91821 6.64452,0 14.47854,0.16831 18.48507,0.16831 0,-2.87264 0.10072,-4.401 0.10072,-29.37618 0,-24.97518 -0.44793,-27.24176 -0.44793,-29.96857 -0.36302,0 -1.27189,-0.0259 -1.66717,0.08 0,3.60773 -0.0308,7.60877 -0.0308,27.7417 0,23.043 -0.10072,26.3896 -0.10072,28.5993 -5.73458,0 -6.874,-0.11758 -14.20551,-0.11758 l 0,-139.0452 0,-139.04519 2.21746,-0.42938 c 113.44388,-0.63654 199.85736,-0.42937 321.67553,-0.42937 l 0.4292,-1.64593 c 0.2146,-0.85874 0.4292,-89.66734 0.4292,-197.29676" id="path26819"/>
+  <use id="Ottoman-1" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 776.2279052734375, 1535.53857421875)" href="#cose_Ottoman"/>
+  <use id="Sofa-1" width="100%" height="100%" transform="matrix(0, -1.045889139175415, 1.045889139175415, 0, 606.9619140625, 1708.6431884765625)" href="#cose_Sofa"/>
+  <use id="Sofa-2" width="100%" height="100%" transform="matrix(0, 1.045889139175415, -1.045889139175415, 0, 1009.3464965820312, 1475.0328369140625)" href="#cose_Sofa"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect10333" width="36.769554" height="85.559921" x="611.87408" y="1374.5795"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect10575" width="94.752312" height="35.355339" x="915.92999" y="1429.7338"/>
+  <use id="KitchenChair-1" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 768.1845703125, 1119.6494140625)" href="#cose_KitchenChair"/>
+  <use id="KitchenChair-2" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 838.7495727539062, 1120.4361572265625)" href="#cose_KitchenChair"/>
+  <use id="KitchenChair-3" width="100%" height="100%" transform="matrix(-1, 0, 0, -1, 890.3613891601562, 1292.9560546875)" href="#cose_KitchenChair"/>
+  <use id="KitchenChair-4" width="100%" height="100%" transform="matrix(0, -1, 1, 0, 697.84228515625, 1233.4317626953125)" href="#cose_KitchenChair"/>
+  <use id="KitchenChair-5" width="100%" height="100%" transform="matrix(-1, 0, 0, -1, 814.7738037109375, 1292.8260498046875)" href="#cose_KitchenChair"/>
+  <use id="KitchenChair-6" width="100%" height="100%" transform="matrix(0, 1, -1, 0, 950.9498901367188, 1180.1650390625)" href="#cose_KitchenChair"/>
+  <use id="Table-1" width="100%" height="100%" transform="matrix(0, -1.17936372756958, 1.17936372756958, 0, 730.7691040039062, 1263.1949462890625)" href="#cose_Table_rect"/>
+  <use id="ArmChair-1" width="100%" height="100%" transform="matrix(0, 0.9121711850166321, -0.9121711850166321, 0, 581.2034301757812, 1527.65185546875)" href="#cose_ArmChair"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 586.8138,1637.7379 -63,0 0,100 -36.5,53 -151.5,0 0,86.75 250.5,0 z" id="path13369"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.13531303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect14599" width="55.114685" height="224.99841" x="188.79935" y="1498.0544"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect14841" width="69.5" height="23" x="508.31378" y="1497.7379"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 183.8138,1406.2379 188.5,0" id="path15083"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 373.8138,1460.7379 -101,0" id="path15325"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 283.3138,1452.7379 -100.5,0" id="path15567"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 389.3138,1136.7379 59.9808,16.0718 57.7176,-15.4654" id="path16293"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 389.3138,893.73793 72.1769,-19.33975" id="path16535"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 552.3138,894.73793 480.8869,875.59914" id="path16777"/>
+  <use id="BathroomSink-1" width="100%" height="100%" transform="matrix(-1, 0, 0, -1, 367.8843994140625, 1343.5926513671875)" href="#cose_BathroomSink"/>
+  <use id="Toilet-1" width="100%" height="100%" transform="matrix(-1.5206516981124878, 0, 0, -1.5206516981124878, 279.4599914550781, 1348.1910400390625)" href="#cose_Toilet"/>
+  <use id="Bathtub-1" width="100%" height="100%" transform="matrix(0, 1, -1, 0, 371.3039855957031, 937.2867431640625)" href="#cose_Bathtub"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19315" width="48" height="146" x="198.3138" y="509.73792"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19557" width="132" height="59" x="28.313795" y="824.73792"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect19799" width="72.124893" height="189.50462" x="948.24237" y="578.44824"/>
+  <path style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 698.8482,739.59752 0,248.19449 127.2792,0 0,-41.7193 -84.8528,0 0,-206.21002 z" id="path20523"/>
+  <use id="CookingRange-1" width="100%" height="100%" transform="matrix(0.8679031729698181, 0, 0, 0.8679031729698181, 717.6091918945312, 583.0670776367188)" href="#cose_CookingRange"/>
+  <use id="Freezer-1" width="100%" height="100%" transform="matrix(0, 0.9290257096290588, -0.9290257096290588, 0, 1021.9509887695312, 483.3257751464844)" href="#cose_Freezer"/>
+  <use id="ArmChair-2" width="100%" height="100%" transform="matrix(0.6190840005874634, 0.35742834210395813, -0.35742834210395813, 0.6190840005874634, 951.8560791015625, 60.752418518066406)" href="#cose_ArmChair"/>
+  <use id="Dresser-1" width="100%" height="100%" transform="matrix(0, -1.315634846687317, 1.315634846687317, 0, 976.4511108398438, 446.05560302734375)" href="#cose_Dresser_long"/>
+  <use id="DoubleBed-1" width="100%" height="100%" transform="matrix(1.097372055053711, 0, 0, 1.097372055053711, 701.7941284179688, 29.52857780456543)" href="#cose_DoubleBed"/>
+  <use id="Nightstand-1" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 873.0358276367188, 29.837047576904297)" href="#cose_Nightstand"/>
+  <use id="Nightstand-2" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 658.0753173828125, 29.12993812561035)" href="#cose_Nightstand"/>
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect23374" width="154.85638" height="67.175148" x="393.37802" y="384.27637"/>
+  <use id="BathroomSink-2" width="100%" height="100%" transform="matrix(-0.9811638593673706, 0, 0, -0.9811638593673706, 485.0931701660156, 445.3459777832031)" href="#cose_BathroomSink"/>
+  <use id="Toilet-2" width="100%" height="100%" transform="matrix(-1.4955949783325195, 0, 0, -1.4955949783325195, 374.97650146484375, 440.8213195800781)" href="#cose_Toilet"/>
+  <use id="Shower-1" width="100%" height="100%" transform="matrix(0, 1.1189109086990356, -2.0118393898010254, 0, 458.0133056640625, 151.228271484375)" href="#cose_Shower"/>
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 313.8138,476.73793 0,196.5 237.5,0" id="path25425"/>
+  <use id="KitchenSink-1" width="100%" height="100%" transform="matrix(0, -0.8407397866249084, 0.8407397866249084, 0, 743.909423828125, 834.3042602539062)" href="#cose_KitchenSink"/>
+  <use id="Television-1" width="100%" height="100%" transform="matrix(0, -1, 1, 0, 200.7735137939453, 1668.59033203125)" href="#cose_Television"/>
+  <g id="walls">
+    <path style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 781.12006,1873.6431 -175.25129,0 c 0,-132.4491 -1.42374,-391.8088 -1.42374,-533.6831 -27.89434,0 -46.46541,-0.8786 -82.15645,-0.8749 -0.1,8.213 -0.11124,12.8639 -0.11124,21.4577 l 62.23209,0 c 0,75.7947 -1.43062,428.1242 -1.43062,515.3985 -133.84417,3.222 -284.2889,-1.5002 -399.1548,-1.5087 l 0.011,-1.6481 0,-209.6055 c 0,-209.1045 0,-209.6054 -1.43063,-209.6054 -1.43062,0 -1.43062,0.5009 -1.43062,210.5357 0,115.8591 0.21459,211.323 0.42919,212.2533 l 0.42918,1.5744 c 130.668,0 393.95122,-1.0735 404.72319,-1.0735 0,-0.5725 0.50072,-1.0734 1.07297,-1.0734 2.12343,-179.137 0.94198,-298.5945 0.92703,-519.9504 -18.76009,0 -32.64581,-0.3062 -61.37084,-0.3062 l 0,-12.1656 73.67707,0 c 0,82.5964 1.07297,422.624 1.07297,532.4222 0.57225,0 1.07297,0.5009 1.07297,1.0734 0,0.9303 20.4579,1.0735 179.90081,1.0735" id="path26829"/>
+    <path id="path26827" d="m 782.9083,1877.937 179.90082,0 c 0,-22.2598 0.42919,-57.7479 0.42919,-67.1969 l 0.50071,-2.2184 c 16.56812,0 21.42623,-0.2719 60.58688,-0.2719 -1.9715,-211.9865 1.0015,-431.3716 1.0015,-822.62091 l -0.4292,-2.21843 -38.19768,0 c -37.69691,0 -38.19763,0 -38.19763,-1.43124 0,-48.70217 -0.87575,-137.40957 0,-206.0989 l 38.19763,0 41.26018,-0.125 c 0.21,-107.26602 -1.3125,-188.81224 -1.3125,-304.60464 l -156.5434,-0.1251 -154.79338,0 c 0,80.30621 0.2917,228.90464 0.2917,268.98329 0,4.68458 1.51954,4.60308 1.51954,-0.38501 0.23991,-39.25464 0.33469,-189.09118 0.33469,-264.30455 82.96983,0 137.38335,-7.1e-4 194.5647,0 l 110.87325,0 c 0,98.74031 0,197.48062 0,296.22093 -14.727,0 -27.52918,0.0429 -39.5567,0.0462 l -37.48232,0 -1.64522,0 c 0,38.76763 0.48413,203.16035 0.48413,214.68636 13.851,0 28.00544,0.004 38.92953,0 13.97154,-0.12151 25.26878,0.0393 39.39558,0.47746 -0.018,36.49349 -4.5625,692.06329 -4.5625,817.47759 l -26.32087,0 -33.51527,0.1768 c 0,17.8059 -0.42733,45.5964 -0.42733,69.9478 -17.91691,0 -25.44892,-0.703 -177.07427,-0.7094" style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path26825" d="m 603.36519,1890.1024 c -277.40865,1.5312 -277.6659,2.2578 -434.90933,0 -0.9299,0 -1.07297,-55.2459 -1.21603,-491.4886 L 167.02524,907.1967 C 113.01934,907.02488 59.013277,906.93426 5.0072053,906.83889 l 0,-419.2109 1.5736851,-0.42938 c 0.9299048,-0.21468 7.3677076,-0.42937 14.3777596,-0.42937 l 12.661011,0 0,14.31243 c -6.165672,-0.0611 -13.395637,0.0927 -16.129195,0.0903 0.449347,133.48734 -0.879497,223.92038 -0.06759,391.14512 41.339085,0 225.969964,2.07001 371.277364,2.07001 0.21459,0.64406 0.42919,23.47237 0.42919,50.8091 l 0,49.66411 164.52162,0 c 0,-45.25932 -0.16761,-55.00386 -0.16761,-101.1557 1.8205,0 8.73196,-0.46251 14.00216,-0.46251 0.23034,45.90589 0.3253,84.1723 0.32861,121.2978 0,40.6 -0.71531,88.1787 -0.71531,119.1509 l -13.44785,0 0,-123.8025 -164.52162,0 0,123.8025 -12.1603,0 0,-216.69007 c -65.35159,-0.51677 -130.03407,-0.39118 -195.13695,0 l -0.42918,1.5028 0,433.30867 0.42918,1.5743 195.13695,0 0,-55.1028 c 0,-48.5191 1.07297,-52.7605 1.07297,-55.1028 l 12.16029,0 c 0,37.4806 1.07297,54.3873 1.07297,100.1869 2.68218,0.01 5.4629,-0.011 8.05682,-0.012 0,3.5565 -0.0836,6.6676 -0.0836,12.1339 -2.65786,0.04 -5.31486,0.044 -7.97322,0.044 l 0,100.187 -14.30623,0 c 0,-29.3405 0,-58.681 0,-88.0215 l -97.56847,0 -97.56848,0 -0.42918,1.646 c -0.2146,0.9303 -0.42919,19.7511 -0.42919,41.8638 0,39.717 0,40.2179 1.43062,40.2179 1.43063,0 1.43063,-0.5009 1.43063,-39.7169 l 0,-39.717 190.26236,-0.062 c 0,24.8855 0.36815,55.3607 0.36815,86.2233 l 0.50072,2.5762 18.45504,0 0,-100.187 c 3.90081,0 7.23233,0.1867 9.23162,0.1867 0.15521,-5.2528 0.28725,-16.3195 0.28725,-21.6225 -3.13911,0 -6.04614,-0.033 -8.01628,-0.033 0,-40.1396 -1.5026,-91.0287 -1.5026,-100.187 l -19.31341,0 0,54.7451 c 0,48.1613 0.052,53.12 0.052,56.6825 -3.89316,0 -30.95338,0.1583 -42.04081,0.1378 -44.63737,0 -75.27085,-0.01 -108.01202,0.071 -33.40505,0 -38.1261,-0.1431 -38.1261,-1.0734 0,-0.5725 -0.50072,-1.0734 -1.07297,-1.0734 0.0929,-107.2558 0.12015,-308.3461 -1.07293,-426.36712 l 1.64521,-0.42938 c 65.78842,-0.63537 115.89099,-0.42937 186.48168,-0.42937 0,120.29837 1.33344,183.89167 1.33344,217.47537 7.49919,0.2967 13.01875,-0.2082 20.60497,-0.2328 -0.46405,-55.3758 -0.47906,-61.7177 -0.47906,-126.3587 52.91442,0.1886 100.75002,0.1802 157.312,0.1802 0.0764,46.0447 0.0565,67.5588 0.0565,126.4848 l 19.31341,0 0,-124.1603 0,-124.16028 c -3.72279,0 -14.91366,0.30829 -18.24044,0.20939 0,1.68572 -1.07297,7.87713 -1.07297,50.95752 l 0,49.02006 -157.3685,0 0,-49.02006 c 0,-43.08039 -0.14307,-49.02005 -1.07297,-49.02005 -0.57225,0 -1.07297,-0.50093 -1.07297,-1.07343 C 246.58206,889.2046 56.780135,890.37972 21.459389,890.37972 l 0,-386.43545 8.226082,0 8.226081,0 c 0,-8.16601 0.130159,-15.66221 0.04156,-20.3327 -3.887858,0 -20.611821,-0.45599 -38.04645603,0.0301 0,202.01691 0.09338653,146.02379 0.09338653,425.12947 l 2.2174653,0.50094 c 57.3052592,0.63151 100.9660622,0.42937 162.3041622,0.42937 l 0,492.34745 0,492.3474 438.41435,0" style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path26821" d="m 1043.0651,259.31918 c -0.079,-159.976631 0.068,-258.51582742 -0.035,-259.10039268 l -0.4291,-2.21842572 -245.28043,-3.9e-4 c -217.52619,0 -245.28028,0.1431242 -245.28028,1.0734318 0,0.57249696 -0.50071,1.0734318 -1.07296,1.0734318 -0.92991,0 -1.07297,7.6571468 -1.07297,64.7637188 l 0,64.763716 -145.56587,0 -145.56587,0 0,176.40063 0,176.40062 c -36.47267,-0.009 -72.94537,0.009 -109.41803,0.0128 0,7.30106 -0.0246,13.16489 -0.0246,21.45586 35.76557,0 71.53114,0 107.29671,0 l 0,117.00407 c 0,103.55038 0.14306,117.00406 1.07296,117.00406 0.57225,0 1.07297,0.50094 1.07297,1.07343 0,0.93031 17.73972,1.07344 155.22257,1.07344 137.48285,0 155.22258,-0.14313 155.22258,-1.07344 0,-0.57249 0.50072,-1.07343 1.07296,-1.07343 0.92991,0 1.07297,-6.44059 1.07297,-53.67159 l 0,-53.67159 -9.6567,0 c -8.08302,0 -9.65671,0.14313 -9.65671,1.07343 -0.40797,15.54852 -0.003,11.97228 0,17.89053 0.0654,22.42421 -0.004,28.34211 0,41.43447 l 0,24.61737 -1.57368,0.42937 c -0.92991,0.21469 -62.08903,0.42938 -135.90917,0.42938 l -134.33548,0 0,-120.58218 0,-120.58217 135.90917,0 c 135.40845,0 135.90916,0 135.90916,1.43124 0,10.32623 0.0246,19.22034 0.0246,27.26923 3.88909,0 3.55194,-0.0756 10.70505,-0.0756 l 8.58374,0 0,-69.41526 0,-69.41525 c -4.47608,0 -16.56942,-0.71562 -20.6725,-0.71562 -0.44279,38.80012 -0.78684,50.91995 -0.78684,89.45265 l -134.8362,0 -134.8362,0 0,-303.42339 87.84024,0 c 48.28352,0 88.48402,0.21468 89.41393,0.42937 l 1.57368,0.42937 0,52.16879 c 0,45.87132 -0.18909,42.79962 -0.18909,54.55527 18.90918,0 50.95706,0.50848 67.2853,0.476 l 45.20768,0 0,-119.50874 0,-119.508742 199.21423,0 199.21422,0 0,21.468636 0,21.468636 2.36053,0.07156 c 1.21603,0 12.66101,0 25.25049,-0.07156 12.66105,-0.07156 23.81985,0.143124 24.89285,0.429372 l 1.8598,0.429373 0,193.790225" style="fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path26831" d="m 1042.9825,259.26729 0,1635.18441 -440.35751,-0.044" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <path id="path26831-3" d="m 1043.0239,254.97416 0,1635.18434 -440.35757,-0.044" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  </g>
+  <g id="sensors">
+    <g id="hh122_ma023" transform="translate(353.7038,1594.742)">
+      <use id="hh122_ma023_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_AreaMotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ma023_label">MA023</text>
+    </g>
+    <g id="hh122_t104" transform="translate(333.8961,1191.3563)">
+      <use id="hh122_t104_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_TemperatureSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_t104_label">T104</text>
+    </g>
+    <g id="hh122_t105" transform="translate(769.21375,624.90083)">
+      <use id="hh122_t105_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_TemperatureSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_t105_label">T105</text>
+    </g>
+    <g id="hh122_t102" transform="matrix(1, 0, 0, 1, 55.564583, 541.990784)">
+      <use id="hh122_t102_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_TemperatureSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_t102_label">T102</text>
+    </g>
+    <g id="hh122_t103" transform="matrix(1, 0, 0, 1, 421.950409, 277.114868)">
+      <use id="hh122_t103_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_TemperatureSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_t103_label">T103</text>
+    </g>
+    <g id="hh122_t101" transform="translate(523.21375,1820.975)">
+      <use id="hh122_t101_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_TemperatureSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_t101_label">T101</text>
+    </g>
+    <g id="hh122_t108" transform="translate(520.19876,1191.975)">
+      <use id="hh122_t108_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_TemperatureSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_t108_label">T108</text>
+    </g>
+    <g id="hh122_ls008" transform="translate(877.45672,222.72152)">
+      <use id="hh122_ls008_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls008_label">LS008</text>
+    </g>
+    <g id="hh122_ls001" transform="translate(36.5596,506.42233)">
+      <use id="hh122_ls001_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls001_label">LS001</text>
+    </g>
+    <g id="hh122_ls003" transform="translate(595.18899,681.83359)">
+      <use id="hh122_ls003_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls003_label">LS003</text>
+    </g>
+    <g id="hh122_ls002" transform="translate(252.9638,797.46768)">
+      <use id="hh122_ls002_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls002_label">LS002</text>
+    </g>
+    <g id="hh122_ls007" transform="translate(780.40979,158.85748)">
+      <use id="hh122_ls007_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls007_label">LS007</text>
+    </g>
+    <g id="hh122_ma005" transform="matrix(1, 0, 0, 1, 399.965607, 308.962128)">
+      <use id="hh122_ma005_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_AreaMotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ma005_label">MA005</text>
+    </g>
+    <g id="hh122_ls024" transform="translate(905.77719,475.13432)">
+      <use id="hh122_ls024_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls024_label">LS024</text>
+    </g>
+    <g id="hh122_ls023" transform="translate(372.0002,1627.0807)">
+      <use id="hh122_ls023_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls023_label">LS023</text>
+    </g>
+    <g id="hh122_ls022" transform="translate(281.1713,1777.2478)">
+      <use id="hh122_ls022_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls022_label">LS022</text>
+    </g>
+    <g id="hh122_ls021" transform="translate(696.72001,1708.2969)">
+      <use id="hh122_ls021_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls021_label">LS021</text>
+    </g>
+    <g id="hh122_ls020" transform="translate(857.04988,1667.6913)">
+      <use id="hh122_ls020_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls020_label">LS020</text>
+    </g>
+    <g id="hh122_ls011" transform="translate(860.0623,616.78616)">
+      <use id="hh122_ls011_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls011_label">LS011</text>
+    </g>
+    <g id="hh122_ls005" transform="matrix(1, 0, 0, 1, 418.278503, 342.496002)">
+      <use id="hh122_ls005_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls005_label">LS005</text>
+    </g>
+    <g id="hh122_ls004" transform="translate(593.98757,372.73874)">
+      <use id="hh122_ls004_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls004_label">LS004</text>
+    </g>
+    <g id="hh122_ls018" transform="translate(709.44888,1442.6913)">
+      <use id="hh122_ls018_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls018_label">LS018</text>
+    </g>
+    <g id="hh122_ls019" transform="translate(748.41314,1610.7388)">
+      <use id="hh122_ls019_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls019_label">LS019</text>
+    </g>
+    <g id="hh122_ls016" transform="translate(874.91108,988.73874)">
+      <use id="hh122_ls016_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls016_label">LS016</text>
+    </g>
+    <g id="hh122_ls017" transform="translate(816.74355,1403.0954)">
+      <use id="hh122_ls017_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls017_label">LS017</text>
+    </g>
+    <g id="hh122_ls014" transform="translate(423.11527,1366.3259)">
+      <use id="hh122_ls014_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls014_label">LS014</text>
+    </g>
+    <g id="hh122_ls006" transform="translate(631.65336,161.69132)">
+      <use id="hh122_ls006_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls006_label">LS006</text>
+    </g>
+    <g id="hh122_ls012" transform="translate(853.30572,538.69132)">
+      <use id="hh122_ls012_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls012_label">LS012</text>
+    </g>
+    <g id="hh122_ls013" transform="matrix(1, 0, 0, 1, 243.360291, 1253.113037)">
+      <use id="hh122_ls013_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls013_label">LS013</text>
+    </g>
+    <g id="hh122_ma011" transform="translate(842.33418,583.72659)">
+      <use id="hh122_ma011_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_AreaMotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ma011_label">MA011</text>
+    </g>
+    <g id="hh122_ma013" transform="matrix(1, 0, 0, 1, 266.07843, 1221.184082)">
+      <use id="hh122_ma013_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_AreaMotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ma013_label">MA013</text>
+    </g>
+    <g id="hh122_ma019" transform="translate(767.78294,1577.7266)">
+      <use id="hh122_ma019_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_AreaMotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ma019_label">MA019</text>
+    </g>
+    <g id="hh122_m008" transform="translate(858.23699,189.89482)">
+      <use id="hh122_m008_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m008_label">M008</text>
+    </g>
+    <g id="hh122_m009" transform="translate(624.70062,923.8007)">
+      <use id="hh122_m009_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m009_label">M009</text>
+    </g>
+    <g id="hh122_m001" transform="translate(57.2552,474.90121)">
+      <use id="hh122_m001_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m001_label">M001</text>
+    </g>
+    <g id="hh122_m002" transform="translate(234.8899,766.01284)">
+      <use id="hh122_m002_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m002_label">M002</text>
+    </g>
+    <g id="hh122_m003" transform="translate(613.83561,649.87481)">
+      <use id="hh122_m003_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m003_label">M003</text>
+    </g>
+    <g id="hh122_m004" transform="matrix(1, 0, 0, 1, 617.252258, 341.874817)">
+      <use id="hh122_m004_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m004_label">M004</text>
+    </g>
+    <g id="hh122_m006" transform="translate(651.70062,128.85093)">
+      <use id="hh122_m006_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m006_label">M006</text>
+    </g>
+    <g id="hh122_m007" transform="translate(761.425,126.87481)">
+      <use id="hh122_m007_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m007_label">M007</text>
+    </g>
+    <g id="hh122_m024" transform="translate(923.958,507.61219)">
+      <use id="hh122_m024_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m024_label">M024</text>
+    </g>
+    <g id="hh122_m022" transform="translate(263.1541,1746.0629)">
+      <use id="hh122_m022_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m022_label">M022</text>
+    </g>
+    <g id="hh122_m020" transform="translate(877.6601,1636.023)">
+      <use id="hh122_m020_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m020_label">M020</text>
+    </g>
+    <g id="hh122_m021" transform="translate(679.02655,1676.023)">
+      <use id="hh122_m021_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m021_label">M021</text>
+    </g>
+    <g id="hh122_ls015" transform="translate(634.16549,1115.881)">
+      <use id="hh122_ls015_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls015_label">LS015</text>
+    </g>
+    <g id="hh122_ls009" transform="translate(644.75407,955.88101)">
+      <use id="hh122_ls009_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls009_label">LS009</text>
+    </g>
+    <g id="hh122_ls010" transform="translate(835.33929,753.88101)">
+      <use id="hh122_ls010_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_PowerSwitchSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_ls010_label">LS010</text>
+    </g>
+    <g id="hh122_m018" transform="translate(691.77442,1411.023)">
+      <use id="hh122_m018_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m018_label">M018</text>
+    </g>
+    <g id="hh122_m017" transform="translate(835.93062,1371.9389)">
+      <use id="hh122_m017_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m017_label">M017</text>
+    </g>
+    <g id="hh122_m016" transform="translate(855.83561,957.02304)">
+      <use id="hh122_m016_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m016_label">M016</text>
+    </g>
+    <g id="hh122_m015" transform="translate(653.7681,1084.023)">
+      <use id="hh122_m015_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m015_label">M015</text>
+    </g>
+    <g id="hh122_m014" transform="matrix(1, 0, 0, 1, 401.374176, 1399.561279)">
+      <use id="hh122_m014_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m014_label">M014</text>
+    </g>
+    <g id="hh122_m012" transform="translate(833.425,506.02303)">
+      <use id="hh122_m012_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m012_label">M012</text>
+    </g>
+    <g id="hh122_m010" transform="translate(854.12588,722.02303)">
+      <use id="hh122_m010_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_MotionDetector"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_m010_label">M010</text>
+    </g>
+    <g id="hh122_d004" transform="translate(315.3625,1159.3293)">
+      <use id="hh122_d004_symbol" width="100%" height="100%" transform="matrix(1, 0, 0, 1, 15, 10)" href="#cose_ContactSensor"/>
+      <text space="preserve" style="font-style:normal;font-weight:bold;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="50" y="35" id="hh122_d004_label">D004</text>
+    </g>
+  </g>
+</svg>
+
+

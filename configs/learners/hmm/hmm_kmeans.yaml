@@ -1,0 +1,9 @@
+classifier:
+    seamr.learn.seq.HMMClassifier:
+        key: "hmm-kmeans"
+        seqlen: 20
+        seqstep: 10
+        clusterer:
+            sklearn.cluster.MiniBatchKMeans:
+                n_clusters: 128
+                batch_size: 500

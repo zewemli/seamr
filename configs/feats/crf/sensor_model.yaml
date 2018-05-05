@@ -1,0 +1,5 @@
+features:
+    seamr.features.seq.CRFFeatures:
+        crossEnv: false
+        with_exp: true
+        decay: 8.0

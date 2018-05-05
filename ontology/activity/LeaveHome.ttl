@@ -1,0 +1,14 @@
+@base <http://serc.wsu.edu/owl/activity/LeaveHome.ttl> .
+@prefix activity: <http://serc.wsu.edu/owl/activity.owl#> .
+@prefix cose: <http://serc.wsu.edu/owl/cose.owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<#inside>
+    a cose:ActivityComponent ;
+    activity:occursIn cose:Hallway .
+
+<#outside>
+    a cose:ActivityComponent ;
+    activity:occursAfter <#inside> ;
+    activity:involvesObject cose:ExteriorDoor .

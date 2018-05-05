@@ -1,0 +1,6 @@
+classifier:
+    seamr.learn.keyed.Classifier:
+        key: naivebayes
+        model:
+            sklearn.naive_bayes.MultinomialNB:
+                alpha: 1.0

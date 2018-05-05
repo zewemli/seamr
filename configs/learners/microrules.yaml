@@ -1,0 +1,6 @@
+features:
+    seamr.learn.microrules.Kernel:
+        rules: null
+classifier:
+    seamr.learn.microrules.Model:
+        sensors: null
